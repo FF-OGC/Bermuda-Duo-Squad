@@ -332,6 +332,9 @@ declare graph cjmdgndjlva_lpw1qpj8_gpvovb7kpcu {
     // bannedCombo
     v6NeUBnBs List<object>
 
+    // calculated
+    vlY9vyPHi bool
+
     // initGunCombo()
     func p_zH_v_qdr_vC5qa_PS_ () 
 

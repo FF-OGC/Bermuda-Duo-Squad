@@ -59,7 +59,7 @@
              "IntValue": 5
             },
             {
-             "IntValue": 3964
+             "IntValue": 1836
             }
            ]
           }
@@ -98,7 +98,7 @@
              "IntValue": 5
             },
             {
-             "IntValue": 1722
+             "IntValue": 3964
             }
            ]
           }
@@ -118,6 +118,45 @@
                {
                 "FuncValue": {
                  "ID": "2//6Gr0L}*G#!1GWy_l$4b^",
+                 "Name": "lcg",
+                 "Type": 2006,
+                 "Params": [
+                  {
+                   "StringValue": "[OTd,t^zPmXBD?+Y(3#quP1]Phase entity"
+                  }
+                 ]
+                }
+               },
+               {
+                "IntValue": -25000
+               }
+              ]
+             }
+            },
+            {
+             "IntValue": 5
+            },
+            {
+             "IntValue": 1722
+            }
+           ]
+          }
+         },
+         {
+          "FuncValue": {
+           "ID": "2//U]^zP1=72+ti=9s1s7^0",
+           "Name": "opc",
+           "Type": 1060,
+           "Params": [
+            {
+             "FuncValue": {
+              "ID": "2//sj(5r{-=cK}~pQ]Q,!}-",
+              "Name": "prg",
+              "Type": 2001,
+              "Params": [
+               {
+                "FuncValue": {
+                 "ID": "2//J);#OlA~V[7!;z7sx%E,",
                  "Name": "lcg",
                  "Type": 2006,
                  "Params": [
@@ -613,7 +652,17 @@
               "IntValue": 0
              }
             ]
-           },
+           }
+          ]
+         },
+         {
+          "ID": "2/clauseD_1/%]c.qRZFG;N~1;^DSJ,9",
+          "Name": "ife1clauseD_1",
+          "Type": 1011,
+          "Params": [
+           {}
+          ],
+          "SubCallerData": [
            {
             "ID": "2//Y~DyDkg^ZTc%w!x^RxZp",
             "Name": "a",
@@ -639,8 +688,8 @@
           ]
          },
          {
-          "ID": "2/clauseD_1/%]c.qRZFG;N~1;^DSJ,9",
-          "Name": "ife1clauseD_1",
+          "ID": "2/clauseD_2/%]c.qRZFG;N~1;^DSJ,9",
+          "Name": "ife1clauseD_2",
           "Type": 1011,
           "Params": [
            {}
@@ -700,8 +749,8 @@
           ]
          },
          {
-          "ID": "2/clauseD_2/%]c.qRZFG;N~1;^DSJ,9",
-          "Name": "ife1clauseD_2",
+          "ID": "2/clauseD_3/%]c.qRZFG;N~1;^DSJ,9",
+          "Name": "ife1clauseD_3",
           "Type": 1011,
           "Params": [
            {}
@@ -989,13 +1038,13 @@
             "IsList": true,
             "ListValue": [
              {
-              "FloatValue": -41
+              "FloatValue": -40
              },
              {
               "FloatValue": -30
              },
              {
-              "FloatValue": 140000
+              "FloatValue": 115000
              }
             ]
            },
@@ -1006,10 +1055,10 @@
               "FloatValue": -35
              },
              {
-              "FloatValue": -17
+              "FloatValue": -25.7
              },
              {
-              "FloatValue": 160000
+              "FloatValue": 85000
              }
             ]
            },
@@ -1031,13 +1080,13 @@
             "IsList": true,
             "ListValue": [
              {
-              "FloatValue": -58
+              "FloatValue": -57.4
              },
              {
-              "FloatValue": -48
+              "FloatValue": -53.3
              },
              {
-              "FloatValue": 230000
+              "FloatValue": 85000
              }
             ]
            },
@@ -9140,6 +9189,22 @@
            }
           ]
          }
+        }
+       ]
+      },
+      {
+       "ID": "4//i!mE0FAW3/}5RV#LhgA5",
+       "Name": "grs",
+       "Type": 2013,
+       "Params": [
+        {
+         "StringValue": "vgcbWIgsr"
+        },
+        {
+         "IntValue": 4
+        },
+        {
+         "IntValue": 0
         }
        ]
       },
@@ -35634,7 +35699,7 @@
     {
      "EventType": 3000,
      "CallerData": {
-      "ID": "23//LjWEbs%[Gj[r^L/XeMK^",
+      "ID": "21//LjWEbs%[Gj[r^L/XeMK^",
       "Name": "e",
       "Type": 1010,
       "Params": [
@@ -35644,7 +35709,7 @@
       ],
       "SubCallerData": [
        {
-        "ID": "23//fn,yavj]:#V5haY@D@32",
+        "ID": "21//fn,yavj]:#V5haY@D@32",
         "Name": "lcd",
         "Type": 2004,
         "Params": [
@@ -35653,13 +35718,13 @@
          },
          {
           "FuncValue": {
-           "ID": "23///=]2YEsx1Q+$RT^TqeNw",
+           "ID": "21///=]2YEsx1Q+$RT^TqeNw",
            "Name": "exg",
            "Type": 2003,
            "Params": [
             {
              "FuncValue": {
-              "ID": "23//}UpD4]y6|:-=60`^%I}}",
+              "ID": "21//}UpD4]y6|:-=60`^%I}}",
               "Name": "v",
               "Type": 10002
              }
@@ -35679,7 +35744,7 @@
         ]
        },
        {
-        "ID": "23//_c8#%Cj)(bHOdxV;qZaL",
+        "ID": "21//_c8#%Cj)(bHOdxV;qZaL",
         "Name": "lcd",
         "Type": 2004,
         "Params": [
@@ -35695,19 +35760,19 @@
         ]
        },
        {
-        "ID": "23//9GIq:EMYc(a#26w?@%d~",
+        "ID": "21//9GIq:EMYc(a#26w?@%d~",
         "Name": "ife1",
         "Type": 1001,
         "Params": [
          {
           "FuncValue": {
-           "ID": "23//ajG[+PdlxJazQGtpxgrr",
+           "ID": "21//ajG[+PdlxJazQGtpxgrr",
            "Name": "v",
            "Type": 1064,
            "Params": [
             {
              "FuncValue": {
-              "ID": "23//vrN5i4xLhk1H,tqhdn9:",
+              "ID": "21//vrN5i4xLhk1H,tqhdn9:",
               "Name": "grg",
               "Type": 2014,
               "Params": [
@@ -35723,7 +35788,7 @@
         ],
         "SubCallerData": [
          {
-          "ID": "23/clauseD/9GIq:EMYc(a#26w?@%d~",
+          "ID": "21/clauseD/9GIq:EMYc(a#26w?@%d~",
           "Name": "ife1clauseD",
           "Type": 1011,
           "Params": [
@@ -35731,7 +35796,7 @@
           ],
           "SubCallerData": [
            {
-            "ID": "23//G)u9%Ec7{Qf/r|Q%S9Sa",
+            "ID": "21//G)u9%Ec7{Qf/r|Q%S9Sa",
             "Name": "a",
             "Type": 9022,
             "Params": [
@@ -35740,14 +35805,14 @@
              },
              {
               "FuncValue": {
-               "ID": "23//zlC{ioPVO7_SrN%2/-:n",
+               "ID": "21//zlC{ioPVO7_SrN%2/-:n",
                "Name": "ent",
                "Type": 10000
               }
              },
              {
               "FuncValue": {
-               "ID": "23//pY(i7oj%h@oLaN/`AV|L",
+               "ID": "21//pY(i7oj%h@oLaN/`AV|L",
                "Name": "lcg",
                "Type": 2006,
                "Params": [
@@ -35760,19 +35825,19 @@
             ]
            },
            {
-            "ID": "23//UN2Qa1nRGTa7,djnf6!M",
+            "ID": "21//UN2Qa1nRGTa7,djnf6!M",
             "Name": "prs",
             "Type": 2000,
             "Params": [
              {
               "FuncValue": {
-               "ID": "23//h=T2z3Gk|#/:s.v6(^66",
+               "ID": "21//h=T2z3Gk|#/:s.v6(^66",
                "Name": "v",
                "Type": 9026,
                "Params": [
                 {
                  "FuncValue": {
-                  "ID": "23//1FI!Q.T3u0:X2S|.s@XS",
+                  "ID": "21//1FI!Q.T3u0:X2S|.s@XS",
                   "Name": "ent",
                   "Type": 10000
                  }
@@ -35785,7 +35850,7 @@
              },
              {
               "FuncValue": {
-               "ID": "23//HVy%0l*+zGjGP|$9$VG^",
+               "ID": "21//HVy%0l*+zGjGP|$9$VG^",
                "Name": "v",
                "Type": 1515,
                "Params": [
@@ -35807,19 +35872,19 @@
             ]
            },
            {
-            "ID": "23//?F8Sa+Q452$3~`Gvtm[@",
+            "ID": "21//?F8Sa+Q452$3~`Gvtm[@",
             "Name": "prs",
             "Type": 2000,
             "Params": [
              {
               "FuncValue": {
-               "ID": "23//*-JXP:CiWe~~vCG2STg%",
+               "ID": "21//*-JXP:CiWe~~vCG2STg%",
                "Name": "v",
                "Type": 9026,
                "Params": [
                 {
                  "FuncValue": {
-                  "ID": "23//QG|-ceT8bP?P%.Y`VO4B",
+                  "ID": "21//QG|-ceT8bP?P%.Y`VO4B",
                   "Name": "ent",
                   "Type": 10000
                  }
@@ -35839,13 +35904,13 @@
             ]
            },
            {
-            "ID": "23//DBYMAf1m^qKk~azkLR#M",
+            "ID": "21//DBYMAf1m^qKk~azkLR#M",
             "Name": "prs",
             "Type": 2000,
             "Params": [
              {
               "FuncValue": {
-               "ID": "23//2X,6sg9[nC-g,S9(HbTy",
+               "ID": "21//2X,6sg9[nC-g,S9(HbTy",
                "Name": "lcg",
                "Type": 2006,
                "Params": [
@@ -35867,13 +35932,13 @@
             ]
            },
            {
-            "ID": "23//n,b;EgiG7?IT)gPD4%o;",
+            "ID": "21//n,b;EgiG7?IT)gPD4%o;",
             "Name": "prs",
             "Type": 2000,
             "Params": [
              {
               "FuncValue": {
-               "ID": "23//oo{)}7qQvBMUv{x~lbH]",
+               "ID": "21//oo{)}7qQvBMUv{x~lbH]",
                "Name": "lcg",
                "Type": 2006,
                "Params": [
@@ -35888,7 +35953,7 @@
              },
              {
               "FuncValue": {
-               "ID": "23//INQ[8SYWH5F!~~_-Rlj1",
+               "ID": "21//INQ[8SYWH5F!~~_-Rlj1",
                "Name": "v",
                "Type": 1515,
                "Params": [
@@ -35910,7 +35975,7 @@
             ]
            },
            {
-            "ID": "23//{]:X|$`_{Azv;gO]%q]3",
+            "ID": "21//{]:X|$`_{Azv;gO]%q]3",
             "Name": "grs",
             "Type": 2013,
             "Params": [
@@ -35919,7 +35984,7 @@
              },
              {
               "FuncValue": {
-               "ID": "23//#}kDD6A}qN_6$`//#n-1",
+               "ID": "21//#}kDD6A}qN_6$`//#n-1",
                "Name": "lcg",
                "Type": 2006,
                "Params": [
@@ -38328,7 +38393,7 @@
    ]
   },
   {
-   "ID": "AUTOGEN_HUD_OnClick3-1close_684",
+   "ID": "AUTOGEN_HUD_OnClick3-1close_792",
    "Rules": [
     {
      "EventType": 3004,
@@ -38443,7 +38508,7 @@
    ]
   },
   {
-   "ID": "AUTOGEN_HUD_OnClick3-2open_611",
+   "ID": "AUTOGEN_HUD_OnClick3-2open_868",
    "Rules": [
     {
      "EventType": 3004,
@@ -38579,25 +38644,25 @@
      ],
      "SubCallerData": [
       {
-       "ID": "24//A1Agu_[-*(RxajAJCt8l",
+       "ID": "22//A1Agu_[-*(RxajAJCt8l",
        "Name": "ife1",
        "Type": 1001,
        "Params": [
         {
          "FuncValue": {
-          "ID": "24//uOV4hh*.8cFp^=_Wp#}h",
+          "ID": "22//uOV4hh*.8cFp^=_Wp#}h",
           "Name": "opc",
           "Type": 1060,
           "Params": [
            {
             "FuncValue": {
-             "ID": "24//5v-_mX9QpTTU`6PKM|/r",
+             "ID": "22//5v-_mX9QpTTU`6PKM|/r",
              "Name": "v",
              "Type": 9010,
              "Params": [
               {
                "FuncValue": {
-                "ID": "24//4B6T!{u..v:M;w32*||X",
+                "ID": "22//4B6T!{u..v:M;w32*||X",
                 "Name": "lcg",
                 "Type": 2006,
                 "Params": [
@@ -38609,7 +38674,7 @@
               },
               {
                "FuncValue": {
-                "ID": "24//(%4eCpU5Zx$$Z~@uLZNu",
+                "ID": "22//(%4eCpU5Zx$$Z~@uLZNu",
                 "Name": "ent",
                 "Type": 10000
                }
@@ -38625,7 +38690,7 @@
            },
            {
             "FuncValue": {
-             "ID": "24//{njFmI]O1}JTBZ}/GDWM",
+             "ID": "22//{njFmI]O1}JTBZ}/GDWM",
              "Name": "lcg",
              "Type": 2006,
              "Params": [
@@ -38644,7 +38709,7 @@
        ],
        "SubCallerData": [
         {
-         "ID": "24/clauseD/A1Agu_[-*(RxajAJCt8l",
+         "ID": "22/clauseD/A1Agu_[-*(RxajAJCt8l",
          "Name": "ife1clauseD",
          "Type": 1011,
          "Params": [
@@ -38652,13 +38717,13 @@
          ],
          "SubCallerData": [
           {
-           "ID": "24//^;**7)5R86jU%#^,9(XB",
+           "ID": "22//^;**7)5R86jU%#^,9(XB",
            "Name": "exa",
            "Type": 1013,
            "Params": [
             {
              "FuncValue": {
-              "ID": "24//cf0k2[sxP=swD%}:mTCI",
+              "ID": "22//cf0k2[sxP=swD%}:mTCI",
               "Name": "lcg",
               "Type": 2006,
               "Params": [
@@ -38682,7 +38747,7 @@
          ]
         },
         {
-         "ID": "24/clauseD_else/A1Agu_[-*(RxajAJCt8l",
+         "ID": "22/clauseD_else/A1Agu_[-*(RxajAJCt8l",
          "Name": "ife1clauseD_else",
          "Type": 1011,
          "Params": [
@@ -38690,13 +38755,13 @@
          ],
          "SubCallerData": [
           {
-           "ID": "24//aUEh-gL0f4c3%C1l$uD4",
+           "ID": "22//aUEh-gL0f4c3%C1l$uD4",
            "Name": "exa",
            "Type": 1013,
            "Params": [
             {
              "FuncValue": {
-              "ID": "24//OXCs7#wL%_5vj%Gm0*/_",
+              "ID": "22//OXCs7#wL%_5vj%Gm0*/_",
               "Name": "lcg",
               "Type": 2006,
               "Params": [
@@ -38726,7 +38791,7 @@
    ]
   },
   {
-   "ID": "AUTOGEN_HUD_OnClick23-30combo1_btn_821",
+   "ID": "AUTOGEN_HUD_OnClick23-30combo1_btn_513",
    "Rules": [
     {
      "EventType": 3004,
@@ -38841,7 +38906,7 @@
    ]
   },
   {
-   "ID": "AUTOGEN_HUD_OnClick23-31combo2_btn _564",
+   "ID": "AUTOGEN_HUD_OnClick23-31combo2_btn _208",
    "Rules": [
     {
      "EventType": 3004,
@@ -38956,7 +39021,7 @@
    ]
   },
   {
-   "ID": "AUTOGEN_HUD_OnClick23-32combo3_btn _932",
+   "ID": "AUTOGEN_HUD_OnClick23-32combo3_btn _680",
    "Rules": [
     {
      "EventType": 3004,
@@ -39092,25 +39157,25 @@
      ],
      "SubCallerData": [
       {
-       "ID": "25//{.0K_xVp5OZm7wFZX7VB",
+       "ID": "23//{.0K_xVp5OZm7wFZX7VB",
        "Name": "ife1",
        "Type": 1001,
        "Params": [
         {
          "FuncValue": {
-          "ID": "25//uOV4hh*.8cFp^=_Wp#}h",
+          "ID": "23//uOV4hh*.8cFp^=_Wp#}h",
           "Name": "opc",
           "Type": 1060,
           "Params": [
            {
             "FuncValue": {
-             "ID": "25//5v-_mX9QpTTU`6PKM|/r",
+             "ID": "23//5v-_mX9QpTTU`6PKM|/r",
              "Name": "v",
              "Type": 9010,
              "Params": [
               {
                "FuncValue": {
-                "ID": "25//RvADPj~X}}3[~Fr}-BUk",
+                "ID": "23//RvADPj~X}}3[~Fr}-BUk",
                 "Name": "lcg",
                 "Type": 2006,
                 "Params": [
@@ -39122,7 +39187,7 @@
               },
               {
                "FuncValue": {
-                "ID": "25//(%4eCpU5Zx$$Z~@uLZNu",
+                "ID": "23//(%4eCpU5Zx$$Z~@uLZNu",
                 "Name": "ent",
                 "Type": 10000
                }
@@ -39138,7 +39203,7 @@
            },
            {
             "FuncValue": {
-             "ID": "25//{njFmI]O1}JTBZ}/GDWM",
+             "ID": "23//{njFmI]O1}JTBZ}/GDWM",
              "Name": "lcg",
              "Type": 2006,
              "Params": [
@@ -39153,19 +39218,19 @@
         },
         {
          "FuncValue": {
-          "ID": "25//HDly=,DJ{I/QxQv)6ZZ_",
+          "ID": "23//HDly=,DJ{I/QxQv)6ZZ_",
           "Name": "opc",
           "Type": 1060,
           "Params": [
            {
             "FuncValue": {
-             "ID": "25//R@AVV(3C*5wY|x1sG}8P",
+             "ID": "23//R@AVV(3C*5wY|x1sG}8P",
              "Name": "v",
              "Type": 9010,
              "Params": [
               {
                "FuncValue": {
-                "ID": "25//hSo)DJ$t#Td.9~sD0Xpw",
+                "ID": "23//hSo)DJ$t#Td.9~sD0Xpw",
                 "Name": "lcg",
                 "Type": 2006,
                 "Params": [
@@ -39177,7 +39242,7 @@
               },
               {
                "FuncValue": {
-                "ID": "25//Jphj$,a:2;Cj.#l?oCnl",
+                "ID": "23//Jphj$,a:2;Cj.#l?oCnl",
                 "Name": "ent",
                 "Type": 10000
                }
@@ -39193,7 +39258,7 @@
            },
            {
             "FuncValue": {
-             "ID": "25//z0g#U|AbAt!s?XZOG~~=",
+             "ID": "23//z0g#U|AbAt!s?XZOG~~=",
              "Name": "lcg",
              "Type": 2006,
              "Params": [
@@ -39208,19 +39273,19 @@
         },
         {
          "FuncValue": {
-          "ID": "25//`LEChB/+Md_3Hd/r=6gZ",
+          "ID": "23//`LEChB/+Md_3Hd/r=6gZ",
           "Name": "opc",
           "Type": 1060,
           "Params": [
            {
             "FuncValue": {
-             "ID": "25//YLw|p7vSlhc9DI3|x2{i",
+             "ID": "23//YLw|p7vSlhc9DI3|x2{i",
              "Name": "v",
              "Type": 9010,
              "Params": [
               {
                "FuncValue": {
-                "ID": "25//?dLl%k:0!uPdOnO3idgJ",
+                "ID": "23//?dLl%k:0!uPdOnO3idgJ",
                 "Name": "lcg",
                 "Type": 2006,
                 "Params": [
@@ -39232,7 +39297,7 @@
               },
               {
                "FuncValue": {
-                "ID": "25//xVxHoU;b(*|VW]hJh{pC",
+                "ID": "23//xVxHoU;b(*|VW]hJh{pC",
                 "Name": "ent",
                 "Type": 10000
                }
@@ -39248,7 +39313,7 @@
            },
            {
             "FuncValue": {
-             "ID": "25//x9Ow!h=-^4#Vm60](,JJ",
+             "ID": "23//x9Ow!h=-^4#Vm60](,JJ",
              "Name": "lcg",
              "Type": 2006,
              "Params": [
@@ -39264,7 +39329,7 @@
        ],
        "SubCallerData": [
         {
-         "ID": "25/clauseD/{.0K_xVp5OZm7wFZX7VB",
+         "ID": "23/clauseD/{.0K_xVp5OZm7wFZX7VB",
          "Name": "ife1clauseD",
          "Type": 1011,
          "Params": [
@@ -39272,13 +39337,13 @@
          ],
          "SubCallerData": [
           {
-           "ID": "25//U;i)Ea#*hQK][a{(B{rC",
+           "ID": "23//U;i)Ea#*hQK][a{(B{rC",
            "Name": "exa",
            "Type": 1013,
            "Params": [
             {
              "FuncValue": {
-              "ID": "25//[w[k?A(K/[8{0l[))-C!",
+              "ID": "23//[w[k?A(K/[8{0l[))-C!",
               "Name": "lcg",
               "Type": 2006,
               "Params": [
@@ -39300,13 +39365,13 @@
            ]
           },
           {
-           "ID": "25//J5dl6V07m?r}:9l,|G#B",
+           "ID": "23//J5dl6V07m?r}:9l,|G#B",
            "Name": "a",
            "Type": 9501,
            "Params": [
             {
              "FuncValue": {
-              "ID": "25//0,VcA?hO4Fd;46E4#(@~",
+              "ID": "23//0,VcA?hO4Fd;46E4#(@~",
               "Name": "lcg",
               "Type": 2006,
               "Params": [
@@ -39324,7 +39389,7 @@
          ]
         },
         {
-         "ID": "25/clauseD_1/{.0K_xVp5OZm7wFZX7VB",
+         "ID": "23/clauseD_1/{.0K_xVp5OZm7wFZX7VB",
          "Name": "ife1clauseD_1",
          "Type": 1011,
          "Params": [
@@ -39332,13 +39397,13 @@
          ],
          "SubCallerData": [
           {
-           "ID": "25//jT1-0e:MB.@6p:vV^ROj",
+           "ID": "23//jT1-0e:MB.@6p:vV^ROj",
            "Name": "exa",
            "Type": 1013,
            "Params": [
             {
              "FuncValue": {
-              "ID": "25//gv?xI+n:JQR`AjNx0$dh",
+              "ID": "23//gv?xI+n:JQR`AjNx0$dh",
               "Name": "lcg",
               "Type": 2006,
               "Params": [
@@ -39360,13 +39425,13 @@
            ]
           },
           {
-           "ID": "25//AMQr`jyPdCav,7V[{a%9",
+           "ID": "23//AMQr`jyPdCav,7V[{a%9",
            "Name": "a",
            "Type": 9501,
            "Params": [
             {
              "FuncValue": {
-              "ID": "25//tb$qa4VCp^2o0{kJf.;A",
+              "ID": "23//tb$qa4VCp^2o0{kJf.;A",
               "Name": "lcg",
               "Type": 2006,
               "Params": [
@@ -39384,7 +39449,7 @@
          ]
         },
         {
-         "ID": "25/clauseD_2/{.0K_xVp5OZm7wFZX7VB",
+         "ID": "23/clauseD_2/{.0K_xVp5OZm7wFZX7VB",
          "Name": "ife1clauseD_2",
          "Type": 1011,
          "Params": [
@@ -39392,13 +39457,13 @@
          ],
          "SubCallerData": [
           {
-           "ID": "25//ALvC}]{ynqo=@,jUaiYt",
+           "ID": "23//ALvC}]{ynqo=@,jUaiYt",
            "Name": "exa",
            "Type": 1013,
            "Params": [
             {
              "FuncValue": {
-              "ID": "25//:EZ$~jwsQ!$GIaMlG*iO",
+              "ID": "23//:EZ$~jwsQ!$GIaMlG*iO",
               "Name": "lcg",
               "Type": 2006,
               "Params": [
@@ -39420,13 +39485,13 @@
            ]
           },
           {
-           "ID": "25//Q_}TBcUsZ?;-g2hF7%/2",
+           "ID": "23//Q_}TBcUsZ?;-g2hF7%/2",
            "Name": "a",
            "Type": 9501,
            "Params": [
             {
              "FuncValue": {
-              "ID": "25//Sj?=aPFLnH69ay=)PT7.",
+              "ID": "23//Sj?=aPFLnH69ay=)PT7.",
               "Name": "lcg",
               "Type": 2006,
               "Params": [
@@ -39450,7 +39515,7 @@
    ]
   },
   {
-   "ID": "AUTOGEN_HUD_OnClick46-93combo2_btn _14",
+   "ID": "AUTOGEN_HUD_OnClick46-93combo2_btn _157",
    "Rules": [
     {
      "EventType": 3004,
@@ -47316,6 +47381,150 @@
    ]
   },
   {
+   "ID": "1//2VfnGN7e",
+   "ComponentIDs": [
+    0,
+    186,
+    16,
+    107,
+    10,
+    164,
+    97,
+    170,
+    165,
+    293,
+    257,
+    185,
+    314
+   ],
+   "RepDataItem": [
+    {
+     "PropID": -185000,
+     "Value": {
+      "StringValue": "wehss29x.7d9977d6-d297-4a69-970c-c4d88446bf3b-Box001.~@FFFUB"
+     }
+    },
+    {
+     "PropID": -185001,
+     "Value": {
+      "IsList": true,
+      "ListValue": [
+       {
+        "StringValue": "babbbc4bf711e4b46a1401364e824401"
+       }
+      ]
+     }
+    },
+    {
+     "PropID": -165000,
+     "Value": {
+      "BoolValue": true
+     }
+    },
+    {
+     "PropID": -165001,
+     "Value": {
+      "BoolValue": false
+     }
+    },
+    {
+     "PropID": -257000,
+     "Value": {
+      "IntValue": 1
+     }
+    },
+    {
+     "PropID": -257003,
+     "Value": {
+      "Vector3Value": {
+       "X": 0,
+       "Y": 0,
+       "Z": 0
+      }
+     }
+    },
+    {
+     "PropID": -257001,
+     "Value": {
+      "BoolValue": false
+     }
+    },
+    {
+     "PropID": -257006,
+     "Value": {
+      "FloatValue": 0.05
+     }
+    },
+    {
+     "PropID": -257007,
+     "Value": {
+      "FloatValue": 0.05
+     }
+    },
+    {
+     "PropID": -186000,
+     "Value": {
+      "StringValue": "89p60ls4wg4-lpuplinv-ot9169p3iab-2VfnGN7e-collider"
+     }
+    },
+    {
+     "PropID": -16001,
+     "Value": {
+      "IntValue": 10000
+     }
+    },
+    {
+     "PropID": -97005,
+     "Value": {
+      "Vector3Value": {
+       "X": -172.52186584472656,
+       "Y": -33.33412170410156,
+       "Z": -244.0896759033203
+      }
+     }
+    },
+    {
+     "PropID": -97008,
+     "Value": {
+      "Vector3Value": {
+       "X": 200,
+       "Y": 40,
+       "Z": 200
+      }
+     }
+    },
+    {
+     "PropID": -97006,
+     "Value": {
+      "QuaternionValue": {
+       "X": 0,
+       "Y": 0,
+       "Z": 0,
+       "W": 1
+      }
+     }
+    },
+    {
+     "PropID": -16000,
+     "Value": {
+      "StringValue": "Box001"
+     }
+    },
+    {
+     "PropID": -10006,
+     "Value": {
+      "StringValue": "Box001"
+     }
+    },
+    {
+     "PropID": -16002,
+     "Value": {
+      "BoolValue": true
+     }
+    }
+   ]
+  },
+  {
    "ID": "global",
    "ComponentIDs": [
     11
@@ -47467,7 +47676,7 @@
     41
    ],
    "GraphIDs": [
-    "AUTOGEN_HUD_OnClick3-1close_684"
+    "AUTOGEN_HUD_OnClick3-1close_792"
    ],
    "RepDataItem": [
     {
@@ -47578,7 +47787,7 @@
     41
    ],
    "GraphIDs": [
-    "AUTOGEN_HUD_OnClick3-2open_611"
+    "AUTOGEN_HUD_OnClick3-2open_868"
    ],
    "RepDataItem": [
     {
@@ -52158,7 +52367,7 @@
     41
    ],
    "GraphIDs": [
-    "AUTOGEN_HUD_OnClick23-30combo1_btn_821"
+    "AUTOGEN_HUD_OnClick23-30combo1_btn_513"
    ],
    "RepDataItem": [
     {
@@ -53407,7 +53616,7 @@
     41
    ],
    "GraphIDs": [
-    "AUTOGEN_HUD_OnClick23-31combo2_btn _564"
+    "AUTOGEN_HUD_OnClick23-31combo2_btn _208"
    ],
    "RepDataItem": [
     {
@@ -54656,7 +54865,7 @@
     41
    ],
    "GraphIDs": [
-    "AUTOGEN_HUD_OnClick23-32combo3_btn _932"
+    "AUTOGEN_HUD_OnClick23-32combo3_btn _680"
    ],
    "RepDataItem": [
     {
@@ -56064,7 +56273,7 @@
     41
    ],
    "GraphIDs": [
-    "AUTOGEN_HUD_OnClick46-93combo2_btn _14"
+    "AUTOGEN_HUD_OnClick46-93combo2_btn _157"
    ],
    "RepDataItem": [
     {
@@ -60435,6 +60644,22 @@
       "surTex": "",
       "borTex": "",
       "isStatic": false
+     },
+     {
+      "static_type_id": 10000,
+      "pos_x": -172.52186584472656,
+      "pos_y": -33.33412170410156,
+      "pos_z": -244.0896759033203,
+      "scale_x": 200,
+      "scale_y": 40,
+      "scale_z": 200,
+      "rot_yaw": 0,
+      "rot_pitch": 0,
+      "rot_roll": 0,
+      "extra_base_info_instance_id": 63,
+      "logic_entity_id": "1//2VfnGN7e",
+      "customized_name": "Box001",
+      "isStatic": false
      }
     ],
     "ObjectAttrList": {
@@ -61818,6 +62043,26 @@
        "Y": 0.23344536385590553,
        "Z": 0,
        "W": -0.9723699203976766
+      }
+     },
+     {
+      "ID": "1//2VfnGN7e",
+      "ParentID": "",
+      "LocalPosition": {
+       "X": -172.52186584472656,
+       "Y": -33.33412170410156,
+       "Z": -244.0896759033203
+      },
+      "LocalScale": {
+       "X": 200,
+       "Y": 40,
+       "Z": 200
+      },
+      "LocalRotation": {
+       "X": 0,
+       "Y": 0,
+       "Z": 0,
+       "W": 1
       }
      }
     ]
@@ -63222,7 +63467,7 @@
  },
  "ResourceData": {
   "Version": "UGCResourceMetaDataVersion_V1",
-  "Content": "ChVUXzM0X01fV1NfSUNPTl9DT1JQU0UKE3VpX2ljb25fc2tpbGxfS2VudGEKG3VpX2ljb25fc2tpbGxfR3JlbmFkZV9TcGxpdAobdWlfaWNvbl9za2lsbF9TaW5nZXJzYl9saW5rCgtGRl9XU19ndWVzdAoYdWlfaWNvbl9za2lsbF9TYW50aW5vXzAxCh9TT1VORF9TRlhfUnVzaGluZ3BldHNfVUlfRmluaXNoCiBTT1VORF9TRlhfUnVzaGluZ3BldHNfVUlfVmljdG9yeQoUVUlfUERNX0tpbGxLaW5nX0ljb24KGVNPVU5EX1VJX1NIT09USU5HR0FNRV9FTkQKHVNPVU5EX0lOR0FNRV9XQUlUSU5HQ09VTlRET1dOCh5TT1VORF9WRUhJQ0xFX0FJUlNISVBfQk9YX09QRU4KI1NPVU5EX1VJX01PVElPTl9DT01NT05fUFJPR1JFU1NMT05HChVUXzM0X01fV1NfSUNPTl9TUVVBUkUKI0ZGX2luZ2FtZV9odWRfSHVudGluZ0dyb3VuZDAyX1doaXRlCiVGRl9pbmdhbWVfaHVkX0h1bnRpbmdHcm91bmQwMl9CZ190aXBzChh1aV9pY29uX3NraWxsX1J1blNwZWVkVXAKEVVJX0JHX0J1ZmZfeWVsbG93Ch1TT1VORF9VSV9DTElDS19DT01NT05fREVGQVVMVAoSV1NfVkZYX0Zsb3dlcjAwMV9BChVUXzM0X01fV1NfSUNPTl9RVUFEUkkKHkh1bnRpbmdHcm91biBkX0JHX0JhZ19EZWxldGUwMRoBASIE1wGPASr4CwgAGl4KHHdlaHNzMjl4LkF1dG9Db21tb25fcVpDN3dVSTMSHHdlaHNzMjl4LkF1dG9Db21tb25fcVpDN3dVSTMiHEl1TWRhY1YzOUxtUkNELzZZSE1TZEpmYTJUZz0oAjABGoIBCjFBdGxhcy1iSDd3QkRFaC5hLTk3cHluamEwZ3hnLWxxb21zaW5uLWlsaGRpeWN2aW9lEitiSDd3QkRFaC5hLTk3cHluamEwZ3hnLWxxb21zaW5uLWlsaGRpeWN2aW9lIhxWZDhVdkg0YkdkZmtFM01oTVJyb3RlRHRwQ0k9KAAwARqCAQoxQXRsYXMtYkg3d0JERWguYS1iOTFoaDQ0MHZwdi1scXAxZzFwMi14YTRyOHhtdjBnZxIrYkg3d0JERWguYS1iOTFoaDQ0MHZwdi1scXAxZzFwMi14YTRyOHhtdjBnZyIcRWQzVWtib2JIelcwNFRDVW53K2ZwSlY4czZ3PSgAMAEaggEKMUF0bGFzLWJIN3dCREVoLmEtcGEwdTY1eXNxMmgtbHF3NGppM3MtaDA3YjZtdWI0Z3USK2JIN3dCREVoLmEtcGEwdTY1eXNxMmgtbHF3NGppM3MtaDA3YjZtdWI0Z3UiHGxLZmZVeTZFUzg0UjZZckdZUjVmbjVBbEQrST0oADABGoIBCjFBdGxhcy1iSDd3QkRFaC5hLWljemdtbzhicjFoLWxxeGdmaHg1LWh0YTlmOWU3N3I1EitiSDd3QkRFaC5hLWljemdtbzhicjFoLWxxeGdmaHg1LWh0YTlmOWU3N3I1IhxWNkJoaC9nVUoydlNVekpBWGdvU0pPL3NlMW89KAAwARqCAQoxQXRsYXMtYkg3d0JERWguYS1mZDNydTc1MHJpYS1scW9wOTZ1OS14ams1cHMzcTZsaBIrYkg3d0JERWguYS1mZDNydTc1MHJpYS1scW9wOTZ1OS14ams1cHMzcTZsaCIcS0ZBUUdGSHByMk9rS2w2cUFjN0dCa2pnNGxvPSgAMAEaZgogYkg3d0JERWguQ29sbGlkZXJDb21tb25fbzJIWHdSeWoSIGJIN3dCREVoLkNvbGxpZGVyQ29tbW9uX28ySFh3UnlqIhw3c0pPbVo0OXJsRTBzdGh4OHBPZlR0Z2tCWjg9KAIwABpmCiBiSDd3QkRFaC5BdXRvUGxhdGZvcm1lZF9lR0h1eEVIMxIgYkg3d0JERWguQXV0b1BsYXRmb3JtZWRfZUdIdXhFSDMiHHJUVm5oVmNYQ3JpQzNKcnArWVRNTy9KWk5Uaz0oADABGmYKIGJIN3dCREVoLkNvbGxpZGVyQ29tbW9uX1J3ZkNDblc1EiBiSDd3QkRFaC5Db2xsaWRlckNvbW1vbl9Sd2ZDQ25XNSIcamZJYlVUNUVaSHZlZ05RWm9OOE9zZ09mRGlFPSgCMAAaZgogYkg3d0JERWguQ29sbGlkZXJDb21tb25fM20wQ3RlTTMSIGJIN3dCREVoLkNvbGxpZGVyQ29tbW9uXzNtMEN0ZU0zIhxPS3M1K3Ewd3loaGgxeEtKSTN4ckZvWjlvNk09KAIwABpmCiBiSDd3QkRFaC5BdXRvUGxhdGZvcm1lZF9Vc2Vaa0xZcRIgYkg3d0JERWguQXV0b1BsYXRmb3JtZWRfVXNlWmtMWXEiHEJGbUg0OWF1aitVOWphdWNvcHNKeFFjMlJEUT0oADABGmYKIGJIN3dCREVoLkNvbGxpZGVyQ29tbW9uX0NPbzkwRkZkEiBiSDd3QkRFaC5Db2xsaWRlckNvbW1vbl9DT285MEZGZCIcN1dWckw2aHlLcWlEZ3lzSGhMVmlNb0lISnBBPSgCMAAaZgogYkg3d0JERWguQ29sbGlkZXJDb21tb25fc3MzRnRmeUUSIGJIN3dCREVoLkNvbGxpZGVyQ29tbW9uX3NzM0Z0ZnlFIhw1QWZ3WC94SkI0UTllb0dGNGJ4bmZRL2cxaGs9KAIwACIjCgdCdWlsdEluEgdCdWlsdEluGAAgAigAMAc6BTEuMC4wQAE6AA=="
+  "Content": "ChVUXzM0X01fV1NfSUNPTl9DT1JQU0UKE3VpX2ljb25fc2tpbGxfS2VudGEKG3VpX2ljb25fc2tpbGxfR3JlbmFkZV9TcGxpdAobdWlfaWNvbl9za2lsbF9TaW5nZXJzYl9saW5rCgtGRl9XU19ndWVzdAoYdWlfaWNvbl9za2lsbF9TYW50aW5vXzAxCh9TT1VORF9TRlhfUnVzaGluZ3BldHNfVUlfRmluaXNoCiBTT1VORF9TRlhfUnVzaGluZ3BldHNfVUlfVmljdG9yeQoUVUlfUERNX0tpbGxLaW5nX0ljb24KGVNPVU5EX1VJX1NIT09USU5HR0FNRV9FTkQKHVNPVU5EX0lOR0FNRV9XQUlUSU5HQ09VTlRET1dOCh5TT1VORF9WRUhJQ0xFX0FJUlNISVBfQk9YX09QRU4KI1NPVU5EX1VJX01PVElPTl9DT01NT05fUFJPR1JFU1NMT05HChVUXzM0X01fV1NfSUNPTl9TUVVBUkUKI0ZGX2luZ2FtZV9odWRfSHVudGluZ0dyb3VuZDAyX1doaXRlCiVGRl9pbmdhbWVfaHVkX0h1bnRpbmdHcm91bmQwMl9CZ190aXBzChh1aV9pY29uX3NraWxsX1J1blNwZWVkVXAKEVVJX0JHX0J1ZmZfeWVsbG93Ch1TT1VORF9VSV9DTElDS19DT01NT05fREVGQVVMVAoSV1NfVkZYX0Zsb3dlcjAwMV9BChVUXzM0X01fV1NfSUNPTl9RVUFEUkkKHkh1bnRpbmdHcm91biBkX0JHX0JhZ19EZWxldGUwMRoBASIE1wGPASrgDAgAGl4KHHdlaHNzMjl4LkF1dG9Db21tb25fcVpDN3dVSTMSHHdlaHNzMjl4LkF1dG9Db21tb25fcVpDN3dVSTMiHEl1TWRhY1YzOUxtUkNELzZZSE1TZEpmYTJUZz0oAjABGoIBCjFBdGxhcy1iSDd3QkRFaC5hLTk3cHluamEwZ3hnLWxxb21zaW5uLWlsaGRpeWN2aW9lEitiSDd3QkRFaC5hLTk3cHluamEwZ3hnLWxxb21zaW5uLWlsaGRpeWN2aW9lIhxWZDhVdkg0YkdkZmtFM01oTVJyb3RlRHRwQ0k9KAAwARqCAQoxQXRsYXMtYkg3d0JERWguYS1iOTFoaDQ0MHZwdi1scXAxZzFwMi14YTRyOHhtdjBnZxIrYkg3d0JERWguYS1iOTFoaDQ0MHZwdi1scXAxZzFwMi14YTRyOHhtdjBnZyIcRWQzVWtib2JIelcwNFRDVW53K2ZwSlY4czZ3PSgAMAEaggEKMUF0bGFzLWJIN3dCREVoLmEtcGEwdTY1eXNxMmgtbHF3NGppM3MtaDA3YjZtdWI0Z3USK2JIN3dCREVoLmEtcGEwdTY1eXNxMmgtbHF3NGppM3MtaDA3YjZtdWI0Z3UiHGxLZmZVeTZFUzg0UjZZckdZUjVmbjVBbEQrST0oADABGoIBCjFBdGxhcy1iSDd3QkRFaC5hLWljemdtbzhicjFoLWxxeGdmaHg1LWh0YTlmOWU3N3I1EitiSDd3QkRFaC5hLWljemdtbzhicjFoLWxxeGdmaHg1LWh0YTlmOWU3N3I1IhxWNkJoaC9nVUoydlNVekpBWGdvU0pPL3NlMW89KAAwARqCAQoxQXRsYXMtYkg3d0JERWguYS1mZDNydTc1MHJpYS1scW9wOTZ1OS14ams1cHMzcTZsaBIrYkg3d0JERWguYS1mZDNydTc1MHJpYS1scW9wOTZ1OS14ams1cHMzcTZsaCIcS0ZBUUdGSHByMk9rS2w2cUFjN0dCa2pnNGxvPSgAMAEaZgogYkg3d0JERWguQ29sbGlkZXJDb21tb25fbzJIWHdSeWoSIGJIN3dCREVoLkNvbGxpZGVyQ29tbW9uX28ySFh3UnlqIhw3c0pPbVo0OXJsRTBzdGh4OHBPZlR0Z2tCWjg9KAIwABpmCiBiSDd3QkRFaC5BdXRvUGxhdGZvcm1lZF9lR0h1eEVIMxIgYkg3d0JERWguQXV0b1BsYXRmb3JtZWRfZUdIdXhFSDMiHHJUVm5oVmNYQ3JpQzNKcnArWVRNTy9KWk5Uaz0oADABGmYKIGJIN3dCREVoLkNvbGxpZGVyQ29tbW9uX1J3ZkNDblc1EiBiSDd3QkRFaC5Db2xsaWRlckNvbW1vbl9Sd2ZDQ25XNSIcamZJYlVUNUVaSHZlZ05RWm9OOE9zZ09mRGlFPSgCMAAaZgogYkg3d0JERWguQ29sbGlkZXJDb21tb25fM20wQ3RlTTMSIGJIN3dCREVoLkNvbGxpZGVyQ29tbW9uXzNtMEN0ZU0zIhxPS3M1K3Ewd3loaGgxeEtKSTN4ckZvWjlvNk09KAIwABpmCiBiSDd3QkRFaC5BdXRvUGxhdGZvcm1lZF9Vc2Vaa0xZcRIgYkg3d0JERWguQXV0b1BsYXRmb3JtZWRfVXNlWmtMWXEiHEJGbUg0OWF1aitVOWphdWNvcHNKeFFjMlJEUT0oADABGmYKIGJIN3dCREVoLkNvbGxpZGVyQ29tbW9uX0NPbzkwRkZkEiBiSDd3QkRFaC5Db2xsaWRlckNvbW1vbl9DT285MEZGZCIcN1dWckw2aHlLcWlEZ3lzSGhMVmlNb0lISnBBPSgCMAAaZgogYkg3d0JERWguQ29sbGlkZXJDb21tb25fc3MzRnRmeUUSIGJIN3dCREVoLkNvbGxpZGVyQ29tbW9uX3NzM0Z0ZnlFIhw1QWZ3WC94SkI0UTllb0dGNGJ4bmZRL2cxaGs9KAIwABpmCiBiSDd3QkRFaC5Db2xsaWRlckNvbW1vbl9FZk9XRWF6SRIgYkg3d0JERWguQ29sbGlkZXJDb21tb25fRWZPV0VhekkiHG5vcW5GVTl2QjVKaDZPOXpsOWRRcElxNXhxbz0oAjAAIiMKB0J1aWx0SW4SB0J1aWx0SW4YACACKAAwBzoFMS4wLjBAAToA"
  },
  "PrefabData": [
   {

@@ -302,6 +302,26 @@
     }
    ],
    "DownloadPriority": 0
+  },
+  {
+   "PackageUUID": "bH7wBDEh.ColliderCommon_EfOWEazI",
+   "FileList": [
+    {
+     "SubFileID": "Client",
+     "SHA1": "50bPmXr6OlhczMcpBizXh1acjKQ=",
+     "FileSize": 229,
+     "URL": "http://localhost:8081/packages/bH7wBDEh.ColliderCommon_EfOWEazI/Client",
+     "PlatformRequireMask": 7
+    },
+    {
+     "SubFileID": "Server",
+     "SHA1": "50bPmXr6OlhczMcpBizXh1acjKQ=",
+     "FileSize": 229,
+     "URL": "http://localhost:8081/packages/bH7wBDEh.ColliderCommon_EfOWEazI/Server",
+     "PlatformRequireMask": 8
+    }
+   ],
+   "DownloadPriority": 0
   }
  ]
 }
