@@ -1,0 +1,307 @@
+{
+ "PackageList": [
+  {
+   "PackageUUID": "wehss29x.AutoCommon_qZC7wUI3",
+   "FileList": [
+    {
+     "SubFileID": "Client",
+     "SHA1": "XqNdSnwpu2PKn/Si1pNSVYqpQiA=",
+     "FileSize": 62269,
+     "URL": "https://dl-rct-craftland.freefiremobile.com/bcf6ba28-8e95-11ee-aa3f-0242ac150006_10000003_1_res1",
+     "PlatformRequireMask": 7
+    },
+    {
+     "SubFileID": "Server",
+     "SHA1": "pG5PT51rRgL2wJHVZzP55nHBZFk=",
+     "FileSize": 24315,
+     "URL": "https://dl-rct-craftland.freefiremobile.com/bcf6ba28-8e95-11ee-aa3f-0242ac150006_10000003_1_res2",
+     "PlatformRequireMask": 8
+    }
+   ]
+  },
+  {
+   "PackageUUID": "bH7wBDEh.a-97pynja0gxg-lqomsinn-ilhdiycvioe",
+   "FileList": [
+    {
+     "SubFileID": "Android.pck",
+     "SHA1": "Qi2Hp+ust6sGARYFYUEVcuYAnKg=",
+     "FileSize": 263087,
+     "URL": "http://localhost:8081/Atlas/a-97pynja0gxg-lqomsinn-ilhdiycvioe/Android.pck",
+     "PlatformRequireMask": 1
+    },
+    {
+     "SubFileID": "Ios.pck",
+     "SHA1": "v/uffu7XKfUj0v/qoYCf5FKl3YU=",
+     "FileSize": 119280,
+     "URL": "http://localhost:8081/Atlas/a-97pynja0gxg-lqomsinn-ilhdiycvioe/Ios.pck",
+     "PlatformRequireMask": 2
+    },
+    {
+     "SubFileID": "WebGL.pck",
+     "SHA1": "ob2jz8sslZJt4+BQRQJRJitKSe4=",
+     "FileSize": 263088,
+     "URL": "http://localhost:8081/Atlas/a-97pynja0gxg-lqomsinn-ilhdiycvioe/WebGL.pck",
+     "PlatformRequireMask": 4
+    }
+   ]
+  },
+  {
+   "PackageUUID": "bH7wBDEh.a-b91hh440vpv-lqp1g1p2-xa4r8xmv0gg",
+   "FileList": [
+    {
+     "SubFileID": "Android.pck",
+     "SHA1": "q08dVaZecGqUuiV5+TpmXR2xPp8=",
+     "FileSize": 66212,
+     "URL": "http://localhost:8081/Atlas/a-b91hh440vpv-lqp1g1p2-xa4r8xmv0gg/Android.pck",
+     "PlatformRequireMask": 1
+    },
+    {
+     "SubFileID": "Ios.pck",
+     "SHA1": "nGwmYAnGA71G7F0+U/hiAByEA4o=",
+     "FileSize": 30261,
+     "URL": "http://localhost:8081/Atlas/a-b91hh440vpv-lqp1g1p2-xa4r8xmv0gg/Ios.pck",
+     "PlatformRequireMask": 2
+    },
+    {
+     "SubFileID": "WebGL.pck",
+     "SHA1": "IFoH811CLzgNifF5gW91bIXsE6I=",
+     "FileSize": 66213,
+     "URL": "http://localhost:8081/Atlas/a-b91hh440vpv-lqp1g1p2-xa4r8xmv0gg/WebGL.pck",
+     "PlatformRequireMask": 4
+    }
+   ]
+  },
+  {
+   "PackageUUID": "bH7wBDEh.a-pa0u65ysq2h-lqw4ji3s-h07b6mub4gu",
+   "FileList": [
+    {
+     "SubFileID": "Android.pck",
+     "SHA1": "Vh8T9PcOAOrvzDZlinj12j7ZgcU=",
+     "FileSize": 1049252,
+     "URL": "http://localhost:8081/Atlas/a-pa0u65ysq2h-lqw4ji3s-h07b6mub4gu/Android.pck",
+     "PlatformRequireMask": 1
+    },
+    {
+     "SubFileID": "Ios.pck",
+     "SHA1": "AXJpJ8B1rfiCcH3SQEVHw8ZCDN0=",
+     "FileSize": 468533,
+     "URL": "http://localhost:8081/Atlas/a-pa0u65ysq2h-lqw4ji3s-h07b6mub4gu/Ios.pck",
+     "PlatformRequireMask": 2
+    },
+    {
+     "SubFileID": "WebGL.pck",
+     "SHA1": "mPMoePzKUOxCNx2oRQy0oyKXcdc=",
+     "FileSize": 1049253,
+     "URL": "http://localhost:8081/Atlas/a-pa0u65ysq2h-lqw4ji3s-h07b6mub4gu/WebGL.pck",
+     "PlatformRequireMask": 4
+    }
+   ]
+  },
+  {
+   "PackageUUID": "bH7wBDEh.a-iczgmo8br1h-lqxgfhx5-hta9f9e77r5",
+   "FileList": [
+    {
+     "SubFileID": "Android.pck",
+     "SHA1": "K8spJRkoUKblAjjfyyJApyr9oQ4=",
+     "FileSize": 66218,
+     "URL": "http://localhost:8081/Atlas/a-iczgmo8br1h-lqxgfhx5-hta9f9e77r5/Android.pck",
+     "PlatformRequireMask": 1
+    },
+    {
+     "SubFileID": "Ios.pck",
+     "SHA1": "P8wh8KStqOLXwuVVauTKqxdDMjo=",
+     "FileSize": 30267,
+     "URL": "http://localhost:8081/Atlas/a-iczgmo8br1h-lqxgfhx5-hta9f9e77r5/Ios.pck",
+     "PlatformRequireMask": 2
+    },
+    {
+     "SubFileID": "WebGL.pck",
+     "SHA1": "JJG1oUl0VzYAHpFovf+Jm6RTGb0=",
+     "FileSize": 66219,
+     "URL": "http://localhost:8081/Atlas/a-iczgmo8br1h-lqxgfhx5-hta9f9e77r5/WebGL.pck",
+     "PlatformRequireMask": 4
+    }
+   ]
+  },
+  {
+   "PackageUUID": "bH7wBDEh.a-fd3ru750ria-lqop96u9-xjk5ps3q6lh",
+   "FileList": [
+    {
+     "SubFileID": "Android.pck",
+     "SHA1": "RVgEHaBuQBzgLeB2z5nv9PpYfYQ=",
+     "FileSize": 66210,
+     "URL": "http://localhost:8081/Atlas/a-fd3ru750ria-lqop96u9-xjk5ps3q6lh/Android.pck",
+     "PlatformRequireMask": 1
+    },
+    {
+     "SubFileID": "Ios.pck",
+     "SHA1": "QVgCqVfsJPeiDttnYAJnZaJTatU=",
+     "FileSize": 30259,
+     "URL": "http://localhost:8081/Atlas/a-fd3ru750ria-lqop96u9-xjk5ps3q6lh/Ios.pck",
+     "PlatformRequireMask": 2
+    },
+    {
+     "SubFileID": "WebGL.pck",
+     "SHA1": "aki/qoE/Xw4wjm6SY+0IPGvzciA=",
+     "FileSize": 66211,
+     "URL": "http://localhost:8081/Atlas/a-fd3ru750ria-lqop96u9-xjk5ps3q6lh/WebGL.pck",
+     "PlatformRequireMask": 4
+    }
+   ]
+  },
+  {
+   "PackageUUID": "bH7wBDEh.ColliderCommon_o2HXwRyj",
+   "FileList": [
+    {
+     "SubFileID": "Client",
+     "SHA1": "TbXQaFjaVhT6maVZtzdgpx6BiJ8=",
+     "FileSize": 238,
+     "URL": "http://localhost:8081/packages/bH7wBDEh.ColliderCommon_o2HXwRyj/Client",
+     "PlatformRequireMask": 7
+    },
+    {
+     "SubFileID": "Server",
+     "SHA1": "TbXQaFjaVhT6maVZtzdgpx6BiJ8=",
+     "FileSize": 238,
+     "URL": "http://localhost:8081/packages/bH7wBDEh.ColliderCommon_o2HXwRyj/Server",
+     "PlatformRequireMask": 8
+    }
+   ],
+   "DownloadPriority": 0
+  },
+  {
+   "PackageUUID": "bH7wBDEh.AutoPlatformed_eGHuxEH3",
+   "FileList": [
+    {
+     "SubFileID": "Android",
+     "SHA1": "FWmDPMuu0hGbX7pYcQt6dcSyIgE=",
+     "FileSize": 352535,
+     "URL": "http://localhost:8081/packages/bH7wBDEh.AutoPlatformed_eGHuxEH3/Android",
+     "PlatformRequireMask": 1
+    },
+    {
+     "SubFileID": "Ios",
+     "SHA1": "O35H7DCTuxYswXaiJCznLJmNLnM=",
+     "FileSize": 170759,
+     "URL": "http://localhost:8081/packages/bH7wBDEh.AutoPlatformed_eGHuxEH3/Ios",
+     "PlatformRequireMask": 2
+    },
+    {
+     "SubFileID": "WebGL",
+     "SHA1": "9PEpIeenYM9W12poz2xs7vVJEfI=",
+     "FileSize": 352551,
+     "URL": "http://localhost:8081/packages/bH7wBDEh.AutoPlatformed_eGHuxEH3/WebGL",
+     "PlatformRequireMask": 4
+    }
+   ],
+   "DownloadPriority": 0
+  },
+  {
+   "PackageUUID": "bH7wBDEh.ColliderCommon_RwfCCnW5",
+   "FileList": [
+    {
+     "SubFileID": "Client",
+     "SHA1": "By7B+HRJ4l8TXWB4dDReDVfFbuU=",
+     "FileSize": 238,
+     "URL": "http://localhost:8081/packages/bH7wBDEh.ColliderCommon_RwfCCnW5/Client",
+     "PlatformRequireMask": 7
+    },
+    {
+     "SubFileID": "Server",
+     "SHA1": "By7B+HRJ4l8TXWB4dDReDVfFbuU=",
+     "FileSize": 238,
+     "URL": "http://localhost:8081/packages/bH7wBDEh.ColliderCommon_RwfCCnW5/Server",
+     "PlatformRequireMask": 8
+    }
+   ],
+   "DownloadPriority": 0
+  },
+  {
+   "PackageUUID": "bH7wBDEh.ColliderCommon_3m0CteM3",
+   "FileList": [
+    {
+     "SubFileID": "Client",
+     "SHA1": "rBOuOWJAlwkoC65Nc9rtx8c21nI=",
+     "FileSize": 697,
+     "URL": "http://localhost:8081/packages/bH7wBDEh.ColliderCommon_3m0CteM3/Client",
+     "PlatformRequireMask": 7
+    },
+    {
+     "SubFileID": "Server",
+     "SHA1": "rBOuOWJAlwkoC65Nc9rtx8c21nI=",
+     "FileSize": 697,
+     "URL": "http://localhost:8081/packages/bH7wBDEh.ColliderCommon_3m0CteM3/Server",
+     "PlatformRequireMask": 8
+    }
+   ],
+   "DownloadPriority": 0
+  },
+  {
+   "PackageUUID": "bH7wBDEh.AutoPlatformed_UseZkLYq",
+   "FileList": [
+    {
+     "SubFileID": "Android",
+     "SHA1": "IbuQ9teCz8YxQQFvyZHDK4xODdU=",
+     "FileSize": 1398361,
+     "URL": "http://localhost:8081/packages/bH7wBDEh.AutoPlatformed_UseZkLYq/Android",
+     "PlatformRequireMask": 1
+    },
+    {
+     "SubFileID": "Ios",
+     "SHA1": "o4NhbZxB/WYz9MgDl0mQlmCZduQ=",
+     "FileSize": 626522,
+     "URL": "http://localhost:8081/packages/bH7wBDEh.AutoPlatformed_UseZkLYq/Ios",
+     "PlatformRequireMask": 2
+    },
+    {
+     "SubFileID": "WebGL",
+     "SHA1": "BPOSdv/wakz2wYuyONrkpldXFdk=",
+     "FileSize": 1398362,
+     "URL": "http://localhost:8081/packages/bH7wBDEh.AutoPlatformed_UseZkLYq/WebGL",
+     "PlatformRequireMask": 4
+    }
+   ],
+   "DownloadPriority": 0
+  },
+  {
+   "PackageUUID": "bH7wBDEh.ColliderCommon_COo90FFd",
+   "FileList": [
+    {
+     "SubFileID": "Client",
+     "SHA1": "wumRja/I+khf1WHC61ZgSNkJtAk=",
+     "FileSize": 391,
+     "URL": "http://localhost:8081/packages/bH7wBDEh.ColliderCommon_COo90FFd/Client",
+     "PlatformRequireMask": 7
+    },
+    {
+     "SubFileID": "Server",
+     "SHA1": "wumRja/I+khf1WHC61ZgSNkJtAk=",
+     "FileSize": 391,
+     "URL": "http://localhost:8081/packages/bH7wBDEh.ColliderCommon_COo90FFd/Server",
+     "PlatformRequireMask": 8
+    }
+   ],
+   "DownloadPriority": 0
+  },
+  {
+   "PackageUUID": "bH7wBDEh.ColliderCommon_ss3FtfyE",
+   "FileList": [
+    {
+     "SubFileID": "Client",
+     "SHA1": "fcrnaRkraQv5mIIeXA4Rb5cDtCE=",
+     "FileSize": 1615,
+     "URL": "http://localhost:8081/packages/bH7wBDEh.ColliderCommon_ss3FtfyE/Client",
+     "PlatformRequireMask": 7
+    },
+    {
+     "SubFileID": "Server",
+     "SHA1": "fcrnaRkraQv5mIIeXA4Rb5cDtCE=",
+     "FileSize": 1615,
+     "URL": "http://localhost:8081/packages/bH7wBDEh.ColliderCommon_ss3FtfyE/Server",
+     "PlatformRequireMask": 8
+    }
+   ],
+   "DownloadPriority": 0
+  }
+ ]
+}

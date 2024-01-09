@@ -1,0 +1,739 @@
+import "StdLibrary.fcc" as stdLibrary
+import "Economy.fcc" as economy
+import "GameResult.fcc" as gameResult
+import "Hud.fcc" as hud
+import "Workflow.fcc" as workflow
+import "MiniMap.fcc" as miniMap
+
+
+
+
+
+
+// Assets\ECA\GlobalSpawnPoints.eca
+declare graph e2pgaps0ne_lpuqgeu3_tn1zkicgsq {
+    // spawnPointDict
+    vF8L1qqxZ Map<object, object>
+
+    // spawnPointList
+    vwcnbNt11 List<object>
+
+    // disableSpawnPoint()
+    func HqED_g88tk__Xq_a_eR3 () 
+
+    // enableSpawnPoint()
+    func _DLb__4Ws_NO_a__A_8X () 
+
+    // getSpawnPointList(mapChoice Int)
+    func dJmd5Ob__S2zUyb7OGwK (param0 int) List<object>
+
+}
+
+// Assets\ECA\Global.eca
+declare graph avg0m1jvb7l_lpuu6wfz_7zhx3gi1lb {
+    // hasConfig
+    vrB16owLh bool
+
+    // storeNumber
+    vPBQOQjw6 int
+
+    // winTeam
+    vW9pBg28j entity<Team>
+
+    // loseTeam
+    vkdBS7gcN entity<Team>
+
+    // teamMap
+    vSMg5i3Pr Map<object, object>
+
+    // keyList
+    v0v9yyMnH object
+
+    // canUpdate
+    vWqsmtiof bool
+
+    // checked
+    vksW4DhiG bool
+
+    // setGlobalPlayerConfig()
+    func N__e____lWUkyZ_yG5i_ () 
+
+    // checkEndRound()
+    func JN_t____F_Ouo0g_4AH_ () 
+
+    // endRound(winTeam Team)
+    func _bW6Io5ApjD_ZdL_Lp_M (param0 entity<Team>) 
+
+    // endGame(winTeam Team)
+    func _6Rk_W_nmZYi___S6__lp (param0 entity<Team>) 
+
+    // addItemForAll()
+    func _Y_ldh5_cr_9FHNnzul_ () 
+
+    // removeMedKitForAll()
+    func _Y__24bodj__B9PESN_H () 
+
+    // updateTeamMap()
+    func __Nr_GeIc_vZ_qACu1pC () 
+
+    // MyFunction4513()
+    func b_aT_PW_hpk8____sE__ () 
+
+    // checkEndRound2()
+    func _u_J4K_ePe_NsK_____k () 
+
+}
+
+// Assets\ECA\PlayerStoreConfig.eca
+declare graph jksjjjtrs7n_lpuxbwyq_b02gf7p1he7 {
+    // store1
+    vt2bAUmbg object
+
+    // store2
+    vWfLfXRDR object
+
+    // armory
+    vahNznZvV object
+
+    // grenade
+    vup57AVkM object
+
+    // initPlayerStoreConfig()
+    func cf_MrE_OO8m2_QFGzjB_ () 
+
+    // setStore1()
+    func K_qtDo_Pm_P__RQPU3rP () 
+
+    // setStore2()
+    func X_05_Y7i_tTF1hii69CN () 
+
+    // setArmory()
+    func Nq383YIojXXDmCL_oj4z () 
+
+    // setGrenade()
+    func HUwO2x_eu_5l_zPQ4nNS () 
+
+}
+
+// Assets\ECA\Player.eca
+declare graph cql89ar1r3n_lpuxc2dm_t2htgmhmbrd {
+    // scale
+    vHXOxSaxj float
+
+    // isSmallerEvent
+    vFYYQkZxc bool
+
+    // isBiggerEvent
+    vn72drqeH object
+
+    // coolDownFlag
+    vgIwmS16a bool
+
+    // setBigHead()
+    func _4pslXY_zJ_cIWfw_RQ_1 () 
+
+    // setSpeed()
+    func _FE5j_RhjL3_QVf1_3_L () 
+
+    // restoreDefault()
+    func gcvI___WH8vmmP_QH1_4 () 
+
+    // setGravity()
+    func OcQ_G0dW_M0_cx58dgD_ () 
+
+    // reduceScale()
+    func __R0sOf8_z_NBvFMGpd_ () 
+
+    // resetScale()
+    func q5wwU_UGu__w__d_fgP_ () 
+
+    // setSmaller()
+    func _5rB_OX3AVPLsP_O_2q7R () 
+
+    // setBigger()
+    func w_a__B__GRo__8z_2R__ () 
+
+    // increaseScale()
+    func _6_78_LXsT_Gv_E_QS5o_ () 
+
+    // setJetShoes()
+    func JG9c_3tVnS_EJuUD____ () 
+
+}
+
+// Assets\ECA\PlayerStore.eca
+declare graph cei2kqtsxxg_lpuzmwql_w7udg0v4vnt {
+    // merchandiseList
+    vRwUzF9l9 object
+
+    // storeEntity
+    v0UCeTm39 entity<Shop>
+
+    // hasShop
+    vsY60NWww object
+
+    // stores
+    vRa1coppk List<entity<LevelObject>>
+
+    // createStore()
+    func _I_YsKc____EF0___7J_ () 
+
+    // setWeapon()
+    func __rkLz___I1_Itu__vF_ () 
+
+    // setArmory()
+    func hTDVDN5_b9_Jia7__Irx () 
+
+    // getMerchandiseList(storeList any, merchandiseName any)
+    func _A__3Bv0FL_iuZAS_Yw5 (param0 object, param1 object) object
+
+    // setGrenade()
+    func t__iMU9uX_34c_a__k_7 () 
+
+    // enableStore()
+    func lVQbe_04_k__AT___K3W () 
+
+    // disableStore()
+    func a___5_o1I7xYMRYh_I__ () 
+
+}
+
+// Assets\ECA\Team.eca
+declare graph k754bhlj5n_lpw1qhn0_9kc6pj0ik0k {
+    // numberAlive
+    vTsRMBgMA int
+
+    // numberKnocked
+    v6uYNX04B int
+
+    // numberEliminated
+    vdJ74Fo4i int
+
+    // opposingTeam
+    vzeBwcIqx entity<Team>
+
+    // opposingTeamIndex
+    vLVsvnYC4 object
+
+    // currentTeamIndex
+    v0o2ZUGpU object
+
+    // opposingTeamList
+    vGwpHtyWs List<entity<Team>>
+
+    // opposingTeamIndexList
+    vxEc1tQB0 object
+
+    // teamMembers
+    vW4Xapy5l List<entity<Player>>
+
+    // updateTeamStatus()
+    func _0w3__8A_K1__snOzjj_W () 
+
+    // getOpposingTeam()
+    func Ud___H_fbmtio1PxqmpC () entity<Team>
+
+    // updateAllTeamStatus()
+    func j_crGhG8_Ft4dSLQj__N () 
+
+    // getOpposingTeamList()
+    func QHUpSJ_NWZkyON___mTO () List<entity<Team>>
+
+}
+
+// Assets\ECA\TeamMatchResult.eca
+declare graph dvpwij1f3j_lpw1qq8k_ogveqotjmco {
+    // resultList
+    vtC7cKMDW object
+
+    // initRoundResult()
+    func try_7__fyYMpJ_SRSeLR () 
+
+    // getTeamScore()
+    func f__BW7bXvCbW_LVDV_sL () int
+
+    // setRoundResult(result MatchResultType)
+    func _Loe4_fZ7X_c_lwvoOtY (param0 MatchResultType) 
+
+    // setTargetScore(score Int)
+    func hrr_YtmS_A_Vbl2_MM_5 (param0 int) 
+
+}
+
+// Assets\ECA\GlobalConfig.eca
+declare graph cwstknb38ku_lpwb9x2j_skduka710zm {
+    // Obj
+    v415H7Dfe object
+
+    // winMoney
+    vFcAKvQ8W object
+
+    // loseMoney
+    v3vZzhdzH object
+
+    // isMatchPoint
+    vQwsvU5QR object
+
+}
+
+// Assets\ECA\GlobalGunCombo.eca
+declare graph cjmdgndjlva_lpw1qpj8_gpvovb7kpcu {
+    // combo1
+    verWq5N7H List<object>
+
+    // combo2
+    v4u0Gzai1 List<object>
+
+    // combo3
+    vAMsHq4Hn List<object>
+
+    // combo4
+    vZjw6OwFG List<object>
+
+    // combo5
+    v28R4YgxN List<object>
+
+    // combo6
+    vycGYu6jY List<object>
+
+    // combo7
+    vSNaHHsFB List<object>
+
+    // combo8
+    vMNlIM0as List<object>
+
+    // combo9
+    vmPFwqilN List<object>
+
+    // combo10
+    vfLGi1jc4 List<object>
+
+    // gunCombos
+    vOAjuWCpT List<object>
+
+    // chosenGunCombos
+    vkrfP0jyk object
+
+    // 1stComboCount
+    viZxafZ1l int
+
+    // 2ndComboCount
+    vBOc3F0s5 int
+
+    // 3rdComboCount
+    vzG7UxyYO int
+
+    // chosenCombo
+    vTLcohqeN object
+
+    // gunsMap
+    v8EDd8lfT object
+
+    // bannedCombo
+    v6NeUBnBs List<object>
+
+    // initGunCombo()
+    func p_zH_v_qdr_vC5qa_PS_ () 
+
+    // initRoundGunCombo()
+    func POiL_8___w_5kKH3_aW_ () 
+
+    // vote1st()
+    func __kiYx_3VbBSuPc8gX_3 () 
+
+    // vote2nd()
+    func F0D8NJp_cQP_0HWBI_V_ () 
+
+    // vote3rd()
+    func _3h2_T_Pi_G2v_IG_GcX () 
+
+    // calculateVote()
+    func gaQBYW_RZbOFqLJOj9b_ () 
+
+    // decreaseCombo1()
+    func N7r0U__AE__RD_nWzX7_ () 
+
+    // decreaseCombo2()
+    func __o_n0_OtfjL___v_J1R () 
+
+    // decreaseCombo3()
+    func _93b_X_UE__sVb6qa_bFe () 
+
+}
+
+// Assets\ECA\GlobalBorder.eca
+declare graph h7ziy5anuwf_lq0ceq34_fn8wiowy0gk {
+    // Borders
+    vbXaP9THt List<object>
+
+    // borderChoice
+    vHgSEW8V5 int
+
+    // center
+    v6jQeSBgQ object
+
+    // bordersNew
+    v81n98YHI object
+
+    // turnOnFirstBorder(mapChoice Int)
+    func __oE_J4TV5Z_yMU3_Xx_ (param0 int) 
+
+    // turnOnSecondBorder(mapChoice Int)
+    func __rR4P_mm_8JWF1V__jS (param0 int) 
+
+}
+
+// Assets\ECA\GlobalMap.eca
+declare graph x9i68a1u5g_lq0kxeiv_4v12clzs2hh {
+    // mapChoice
+    vgcbWIgsr int
+
+    // chosenMaps
+    v0vjXRpLF List<object>
+
+    // chooseMap()
+    func _FoV_zFue___da_Ar_q_ () 
+
+}
+
+// Assets\ECA\PlayerDefaultHUD.eca
+declare graph ymnzd3323on_lq0rbw3s_ud5usbxhkp9 {
+    // scoreBoard
+    viE6WDETG entity<TwoTeamMatchInfoHud>
+
+    // countDownHUD
+    v2ZsdvZKj entity<PhaseCountDownHud>
+
+    // roundStartHUD
+    vWbfcBos3 entity<TwoTeamRoundScoreBannerHud>
+
+    // roundInfo
+    vyBmfXthd entity<OpeningBannerHud>
+
+    // roundResult
+    v2mR5iR0t entity<ResultBannerHud>
+
+    // borderReminder
+    v6UBMWekV entity<CountdownReminderHud>
+
+    // walletHUD
+    vj6m0wxc2 entity<WalletHud>
+
+    // statHUD
+    vgJIF5KPw entity<TwoTeamLeaderboardHud>
+
+    // statHUDentity
+    v8kgN8mmh entity<CustomHud>
+
+    // statHUDNew
+    vcQRncHOV entity<MoreTeamLeaderboardHud>
+
+    // updateScoreBoard()
+    func _7E7g__9_w__HETAq_DD3 () 
+
+    // setScoreBoard()
+    func jOEC_K_ZG___Pu_K9___ () 
+
+    // setDefaultHUD()
+    func tupws0U6h__it_P_mY3j () 
+
+    // setCountDownHUD(phaseEntity Phase)
+    func __Y2_X_a3d_G_k_dc_Ce (param0 entity<Phase>) 
+
+    // setTeamBattleBanner()
+    func _2_x_Fb_cO_k_J__heL5_ () 
+
+    // setRoundStartHUD()
+    func FL_amc_mW_O__re6s4b_ () 
+
+    // setRoundInfo()
+    func c8_Px5_uQ_L_Tl_NVBVV () 
+
+    // showRoundResult()
+    func __0N_Mo_su_urc__m_0F () 
+
+    // showMatchStart()
+    func bafwlOi____IC7r_Y__p () 
+
+    // showBorderReminder()
+    func ZT29f_H_ok_yIC5_o___ () 
+
+    // initWalletHUD()
+    func T8w_yHm_0V_0_I_W_Mk3 () 
+
+    // updateWalletHUD()
+    func tx1pOQ_tJs0____BU__m () 
+
+    // showStatHUD()
+    func l__vs_GFhe0H_6eWaadD () 
+
+    // setStatHUD()
+    func RB_u____j_MO0Et_fwK_ () 
+
+    // updateStatHUD()
+    func T_KuDT61_h7GC_o7PWD_ () 
+
+    // setStatHUDEntity()
+    func _kJH_z6N2_675kJTYBHO () 
+
+    // closeStatHUD()
+    func _4m_cCk8Ii__1L_OTY__R () 
+
+    // setFinalScore()
+    func _4_vhv_J_0v24_Bxbcly_ () 
+
+    // setObjectiveHUD()
+    func IF9_c0fV_N_x4RTm_Rih () 
+
+    // showBorderReminder2()
+    func kv_tHLM_jhyMYQ_VdGVc () 
+
+    // deleteHUD()
+    func _ExE8_iglsSj_k1SLOdZ () 
+
+}
+
+// Assets\ECA\PlayerMatchResult.eca
+declare graph oil5vrteh8l_lq250ypv_zofzy67nhyq {
+    // killScoreList
+    vXAJnzb0d object
+
+    // damageScoreList
+    vvoOqltem object
+
+    // assistScoreList
+    vdTnrq7H3 object
+
+    // assistedPlayers
+    viA7PCnXu List<entity<Player>>
+
+    // hasResultList
+    vCUZGmVvY object
+
+    // initMatchResult()
+    func bkwS___f8s4uHN5I__5k () 
+
+    // add1Kill()
+    func SRL_91__Ojb_H_mt5nI_ () 
+
+    // addDamage(damage Int)
+    func _e__Y_e_hH_sBqkR_o__ (param0 int) 
+
+    // add1Assist()
+    func _id__HftYJ__dPKB_nX_ () 
+
+    // addAssistedPlayer(player Player)
+    func __TMLXZ7pvAZ34_4Qd8Y (param0 entity<Player>) 
+
+    // removeAssistedPlayer(player Player)
+    func lLN_O__B__n7LsTDkM_U (param0 entity<Player>) 
+
+    // updateRoundResult()
+    func fJLA0__vX38_s_p0DGK_ () 
+
+}
+
+// Assets\ECA\GlobalScore.eca
+declare graph ooedosfbgx_lq39ixan_mxkdeyhojx {
+    // setScoreType()
+    func _l1n__Y4TCw3___zKJFA () 
+
+}
+
+// Assets\ECA\PlayerWallet.eca
+declare graph _2vj1chrewvt_lq3i1s0x_nb3hzx7jp2e {
+    // initWallet()
+    func g57__S_J4_gZ_Oz_rI4_ () 
+
+    // getCurrencyEntity()
+    func _Ow8_Rb_DYQQW2_g_S__ () entity<Money>
+
+    // getCurrencyAmount()
+    func v_91LsQb4_ZD2_iZM2_D () int
+
+    // addMoneyAmount(amount Int)
+    func t_RzS_vu__V9_C_Dg_f_ (param0 int) 
+
+    // addMoneyEndRound()
+    func _mU7OdbtypSjT_yC_I4S () 
+
+}
+
+// Assets\ECA\HUDstat.eca
+declare graph rbkf5g8n4va_lq4nomqk_83yvpoytgzs {
+}
+
+// Assets\ECA\PlayerCustomHUD.eca
+declare graph pypnorzyv8_lq50qizo_pn72bw06ne {
+    // teamScoreHUD
+    v25Ngy2Hv entity<CustomHud>
+
+    // initScoreHUD()
+    func mI9wQwdCG8B43_QHbbs_ () 
+
+    // updateScoreHUD()
+    func _jp_d_R_1OXT9_Ecu95_ () 
+
+    // diasbleScoreHUD()
+    func _ddGf_V8Ry_YPk_e_cPB () 
+
+}
+
+// Assets\ECA\Water.eca
+declare graph _45s8q11cij8_lqanzhkp_ey2o0o2960u {
+    // playersInWater
+    v1XuDKNSF object
+
+    // water
+    v2g1UlQcy entity<Playable>
+
+    // waterHeightPerMap
+    vMn1DTSjA object
+
+    // dealWaterDamage()
+    func _aU___xF_MpcGy_i06_P () 
+
+}
+
+// Assets\ECA\HUDGunVote.eca
+declare graph ffqxvhk4isi_lqnl32ym_key1h6oh12 {
+}
+
+// Assets\ECA\PlayerVoteGun.eca
+declare graph gp6s5c4k33w_lqnoql7z_idyx9465r7s {
+    // chooseCombo1
+    vdyhIT8p3 bool
+
+    // chooseCombo2
+    vySinkV0N bool
+
+    // chooseCombo3
+    vlhkaYLpx bool
+
+    // gunVote
+    v1P9uQA8w entity<CustomHud>
+
+    // calculated
+    vNWy8zqDB bool
+
+    // gunVoteResult
+    vXa69MIY3 entity<CustomHud>
+
+    // hasInit
+    vkUCpOcTp bool
+
+    // chooseCombo1()
+    func __FQ_uK_yYo6_Gli9wW4 () 
+
+    // resetVote()
+    func KPG1Xs9XK_afb___h_aV () 
+
+    // setGunVote()
+    func _tTMKjaWd_7iZuA2__9v () 
+
+    // updateVote()
+    func _JCg8_Ihc__LA__46FiW () 
+
+    // disableVote()
+    func _l_x4An__u__MitKgCl9 () 
+
+    // updateTimer(time any)
+    func I6K4_6_Fz__G2wkoVJ__ (param0 object) 
+
+    // setGun()
+    func _uxE__Jct_xR_sV_Bnr_ () 
+
+    // setGunResult()
+    func xu2Jr__Z1___pxAljL_T () 
+
+    // addGunForPlayer()
+    func _2gZMXIug__C4ZmpmN__ () 
+
+    // turnOffChecks()
+    func _05__iHZ_6U_lm6W__8Kr () 
+
+    // chooseCombo2()
+    func Unm_rD9v_TEs__Fl_o3i () 
+
+    // chooseCombo3()
+    func _N_9k__6H_Xo___qTZ_U () 
+
+}
+
+// Assets\ECA\Vending.eca
+declare graph _3zrtnaf85gi_lqaeeu9f_7klrbip0t6t {
+}
+
+// Assets\ECA\GlobalRandomEvent.eca
+declare graph ri76rmou10o_lqp0fa43_2ozl0qwwv3h {
+    // randomEventList
+    vhqc059jZ object
+
+    // chosenEvent
+    vcG9OofRt int
+
+    // chosenEventList
+    v7MZNa1CU List<object>
+
+    // priorityEvent
+    vmyfndA6Z object
+
+    // setRandomEventRound()
+    func fBCk_iZb_A_Rx7Oo9t9z () 
+
+    // gloowallEvent()
+    func _0Uuc_GH1_1IxEo2f_k8 () 
+
+    // grenadeEvent()
+    func _501V_NZzdch84_m4__E () 
+
+    // initRandomEvent()
+    func X_j__L____EEhxc___CK () 
+
+    // getEvent(random any)
+    func km_JP4bZ_M54_VcpO___ (param0 object) int
+
+    // randomizeEvent()
+    func S__eA6_FOg______g__p () int
+
+    // setRandomEventRound2()
+    func _PNsK_9_bv_7Xv__i8V_ () 
+
+}
+
+// Assets\ECA\Player_Minimap.eca
+declare graph _3562c4ae_eb99_4e63_b184_cc97897ebac8 {
+    // map
+    vlOR7r7hA entity<MiniMapIcon>
+
+}
+
+// Assets\ECA\PlayerScoreBoard.eca
+declare graph cekwn4d9v1_lqx8hufh_h1xnefjq2br {
+    // scoreBoardHUD
+    vA2ZaeaKW entity<CustomHud>
+
+    // setScoreBoard()
+    func _0i___3vXaj_C_KW_7_BC () 
+
+    // updateScoreBoard()
+    func _jM__v__emJlA_6__arc () 
+
+    // setText(winTeam Team)
+    func c94XU__lPR2O_Ygqg_Ul (param0 entity<Team>) 
+
+    // setPoint(winTeam Team)
+    func _B_89zhHrJ_NDOOQPGYX (param0 entity<Team>) 
+
+}
+
+// Assets\ECA\GlobalTeam.eca
+declare graph kxkge010pf9_lr0b2str_x553zs4hq2f {
+    // teams
+    vrwnFAFu6 List<entity<Team>>
+
+    // addTeam(team any)
+    func g_A1WUb_FBwn_B__X_E6 (param0 object) 
+
+}
+

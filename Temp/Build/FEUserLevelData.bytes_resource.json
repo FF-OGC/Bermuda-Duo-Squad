@@ -1,0 +1,138 @@
+{
+ "OptionalResourceNames": [
+  "T_34_M_WS_ICON_CORPSE",
+  "ui_icon_skill_Kenta",
+  "ui_icon_skill_Grenade_Split",
+  "ui_icon_skill_Singersb_link",
+  "FF_WS_guest",
+  "ui_icon_skill_Santino_01",
+  "SOUND_SFX_Rushingpets_UI_Finish",
+  "SOUND_SFX_Rushingpets_UI_Victory",
+  "UI_PDM_KillKing_Icon",
+  "SOUND_UI_SHOOTINGGAME_END",
+  "SOUND_INGAME_WAITINGCOUNTDOWN",
+  "SOUND_VEHICLE_AIRSHIP_BOX_OPEN",
+  "SOUND_UI_MOTION_COMMON_PROGRESSLONG",
+  "T_34_M_WS_ICON_SQUARE",
+  "FF_ingame_hud_HuntingGround02_White",
+  "FF_ingame_hud_HuntingGround02_Bg_tips",
+  "ui_icon_skill_RunSpeedUp",
+  "UI_BG_Buff_yellow",
+  "SOUND_UI_CLICK_COMMON_DEFAULT",
+  "WS_VFX_Flower001_A",
+  "T_34_M_WS_ICON_QUADRI",
+  "HuntingGroun d_BG_Bag_Delete01"
+ ],
+ "ItemIds": [
+  215,
+  143
+ ],
+ "ResourcePackageInfo": {
+  "DataFormatVersion": 0,
+  "RefPackages": [
+   {
+    "Name": "wehss29x.AutoCommon_qZC7wUI3",
+    "UUID": "wehss29x.AutoCommon_qZC7wUI3",
+    "UseVersionMD5": "IuMdacV39LmRCD/6YHMSdJfa2Tg=",
+    "WhoRequire": "ClientServer",
+    "PlatformSpecial": true
+   },
+   {
+    "Name": "Atlas-bH7wBDEh.a-97pynja0gxg-lqomsinn-ilhdiycvioe",
+    "UUID": "bH7wBDEh.a-97pynja0gxg-lqomsinn-ilhdiycvioe",
+    "UseVersionMD5": "Vd8UvH4bGdfkE3MhMRroteDtpCI=",
+    "WhoRequire": "ClientOnly",
+    "PlatformSpecial": true
+   },
+   {
+    "Name": "Atlas-bH7wBDEh.a-b91hh440vpv-lqp1g1p2-xa4r8xmv0gg",
+    "UUID": "bH7wBDEh.a-b91hh440vpv-lqp1g1p2-xa4r8xmv0gg",
+    "UseVersionMD5": "Ed3UkbobHzW04TCUnw+fpJV8s6w=",
+    "WhoRequire": "ClientOnly",
+    "PlatformSpecial": true
+   },
+   {
+    "Name": "Atlas-bH7wBDEh.a-pa0u65ysq2h-lqw4ji3s-h07b6mub4gu",
+    "UUID": "bH7wBDEh.a-pa0u65ysq2h-lqw4ji3s-h07b6mub4gu",
+    "UseVersionMD5": "lKffUy6ES84R6YrGYR5fn5AlD+I=",
+    "WhoRequire": "ClientOnly",
+    "PlatformSpecial": true
+   },
+   {
+    "Name": "Atlas-bH7wBDEh.a-iczgmo8br1h-lqxgfhx5-hta9f9e77r5",
+    "UUID": "bH7wBDEh.a-iczgmo8br1h-lqxgfhx5-hta9f9e77r5",
+    "UseVersionMD5": "V6Bhh/gUJ2vSUzJAXgoSJO/se1o=",
+    "WhoRequire": "ClientOnly",
+    "PlatformSpecial": true
+   },
+   {
+    "Name": "Atlas-bH7wBDEh.a-fd3ru750ria-lqop96u9-xjk5ps3q6lh",
+    "UUID": "bH7wBDEh.a-fd3ru750ria-lqop96u9-xjk5ps3q6lh",
+    "UseVersionMD5": "KFAQGFHpr2OkKl6qAc7GBkjg4lo=",
+    "WhoRequire": "ClientOnly",
+    "PlatformSpecial": true
+   },
+   {
+    "Name": "bH7wBDEh.ColliderCommon_o2HXwRyj",
+    "UUID": "bH7wBDEh.ColliderCommon_o2HXwRyj",
+    "UseVersionMD5": "7sJOmZ49rlE0sthx8pOfTtgkBZ8=",
+    "WhoRequire": "ClientServer",
+    "PlatformSpecial": false
+   },
+   {
+    "Name": "bH7wBDEh.AutoPlatformed_eGHuxEH3",
+    "UUID": "bH7wBDEh.AutoPlatformed_eGHuxEH3",
+    "UseVersionMD5": "rTVnhVcXCriC3Jrp+YTMO/JZNTk=",
+    "WhoRequire": "ClientOnly",
+    "PlatformSpecial": true
+   },
+   {
+    "Name": "bH7wBDEh.ColliderCommon_RwfCCnW5",
+    "UUID": "bH7wBDEh.ColliderCommon_RwfCCnW5",
+    "UseVersionMD5": "jfIbUT5EZHvegNQZoN8OsgOfDiE=",
+    "WhoRequire": "ClientServer",
+    "PlatformSpecial": false
+   },
+   {
+    "Name": "bH7wBDEh.ColliderCommon_3m0CteM3",
+    "UUID": "bH7wBDEh.ColliderCommon_3m0CteM3",
+    "UseVersionMD5": "OKs5+q0wyhhh1xKJI3xrFoZ9o6M=",
+    "WhoRequire": "ClientServer",
+    "PlatformSpecial": false
+   },
+   {
+    "Name": "bH7wBDEh.AutoPlatformed_UseZkLYq",
+    "UUID": "bH7wBDEh.AutoPlatformed_UseZkLYq",
+    "UseVersionMD5": "BFmH49auj+U9jaucopsJxQc2RDQ=",
+    "WhoRequire": "ClientOnly",
+    "PlatformSpecial": true
+   },
+   {
+    "Name": "bH7wBDEh.ColliderCommon_COo90FFd",
+    "UUID": "bH7wBDEh.ColliderCommon_COo90FFd",
+    "UseVersionMD5": "7WVrL6hyKqiDgysHhLViMoIHJpA=",
+    "WhoRequire": "ClientServer",
+    "PlatformSpecial": false
+   },
+   {
+    "Name": "bH7wBDEh.ColliderCommon_ss3FtfyE",
+    "UUID": "bH7wBDEh.ColliderCommon_ss3FtfyE",
+    "UseVersionMD5": "5AfwX/xJB4Q9eoGF4bxnfQ/g1hk=",
+    "WhoRequire": "ClientServer",
+    "PlatformSpecial": false
+   }
+  ],
+  "BuildinPackages": [
+   {
+    "Name": "BuiltIn",
+    "UUID": "BuiltIn",
+    "ShareType": "Private",
+    "PackageType": "FFBuildinResource",
+    "UseableType": "ClientOnly",
+    "Version": "1.0.0",
+    "DataFormatVersion": 1
+   }
+  ]
+ },
+ "NotNecessaryResData": {}
+}
