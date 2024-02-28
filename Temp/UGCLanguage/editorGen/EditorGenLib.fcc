@@ -4,6 +4,8 @@ import "GameResult.fcc" as gameResult
 import "Hud.fcc" as hud
 import "Workflow.fcc" as workflow
 import "MiniMap.fcc" as miniMap
+import "Playable.fcc" as playable
+import "AirDrop.fcc" as airDrop
 
 
 
@@ -11,6 +13,7 @@ import "MiniMap.fcc" as miniMap
 
 
 // Assets\ECA\GlobalSpawnPoints.eca
+[platform_server]
 declare graph e2pgaps0ne_lpuqgeu3_tn1zkicgsq {
     // spawnPointDict
     vF8L1qqxZ Map<object, object>
@@ -27,9 +30,13 @@ declare graph e2pgaps0ne_lpuqgeu3_tn1zkicgsq {
     // getSpawnPointList(mapChoice Int)
     func dJmd5Ob__S2zUyb7OGwK (param0 int) List<object>
 
+    // turnOffTeamCylinder(visualEffect any)
+    func uxqoaXWe0a2Y_L_xkz6H (param0 object) 
+
 }
 
 // Assets\ECA\Global.eca
+[platform_server]
 declare graph avg0m1jvb7l_lpuu6wfz_7zhx3gi1lb {
     // hasConfig
     vrB16owLh bool
@@ -85,6 +92,7 @@ declare graph avg0m1jvb7l_lpuu6wfz_7zhx3gi1lb {
 }
 
 // Assets\ECA\PlayerStoreConfig.eca
+[platform_server]
 declare graph jksjjjtrs7n_lpuxbwyq_b02gf7p1he7 {
     // store1
     vt2bAUmbg object
@@ -116,6 +124,7 @@ declare graph jksjjjtrs7n_lpuxbwyq_b02gf7p1he7 {
 }
 
 // Assets\ECA\Player.eca
+[platform_server]
 declare graph cql89ar1r3n_lpuxc2dm_t2htgmhmbrd {
     // scale
     vHXOxSaxj float
@@ -159,9 +168,22 @@ declare graph cql89ar1r3n_lpuxc2dm_t2htgmhmbrd {
     // setJetShoes()
     func JG9c_3tVnS_EJuUD____ () 
 
+    // setFPP()
+    func _1N6Oplil__4WNzr_Hpt8 () 
+
+    // setVisibility()
+    func I_Xe1yKdxLOtnB_Xz__O () 
+
+    // setFPP2()
+    func MfkafN6HDM_0_KJRp7_D () 
+
+    // addItemForAll()
+    func _Y_ldh5_cr_9FHNnzul__ () 
+
 }
 
 // Assets\ECA\PlayerStore.eca
+[platform_server]
 declare graph cei2kqtsxxg_lpuzmwql_w7udg0v4vnt {
     // merchandiseList
     vRwUzF9l9 object
@@ -199,6 +221,7 @@ declare graph cei2kqtsxxg_lpuzmwql_w7udg0v4vnt {
 }
 
 // Assets\ECA\Team.eca
+[platform_server]
 declare graph k754bhlj5n_lpw1qhn0_9kc6pj0ik0k {
     // numberAlive
     vTsRMBgMA int
@@ -227,6 +250,21 @@ declare graph k754bhlj5n_lpw1qhn0_9kc6pj0ik0k {
     // teamMembers
     vW4Xapy5l List<entity<Player>>
 
+    // Kills
+    vzg2yNlWU int
+
+    // teamName
+    viBBvuY5F object
+
+    // teamColor
+    vSjiFylJ0 object
+
+    // fisrtBlood
+    vJQb65EnF bool
+
+    // topTeam
+    vcIWEVNDU bool
+
     // updateTeamStatus()
     func _0w3__8A_K1__snOzjj_W () 
 
@@ -239,12 +277,34 @@ declare graph k754bhlj5n_lpw1qhn0_9kc6pj0ik0k {
     // getOpposingTeamList()
     func QHUpSJ_NWZkyON___mTO () List<entity<Team>>
 
+    // initTeamConfig()
+    func no6_sUj_Oj6P2pK_x_3_ () 
+
+    // updateAllTeamStatus2()
+    func ____3Rkr98__9H_D_2QY () 
+
 }
 
 // Assets\ECA\TeamMatchResult.eca
+[platform_server]
 declare graph dvpwij1f3j_lpw1qq8k_ogveqotjmco {
     // resultList
     vtC7cKMDW object
+
+    // kills
+    vbsKe3oYI int
+
+    // totalKills
+    vQA8qZO9N int
+
+    // prevScore
+    vzoTpVp8K int
+
+    // booyah
+    vOHGBQduu int
+
+    // firstBlood
+    v2425DBgP bool
 
     // initRoundResult()
     func try_7__fyYMpJ_SRSeLR () 
@@ -258,9 +318,16 @@ declare graph dvpwij1f3j_lpw1qq8k_ogveqotjmco {
     // setTargetScore(score Int)
     func hrr_YtmS_A_Vbl2_MM_5 (param0 int) 
 
+    // resetKills()
+    func KiT8Zb3Lw_cbN_b72S0_ () 
+
+    // getTeamScore2()
+    func _8_KM_x__U__CZ__c__Ji () int
+
 }
 
 // Assets\ECA\GlobalConfig.eca
+[platform_server]
 declare graph cwstknb38ku_lpwb9x2j_skduka710zm {
     // Obj
     v415H7Dfe object
@@ -277,6 +344,7 @@ declare graph cwstknb38ku_lpwb9x2j_skduka710zm {
 }
 
 // Assets\ECA\GlobalGunCombo.eca
+[platform_server]
 declare graph cjmdgndjlva_lpw1qpj8_gpvovb7kpcu {
     // combo1
     verWq5N7H List<object>
@@ -335,6 +403,9 @@ declare graph cjmdgndjlva_lpw1qpj8_gpvovb7kpcu {
     // calculated
     vlY9vyPHi bool
 
+    // combo11
+    vr7vFdfDK object
+
     // initGunCombo()
     func p_zH_v_qdr_vC5qa_PS_ () 
 
@@ -365,6 +436,7 @@ declare graph cjmdgndjlva_lpw1qpj8_gpvovb7kpcu {
 }
 
 // Assets\ECA\GlobalBorder.eca
+[platform_server]
 declare graph h7ziy5anuwf_lq0ceq34_fn8wiowy0gk {
     // Borders
     vbXaP9THt List<object>
@@ -378,15 +450,25 @@ declare graph h7ziy5anuwf_lq0ceq34_fn8wiowy0gk {
     // bordersNew
     v81n98YHI object
 
+    // secondBorderChoice
+    vGLNYweQD object
+
     // turnOnFirstBorder(mapChoice Int)
     func __oE_J4TV5Z_yMU3_Xx_ (param0 int) 
 
     // turnOnSecondBorder(mapChoice Int)
     func __rR4P_mm_8JWF1V__jS (param0 int) 
 
+    // getBorderLocation(mapChoice any)
+    func ____M__e__N_rM2c_TV_ (param0 object) Vector3
+
+    // turnOnSecondBorder2(mapChoice Int)
+    func _Ay_i____iA3C___PhsQ (param0 int) 
+
 }
 
 // Assets\ECA\GlobalMap.eca
+[platform_server]
 declare graph x9i68a1u5g_lq0kxeiv_4v12clzs2hh {
     // mapChoice
     vgcbWIgsr int
@@ -400,6 +482,7 @@ declare graph x9i68a1u5g_lq0kxeiv_4v12clzs2hh {
 }
 
 // Assets\ECA\PlayerDefaultHUD.eca
+[platform_server]
 declare graph ymnzd3323on_lq0rbw3s_ud5usbxhkp9 {
     // scoreBoard
     viE6WDETG entity<TwoTeamMatchInfoHud>
@@ -497,6 +580,7 @@ declare graph ymnzd3323on_lq0rbw3s_ud5usbxhkp9 {
 }
 
 // Assets\ECA\PlayerMatchResult.eca
+[platform_server]
 declare graph oil5vrteh8l_lq250ypv_zofzy67nhyq {
     // killScoreList
     vXAJnzb0d object
@@ -537,6 +621,7 @@ declare graph oil5vrteh8l_lq250ypv_zofzy67nhyq {
 }
 
 // Assets\ECA\GlobalScore.eca
+[platform_server]
 declare graph ooedosfbgx_lq39ixan_mxkdeyhojx {
     // setScoreType()
     func _l1n__Y4TCw3___zKJFA () 
@@ -544,6 +629,7 @@ declare graph ooedosfbgx_lq39ixan_mxkdeyhojx {
 }
 
 // Assets\ECA\PlayerWallet.eca
+[platform_server]
 declare graph _2vj1chrewvt_lq3i1s0x_nb3hzx7jp2e {
     // initWallet()
     func g57__S_J4_gZ_Oz_rI4_ () 
@@ -563,13 +649,24 @@ declare graph _2vj1chrewvt_lq3i1s0x_nb3hzx7jp2e {
 }
 
 // Assets\ECA\HUDstat.eca
+[platform_server]
 declare graph rbkf5g8n4va_lq4nomqk_83yvpoytgzs {
 }
 
 // Assets\ECA\PlayerCustomHUD.eca
+[platform_server]
 declare graph pypnorzyv8_lq50qizo_pn72bw06ne {
     // teamScoreHUD
     v25Ngy2Hv entity<CustomHud>
+
+    // waterReminder
+    vQRiAfp7R entity<CustomHud>
+
+    // updated
+    vuTslGIhR bool
+
+    // topTeam
+    vJRvPkP4a entity<IconEntity>
 
     // initScoreHUD()
     func mI9wQwdCG8B43_QHbbs_ () 
@@ -580,9 +677,25 @@ declare graph pypnorzyv8_lq50qizo_pn72bw06ne {
     // diasbleScoreHUD()
     func _ddGf_V8Ry_YPk_e_cPB () 
 
+    // showWaterReminder()
+    func _Hm__gL_Vw6JLDaU6E_k () 
+
+    // closeWaterReminder()
+    func W8ElXFnjoUeJ90II0xd_ () 
+
+    // setFirstBloodHUD()
+    func _0e8De_k_a0B__DuxVcN_ () 
+
+    // setTopTeamIcon()
+    func Y__4QdoA8DxOit__F_NG () 
+
+    // disableTopTeam()
+    func TB__qj0ix_G9Os_bsb7_ () 
+
 }
 
 // Assets\ECA\Water.eca
+[platform_server]
 declare graph _45s8q11cij8_lqanzhkp_ey2o0o2960u {
     // playersInWater
     v1XuDKNSF object
@@ -599,10 +712,12 @@ declare graph _45s8q11cij8_lqanzhkp_ey2o0o2960u {
 }
 
 // Assets\ECA\HUDGunVote.eca
+[platform_server]
 declare graph ffqxvhk4isi_lqnl32ym_key1h6oh12 {
 }
 
 // Assets\ECA\PlayerVoteGun.eca
+[platform_server]
 declare graph gp6s5c4k33w_lqnoql7z_idyx9465r7s {
     // chooseCombo1
     vdyhIT8p3 bool
@@ -624,6 +739,9 @@ declare graph gp6s5c4k33w_lqnoql7z_idyx9465r7s {
 
     // hasInit
     vkUCpOcTp bool
+
+    // eventHUD
+    v8C9JN2Vl entity<CustomHud>
 
     // chooseCombo1()
     func __FQ_uK_yYo6_Gli9wW4 () 
@@ -661,13 +779,21 @@ declare graph gp6s5c4k33w_lqnoql7z_idyx9465r7s {
     // chooseCombo3()
     func _N_9k__6H_Xo___qTZ_U () 
 
+    // setEventHUD()
+    func _w__Hp2tsbVB6AMeX__Q () 
+
+    // deleteEventHUD()
+    func d5A_Gr7_xrRF___RcURW () 
+
 }
 
 // Assets\ECA\Vending.eca
+[platform_server]
 declare graph _3zrtnaf85gi_lqaeeu9f_7klrbip0t6t {
 }
 
 // Assets\ECA\GlobalRandomEvent.eca
+[platform_server]
 declare graph ri76rmou10o_lqp0fa43_2ozl0qwwv3h {
     // randomEventList
     vhqc059jZ object
@@ -705,6 +831,7 @@ declare graph ri76rmou10o_lqp0fa43_2ozl0qwwv3h {
 }
 
 // Assets\ECA\Player_Minimap.eca
+[platform_server]
 declare graph _3562c4ae_eb99_4e63_b184_cc97897ebac8 {
     // map
     vlOR7r7hA entity<MiniMapIcon>
@@ -712,9 +839,16 @@ declare graph _3562c4ae_eb99_4e63_b184_cc97897ebac8 {
 }
 
 // Assets\ECA\PlayerScoreBoard.eca
+[platform_server]
 declare graph cekwn4d9v1_lqx8hufh_h1xnefjq2br {
     // scoreBoardHUD
     vA2ZaeaKW entity<CustomHud>
+
+    // locationMotion
+    viy1Fsx56 entity<Tween>
+
+    // opacityMotion
+    vlxzFwZyU entity<Tween>
 
     // setScoreBoard()
     func _0i___3vXaj_C_KW_7_BC () 
@@ -728,15 +862,82 @@ declare graph cekwn4d9v1_lqx8hufh_h1xnefjq2br {
     // setPoint(winTeam Team)
     func _B_89zhHrJ_NDOOQPGYX (param0 entity<Team>) 
 
+    // setScoreBoard2()
+    func _15_m____W_z3pf4_M_3_ () 
+
+    // updateScoreBoard2()
+    func KxnrDRaulKDq__7KS1_q () 
+
+    // setText2(winTeam Team)
+    func Mg_GVzVz_znnL5_i_37S (param0 entity<Team>) 
+
+    // setPoint2(winTeam Team)
+    func _s_8_k_GM_6XJWu6zz__ (param0 entity<Team>) 
+
+    // increasePointAnimation(start Int, end Int, UIControl HudWidget)
+    func OE6E___JYZ__o7p_XvhE (param0 int, param1 int, param2 entity<HudWidget>) 
+
+    // plusAnimation(point Int, UIControl HudWidget)
+    func _N_MX7nj_mf_C_tmO_M3 (param0 int, param1 entity<HudWidget>) 
+
+    // setTopTeamUI(topTeamIndex Int)
+    func vS_8I__zRI6__W1qQe8_ (param0 int) 
+
+    // sortTeamScore()
+    func _AS4VYni______0__H__ () List<entity<Team>>
+
+    // resetCurrentTeam()
+    func _324oov_UAG__VU_E_fGK () 
+
+    // setTopTeam(teamList ListT_Team)
+    func LZsz5_DC_Vd_du__hh_1 (param0 List<entity<Team>>) 
+
 }
 
 // Assets\ECA\GlobalTeam.eca
+[platform_server]
 declare graph kxkge010pf9_lr0b2str_x553zs4hq2f {
     // teams
     vrwnFAFu6 List<entity<Team>>
 
+    // firstBlood
+    vmHhCSO3f bool
+
     // addTeam(team any)
     func g_A1WUb_FBwn_B__X_E6 (param0 object) 
+
+    // setFirstBloodTeam(player Player)
+    func __7E_yT_HuytI___Th_x (param0 entity<Player>) 
+
+}
+
+// Assets\ECA\HUDSkill.eca
+[platform_server]
+declare graph _96tffegrrna_lr8oh4gh_9yxn6jwk99d {
+}
+
+// Assets\ECA\PlayerSkillHUD.eca
+[platform_server]
+declare graph rzbo7icxn4n_lr8oo24s_5tieruo5a99 {
+}
+
+// Assets\ECA\GlobalAirdrop.eca
+[platform_server]
+declare graph fkj798oo1y_lryefmr7_uprow45yhzr {
+    // airdrop
+    vbMJQowdh entity<AirDrop>
+
+    // airdropLocation
+    vp0PyxP1j object
+
+    // airdropChoice
+    vYCTa5Ilt object
+
+    // createAirdrop(mapChoice Int)
+    func s__pZd___QV0O2U__C_Q (param0 int) 
+
+    // deleteAirdrop()
+    func _fC__E_o_zI2lLp_5A__ () 
 
 }
 

@@ -1,4 +1,9 @@
 {
+  "NameSpace": {
+    "Name": "bH7wBDEh",
+    "ID": 0,
+    "UIDSeed": 1
+  },
   "FileSpaces": [
     {
       "Path": "EditorGenLib.fcc",
@@ -7,7 +12,7 @@
         "Events": [],
         "Graphs": [
           {
-            "ID": "e2pgaps0ne-lpuqgeu3-tn1zkicgsq",
+            "ID": "bH7wBDEh.e2pgaps0ne-lpuqgeu3-tn1zkicgsq",
             "Name": "e2pgaps0ne_lpuqgeu3_tn1zkicgsq",
             "Props": [
               {
@@ -31,11 +36,15 @@
               {
                 "ID": "getSpawnPointList",
                 "Name": "dJmd5Ob__S2zUyb7OGwK"
+              },
+              {
+                "ID": "turnOffTeamCylinder",
+                "Name": "uxqoaXWe0a2Y_L_xkz6H"
               }
             ]
           },
           {
-            "ID": "avg0m1jvb7l-lpuu6wfz-7zhx3gi1lb",
+            "ID": "bH7wBDEh.avg0m1jvb7l-lpuu6wfz-7zhx3gi1lb",
             "Name": "avg0m1jvb7l_lpuu6wfz_7zhx3gi1lb",
             "Props": [
               {
@@ -111,7 +120,7 @@
             ]
           },
           {
-            "ID": "jksjjjtrs7n-lpuxbwyq-b02gf7p1he7",
+            "ID": "bH7wBDEh.jksjjjtrs7n-lpuxbwyq-b02gf7p1he7",
             "Name": "jksjjjtrs7n_lpuxbwyq_b02gf7p1he7",
             "Props": [
               {
@@ -155,7 +164,7 @@
             ]
           },
           {
-            "ID": "cql89ar1r3n-lpuxc2dm-t2htgmhmbrd",
+            "ID": "bH7wBDEh.cql89ar1r3n-lpuxc2dm-t2htgmhmbrd",
             "Name": "cql89ar1r3n_lpuxc2dm_t2htgmhmbrd",
             "Props": [
               {
@@ -215,11 +224,27 @@
               {
                 "ID": "setJetShoes",
                 "Name": "JG9c_3tVnS_EJuUD____"
+              },
+              {
+                "ID": "setFPP",
+                "Name": "_1N6Oplil__4WNzr_Hpt8"
+              },
+              {
+                "ID": "setVisibility",
+                "Name": "I_Xe1yKdxLOtnB_Xz__O"
+              },
+              {
+                "ID": "setFPP2",
+                "Name": "MfkafN6HDM_0_KJRp7_D"
+              },
+              {
+                "ID": "addItemForAll",
+                "Name": "_Y_ldh5_cr_9FHNnzul__"
               }
             ]
           },
           {
-            "ID": "cei2kqtsxxg-lpuzmwql-w7udg0v4vnt",
+            "ID": "bH7wBDEh.cei2kqtsxxg-lpuzmwql-w7udg0v4vnt",
             "Name": "cei2kqtsxxg_lpuzmwql_w7udg0v4vnt",
             "Props": [
               {
@@ -271,7 +296,7 @@
             ]
           },
           {
-            "ID": "k754bhlj5n-lpw1qhn0-9kc6pj0ik0k",
+            "ID": "bH7wBDEh.k754bhlj5n-lpw1qhn0-9kc6pj0ik0k",
             "Name": "k754bhlj5n_lpw1qhn0_9kc6pj0ik0k",
             "Props": [
               {
@@ -309,6 +334,26 @@
               {
                 "ID": "vW4Xapy5l",
                 "Name": "vW4Xapy5l"
+              },
+              {
+                "ID": "vzg2yNlWU",
+                "Name": "vzg2yNlWU"
+              },
+              {
+                "ID": "viBBvuY5F",
+                "Name": "viBBvuY5F"
+              },
+              {
+                "ID": "vSjiFylJ0",
+                "Name": "vSjiFylJ0"
+              },
+              {
+                "ID": "vJQb65EnF",
+                "Name": "vJQb65EnF"
+              },
+              {
+                "ID": "vcIWEVNDU",
+                "Name": "vcIWEVNDU"
               }
             ],
             "Funcs": [
@@ -327,16 +372,44 @@
               {
                 "ID": "getOpposingTeamList",
                 "Name": "QHUpSJ_NWZkyON___mTO"
+              },
+              {
+                "ID": "initTeamConfig",
+                "Name": "no6_sUj_Oj6P2pK_x_3_"
+              },
+              {
+                "ID": "updateAllTeamStatus2",
+                "Name": "____3Rkr98__9H_D_2QY"
               }
             ]
           },
           {
-            "ID": "dvpwij1f3j-lpw1qq8k-ogveqotjmco",
+            "ID": "bH7wBDEh.dvpwij1f3j-lpw1qq8k-ogveqotjmco",
             "Name": "dvpwij1f3j_lpw1qq8k_ogveqotjmco",
             "Props": [
               {
                 "ID": "vtC7cKMDW",
                 "Name": "vtC7cKMDW"
+              },
+              {
+                "ID": "vbsKe3oYI",
+                "Name": "vbsKe3oYI"
+              },
+              {
+                "ID": "vQA8qZO9N",
+                "Name": "vQA8qZO9N"
+              },
+              {
+                "ID": "vzoTpVp8K",
+                "Name": "vzoTpVp8K"
+              },
+              {
+                "ID": "vOHGBQduu",
+                "Name": "vOHGBQduu"
+              },
+              {
+                "ID": "v2425DBgP",
+                "Name": "v2425DBgP"
               }
             ],
             "Funcs": [
@@ -355,11 +428,19 @@
               {
                 "ID": "setTargetScore",
                 "Name": "hrr_YtmS_A_Vbl2_MM_5"
+              },
+              {
+                "ID": "resetKills",
+                "Name": "KiT8Zb3Lw_cbN_b72S0_"
+              },
+              {
+                "ID": "getTeamScore2",
+                "Name": "_8_KM_x__U__CZ__c__Ji"
               }
             ]
           },
           {
-            "ID": "cwstknb38ku-lpwb9x2j-skduka710zm",
+            "ID": "bH7wBDEh.cwstknb38ku-lpwb9x2j-skduka710zm",
             "Name": "cwstknb38ku_lpwb9x2j_skduka710zm",
             "Props": [
               {
@@ -382,7 +463,7 @@
             "Funcs": []
           },
           {
-            "ID": "cjmdgndjlva-lpw1qpj8-gpvovb7kpcu",
+            "ID": "bH7wBDEh.cjmdgndjlva-lpw1qpj8-gpvovb7kpcu",
             "Name": "cjmdgndjlva_lpw1qpj8_gpvovb7kpcu",
             "Props": [
               {
@@ -460,6 +541,10 @@
               {
                 "ID": "vlY9vyPHi",
                 "Name": "vlY9vyPHi"
+              },
+              {
+                "ID": "vr7vFdfDK",
+                "Name": "vr7vFdfDK"
               }
             ],
             "Funcs": [
@@ -502,7 +587,7 @@
             ]
           },
           {
-            "ID": "h7ziy5anuwf-lq0ceq34-fn8wiowy0gk",
+            "ID": "bH7wBDEh.h7ziy5anuwf-lq0ceq34-fn8wiowy0gk",
             "Name": "h7ziy5anuwf_lq0ceq34_fn8wiowy0gk",
             "Props": [
               {
@@ -520,6 +605,10 @@
               {
                 "ID": "v81n98YHI",
                 "Name": "v81n98YHI"
+              },
+              {
+                "ID": "vGLNYweQD",
+                "Name": "vGLNYweQD"
               }
             ],
             "Funcs": [
@@ -530,11 +619,19 @@
               {
                 "ID": "turnOnSecondBorder",
                 "Name": "__rR4P_mm_8JWF1V__jS"
+              },
+              {
+                "ID": "getBorderLocation",
+                "Name": "____M__e__N_rM2c_TV_"
+              },
+              {
+                "ID": "turnOnSecondBorder2",
+                "Name": "_Ay_i____iA3C___PhsQ"
               }
             ]
           },
           {
-            "ID": "x9i68a1u5g-lq0kxeiv-4v12clzs2hh",
+            "ID": "bH7wBDEh.x9i68a1u5g-lq0kxeiv-4v12clzs2hh",
             "Name": "x9i68a1u5g_lq0kxeiv_4v12clzs2hh",
             "Props": [
               {
@@ -554,7 +651,7 @@
             ]
           },
           {
-            "ID": "ymnzd3323on-lq0rbw3s-ud5usbxhkp9",
+            "ID": "bH7wBDEh.ymnzd3323on-lq0rbw3s-ud5usbxhkp9",
             "Name": "ymnzd3323on_lq0rbw3s_ud5usbxhkp9",
             "Props": [
               {
@@ -686,7 +783,7 @@
             ]
           },
           {
-            "ID": "oil5vrteh8l-lq250ypv-zofzy67nhyq",
+            "ID": "bH7wBDEh.oil5vrteh8l-lq250ypv-zofzy67nhyq",
             "Name": "oil5vrteh8l_lq250ypv_zofzy67nhyq",
             "Props": [
               {
@@ -742,7 +839,7 @@
             ]
           },
           {
-            "ID": "ooedosfbgx-lq39ixan-mxkdeyhojx",
+            "ID": "bH7wBDEh.ooedosfbgx-lq39ixan-mxkdeyhojx",
             "Name": "ooedosfbgx_lq39ixan_mxkdeyhojx",
             "Props": [],
             "Funcs": [
@@ -753,7 +850,7 @@
             ]
           },
           {
-            "ID": "2vj1chrewvt-lq3i1s0x-nb3hzx7jp2e",
+            "ID": "bH7wBDEh.2vj1chrewvt-lq3i1s0x-nb3hzx7jp2e",
             "Name": "_2vj1chrewvt_lq3i1s0x_nb3hzx7jp2e",
             "Props": [],
             "Funcs": [
@@ -780,18 +877,30 @@
             ]
           },
           {
-            "ID": "rbkf5g8n4va-lq4nomqk-83yvpoytgzs",
+            "ID": "bH7wBDEh.rbkf5g8n4va-lq4nomqk-83yvpoytgzs",
             "Name": "rbkf5g8n4va_lq4nomqk_83yvpoytgzs",
             "Props": [],
             "Funcs": []
           },
           {
-            "ID": "pypnorzyv8-lq50qizo-pn72bw06ne",
+            "ID": "bH7wBDEh.pypnorzyv8-lq50qizo-pn72bw06ne",
             "Name": "pypnorzyv8_lq50qizo_pn72bw06ne",
             "Props": [
               {
                 "ID": "v25Ngy2Hv",
                 "Name": "v25Ngy2Hv"
+              },
+              {
+                "ID": "vQRiAfp7R",
+                "Name": "vQRiAfp7R"
+              },
+              {
+                "ID": "vuTslGIhR",
+                "Name": "vuTslGIhR"
+              },
+              {
+                "ID": "vJRvPkP4a",
+                "Name": "vJRvPkP4a"
               }
             ],
             "Funcs": [
@@ -806,11 +915,31 @@
               {
                 "ID": "diasbleScoreHUD",
                 "Name": "_ddGf_V8Ry_YPk_e_cPB"
+              },
+              {
+                "ID": "showWaterReminder",
+                "Name": "_Hm__gL_Vw6JLDaU6E_k"
+              },
+              {
+                "ID": "closeWaterReminder",
+                "Name": "W8ElXFnjoUeJ90II0xd_"
+              },
+              {
+                "ID": "setFirstBloodHUD",
+                "Name": "_0e8De_k_a0B__DuxVcN_"
+              },
+              {
+                "ID": "setTopTeamIcon",
+                "Name": "Y__4QdoA8DxOit__F_NG"
+              },
+              {
+                "ID": "disableTopTeam",
+                "Name": "TB__qj0ix_G9Os_bsb7_"
               }
             ]
           },
           {
-            "ID": "45s8q11cij8-lqanzhkp-ey2o0o2960u",
+            "ID": "bH7wBDEh.45s8q11cij8-lqanzhkp-ey2o0o2960u",
             "Name": "_45s8q11cij8_lqanzhkp_ey2o0o2960u",
             "Props": [
               {
@@ -834,13 +963,13 @@
             ]
           },
           {
-            "ID": "ffqxvhk4isi-lqnl32ym-key1h6oh12",
+            "ID": "bH7wBDEh.ffqxvhk4isi-lqnl32ym-key1h6oh12",
             "Name": "ffqxvhk4isi_lqnl32ym_key1h6oh12",
             "Props": [],
             "Funcs": []
           },
           {
-            "ID": "gp6s5c4k33w-lqnoql7z-idyx9465r7s",
+            "ID": "bH7wBDEh.gp6s5c4k33w-lqnoql7z-idyx9465r7s",
             "Name": "gp6s5c4k33w_lqnoql7z_idyx9465r7s",
             "Props": [
               {
@@ -870,6 +999,10 @@
               {
                 "ID": "vkUCpOcTp",
                 "Name": "vkUCpOcTp"
+              },
+              {
+                "ID": "v8C9JN2Vl",
+                "Name": "v8C9JN2Vl"
               }
             ],
             "Funcs": [
@@ -920,17 +1053,25 @@
               {
                 "ID": "chooseCombo3",
                 "Name": "_N_9k__6H_Xo___qTZ_U"
+              },
+              {
+                "ID": "setEventHUD",
+                "Name": "_w__Hp2tsbVB6AMeX__Q"
+              },
+              {
+                "ID": "deleteEventHUD",
+                "Name": "d5A_Gr7_xrRF___RcURW"
               }
             ]
           },
           {
-            "ID": "3zrtnaf85gi-lqaeeu9f-7klrbip0t6t",
+            "ID": "bH7wBDEh.3zrtnaf85gi-lqaeeu9f-7klrbip0t6t",
             "Name": "_3zrtnaf85gi_lqaeeu9f_7klrbip0t6t",
             "Props": [],
             "Funcs": []
           },
           {
-            "ID": "ri76rmou10o-lqp0fa43-2ozl0qwwv3h",
+            "ID": "bH7wBDEh.ri76rmou10o-lqp0fa43-2ozl0qwwv3h",
             "Name": "ri76rmou10o_lqp0fa43_2ozl0qwwv3h",
             "Props": [
               {
@@ -982,7 +1123,7 @@
             ]
           },
           {
-            "ID": "3562c4ae-eb99-4e63-b184-cc97897ebac8",
+            "ID": "bH7wBDEh.3562c4ae-eb99-4e63-b184-cc97897ebac8",
             "Name": "_3562c4ae_eb99_4e63_b184_cc97897ebac8",
             "Props": [
               {
@@ -993,12 +1134,20 @@
             "Funcs": []
           },
           {
-            "ID": "cekwn4d9v1-lqx8hufh-h1xnefjq2br",
+            "ID": "bH7wBDEh.cekwn4d9v1-lqx8hufh-h1xnefjq2br",
             "Name": "cekwn4d9v1_lqx8hufh_h1xnefjq2br",
             "Props": [
               {
                 "ID": "vA2ZaeaKW",
                 "Name": "vA2ZaeaKW"
+              },
+              {
+                "ID": "viy1Fsx56",
+                "Name": "viy1Fsx56"
+              },
+              {
+                "ID": "vlxzFwZyU",
+                "Name": "vlxzFwZyU"
               }
             ],
             "Funcs": [
@@ -1017,22 +1166,110 @@
               {
                 "ID": "setPoint",
                 "Name": "_B_89zhHrJ_NDOOQPGYX"
+              },
+              {
+                "ID": "setScoreBoard2",
+                "Name": "_15_m____W_z3pf4_M_3_"
+              },
+              {
+                "ID": "updateScoreBoard2",
+                "Name": "KxnrDRaulKDq__7KS1_q"
+              },
+              {
+                "ID": "setText2",
+                "Name": "Mg_GVzVz_znnL5_i_37S"
+              },
+              {
+                "ID": "setPoint2",
+                "Name": "_s_8_k_GM_6XJWu6zz__"
+              },
+              {
+                "ID": "increasePointAnimation",
+                "Name": "OE6E___JYZ__o7p_XvhE"
+              },
+              {
+                "ID": "plusAnimation",
+                "Name": "_N_MX7nj_mf_C_tmO_M3"
+              },
+              {
+                "ID": "setTopTeamUI",
+                "Name": "vS_8I__zRI6__W1qQe8_"
+              },
+              {
+                "ID": "sortTeamScore",
+                "Name": "_AS4VYni______0__H__"
+              },
+              {
+                "ID": "resetCurrentTeam",
+                "Name": "_324oov_UAG__VU_E_fGK"
+              },
+              {
+                "ID": "setTopTeam",
+                "Name": "LZsz5_DC_Vd_du__hh_1"
               }
             ]
           },
           {
-            "ID": "kxkge010pf9-lr0b2str-x553zs4hq2f",
+            "ID": "bH7wBDEh.kxkge010pf9-lr0b2str-x553zs4hq2f",
             "Name": "kxkge010pf9_lr0b2str_x553zs4hq2f",
             "Props": [
               {
                 "ID": "vrwnFAFu6",
                 "Name": "vrwnFAFu6"
+              },
+              {
+                "ID": "vmHhCSO3f",
+                "Name": "vmHhCSO3f"
               }
             ],
             "Funcs": [
               {
                 "ID": "addTeam",
                 "Name": "g_A1WUb_FBwn_B__X_E6"
+              },
+              {
+                "ID": "setFirstBloodTeam",
+                "Name": "__7E_yT_HuytI___Th_x"
+              }
+            ]
+          },
+          {
+            "ID": "bH7wBDEh.96tffegrrna-lr8oh4gh-9yxn6jwk99d",
+            "Name": "_96tffegrrna_lr8oh4gh_9yxn6jwk99d",
+            "Props": [],
+            "Funcs": []
+          },
+          {
+            "ID": "bH7wBDEh.rzbo7icxn4n-lr8oo24s-5tieruo5a99",
+            "Name": "rzbo7icxn4n_lr8oo24s_5tieruo5a99",
+            "Props": [],
+            "Funcs": []
+          },
+          {
+            "ID": "bH7wBDEh.fkj798oo1y-lryefmr7-uprow45yhzr",
+            "Name": "fkj798oo1y_lryefmr7_uprow45yhzr",
+            "Props": [
+              {
+                "ID": "vbMJQowdh",
+                "Name": "vbMJQowdh"
+              },
+              {
+                "ID": "vp0PyxP1j",
+                "Name": "vp0PyxP1j"
+              },
+              {
+                "ID": "vYCTa5Ilt",
+                "Name": "vYCTa5Ilt"
+              }
+            ],
+            "Funcs": [
+              {
+                "ID": "createAirdrop",
+                "Name": "s__pZd___QV0O2U__C_Q"
+              },
+              {
+                "ID": "deleteAirdrop",
+                "Name": "_fC__E_o_zI2lLp_5A__"
               }
             ]
           }

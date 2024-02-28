@@ -1,31 +1,50 @@
 {
  "OptionalResourceNames": [
+  "UGC_T_34_LY_WS_VFX2",
+  "UGC_1P_MALE_UPPERBODY",
+  "BOSOLDIERUGC1PMALEAVATAR",
+  "NB_NEW_UGC_1P_WEAPONFIST_CONTROLLER",
+  "SOUND_SFX_Rushingpets_UI_Finish",
+  "SOUND_SFX_Rushingpets_UI_Victory",
+  "UI_PDM_Revenge_Icon",
+  "SOUND_UI_SHOOTINGGAME_END",
+  "SOUND_INGAME_WAITINGCOUNTDOWN",
+  "SOUND_WS_KILL",
+  "UI_WeaponPower_BR_01",
+  "SOUND_VEHICLE_AIRSHIP_BOX_OPEN",
+  "SOUND_UI_MOTION_COMMON_PROGRESSLONG",
   "T_34_M_WS_ICON_CORPSE",
   "ui_icon_skill_Kenta",
   "ui_icon_skill_Grenade_Split",
   "ui_icon_skill_Singersb_link",
   "FF_WS_guest",
   "ui_icon_skill_Santino_01",
-  "SOUND_SFX_Rushingpets_UI_Finish",
-  "SOUND_SFX_Rushingpets_UI_Victory",
-  "UI_PDM_KillKing_Icon",
-  "SOUND_UI_SHOOTINGGAME_END",
-  "SOUND_INGAME_WAITINGCOUNTDOWN",
-  "SOUND_VEHICLE_AIRSHIP_BOX_OPEN",
-  "SOUND_UI_MOTION_COMMON_PROGRESSLONG",
+  "T_34_M_WS_ICON_LOOP",
+  "FF_UI_Active_Noon",
+  "PREFAB_UGC_1P_MALE_SCAR",
+  "NB_NEW_UGC_1P_WEAPONSCAR_CONTROLLER",
+  "PREFAB_UGC_1P_MALE_GRENADE",
+  "NB_NEW_UGC_1P_GRENADE_CONTROLLER",
   "T_34_M_WS_ICON_SQUARE",
   "FF_ingame_hud_HuntingGround02_White",
+  "FF_UI_InviteWindow_FG",
+  "UI_PDM_KillKing_Icon",
   "FF_ingame_hud_HuntingGround02_Bg_tips",
   "ui_icon_skill_RunSpeedUp",
   "UI_BG_Buff_yellow",
   "SOUND_UI_CLICK_COMMON_DEFAULT",
+  "HuntingGroun d_BG_Bag_Delete01",
   "WS_VFX_Flower001_A",
   "T_34_M_WS_ICON_QUADRI",
-  "HuntingGroun d_BG_Bag_Delete01"
+  "UI_Customize_official_icon",
+  "T_34_M_WS_ICON_ARROW",
+  "T_34_M_WS_ICON_TROPHY",
+  "FF_UI_FirstBlood_icon_kill02"
  ],
  "ItemIds": [
   215,
-  143
+  143,
+  223
  ],
  "ResourcePackageInfo": {
   "DataFormatVersion": 0,
@@ -40,91 +59,119 @@
    {
     "Name": "Atlas-bH7wBDEh.a-97pynja0gxg-lqomsinn-ilhdiycvioe",
     "UUID": "bH7wBDEh.a-97pynja0gxg-lqomsinn-ilhdiycvioe",
-    "UseVersionMD5": "Vd8UvH4bGdfkE3MhMRroteDtpCI=",
+    "UseVersionMD5": "oo1gwKVSWfS1bpmD9j4mHEp6RRU=",
+    "WhoRequire": "ClientOnly",
+    "PlatformSpecial": true
+   },
+   {
+    "Name": "Atlas-bH7wBDEh.a-qd0vho0lacr-lrh8ruj9-mh5k2n4uzx",
+    "UUID": "bH7wBDEh.a-qd0vho0lacr-lrh8ruj9-mh5k2n4uzx",
+    "UseVersionMD5": "EJhtgpY+sikMOk5dO3iO9BA4MEQ=",
     "WhoRequire": "ClientOnly",
     "PlatformSpecial": true
    },
    {
     "Name": "Atlas-bH7wBDEh.a-b91hh440vpv-lqp1g1p2-xa4r8xmv0gg",
     "UUID": "bH7wBDEh.a-b91hh440vpv-lqp1g1p2-xa4r8xmv0gg",
-    "UseVersionMD5": "Ed3UkbobHzW04TCUnw+fpJV8s6w=",
+    "UseVersionMD5": "CTfWVyiahnzATCpyCBwu/YH7l8Q=",
     "WhoRequire": "ClientOnly",
     "PlatformSpecial": true
    },
    {
     "Name": "Atlas-bH7wBDEh.a-pa0u65ysq2h-lqw4ji3s-h07b6mub4gu",
     "UUID": "bH7wBDEh.a-pa0u65ysq2h-lqw4ji3s-h07b6mub4gu",
-    "UseVersionMD5": "lKffUy6ES84R6YrGYR5fn5AlD+I=",
+    "UseVersionMD5": "YrauyL5AKpjbqYUXuwHgVsm0+cQ=",
     "WhoRequire": "ClientOnly",
     "PlatformSpecial": true
    },
    {
     "Name": "Atlas-bH7wBDEh.a-iczgmo8br1h-lqxgfhx5-hta9f9e77r5",
     "UUID": "bH7wBDEh.a-iczgmo8br1h-lqxgfhx5-hta9f9e77r5",
-    "UseVersionMD5": "V6Bhh/gUJ2vSUzJAXgoSJO/se1o=",
+    "UseVersionMD5": "8whou4+lS1bKGx5TDyZos/mniXc=",
     "WhoRequire": "ClientOnly",
     "PlatformSpecial": true
    },
    {
     "Name": "Atlas-bH7wBDEh.a-fd3ru750ria-lqop96u9-xjk5ps3q6lh",
     "UUID": "bH7wBDEh.a-fd3ru750ria-lqop96u9-xjk5ps3q6lh",
-    "UseVersionMD5": "KFAQGFHpr2OkKl6qAc7GBkjg4lo=",
+    "UseVersionMD5": "r3Bq8al8eUfEI9ZHM4GMjM2BTwc=",
+    "WhoRequire": "ClientOnly",
+    "PlatformSpecial": true
+   },
+   {
+    "Name": "Atlas-bH7wBDEh.a-ka5av3md0s-lrharvdb-2e54a61z8r1",
+    "UUID": "bH7wBDEh.a-ka5av3md0s-lrharvdb-2e54a61z8r1",
+    "UseVersionMD5": "vXzvHM4Ny0m730xxd2A8OwHQnkY=",
     "WhoRequire": "ClientOnly",
     "PlatformSpecial": true
    },
    {
     "Name": "bH7wBDEh.ColliderCommon_o2HXwRyj",
     "UUID": "bH7wBDEh.ColliderCommon_o2HXwRyj",
-    "UseVersionMD5": "7sJOmZ49rlE0sthx8pOfTtgkBZ8=",
+    "UseVersionMD5": "OpidsmEDOkPXtRm7x6V+tEwrKQI=",
     "WhoRequire": "ClientServer",
     "PlatformSpecial": false
    },
    {
     "Name": "bH7wBDEh.AutoPlatformed_eGHuxEH3",
     "UUID": "bH7wBDEh.AutoPlatformed_eGHuxEH3",
-    "UseVersionMD5": "rTVnhVcXCriC3Jrp+YTMO/JZNTk=",
+    "UseVersionMD5": "MtZq67tepq8+0Ki2mOt2i7yl0BU=",
     "WhoRequire": "ClientOnly",
     "PlatformSpecial": true
    },
    {
     "Name": "bH7wBDEh.ColliderCommon_RwfCCnW5",
     "UUID": "bH7wBDEh.ColliderCommon_RwfCCnW5",
-    "UseVersionMD5": "jfIbUT5EZHvegNQZoN8OsgOfDiE=",
+    "UseVersionMD5": "jtK/EN59vpMHFW0R5HpHUSVXcD4=",
     "WhoRequire": "ClientServer",
     "PlatformSpecial": false
    },
    {
     "Name": "bH7wBDEh.ColliderCommon_3m0CteM3",
     "UUID": "bH7wBDEh.ColliderCommon_3m0CteM3",
-    "UseVersionMD5": "OKs5+q0wyhhh1xKJI3xrFoZ9o6M=",
+    "UseVersionMD5": "NDjBznZ2n5kjxgKECtZ2azXsjso=",
     "WhoRequire": "ClientServer",
     "PlatformSpecial": false
    },
    {
     "Name": "bH7wBDEh.AutoPlatformed_UseZkLYq",
     "UUID": "bH7wBDEh.AutoPlatformed_UseZkLYq",
-    "UseVersionMD5": "BFmH49auj+U9jaucopsJxQc2RDQ=",
+    "UseVersionMD5": "SumRJSUznqeWwQNvXb+/PJcsXl8=",
     "WhoRequire": "ClientOnly",
     "PlatformSpecial": true
    },
    {
     "Name": "bH7wBDEh.ColliderCommon_COo90FFd",
     "UUID": "bH7wBDEh.ColliderCommon_COo90FFd",
-    "UseVersionMD5": "7WVrL6hyKqiDgysHhLViMoIHJpA=",
+    "UseVersionMD5": "2ku2V+WgOIgw1KT0abCb4oL+BEw=",
     "WhoRequire": "ClientServer",
     "PlatformSpecial": false
    },
    {
     "Name": "bH7wBDEh.ColliderCommon_ss3FtfyE",
     "UUID": "bH7wBDEh.ColliderCommon_ss3FtfyE",
-    "UseVersionMD5": "5AfwX/xJB4Q9eoGF4bxnfQ/g1hk=",
+    "UseVersionMD5": "UnJtIUltGI3xxFI/GB7ladDwLes=",
     "WhoRequire": "ClientServer",
     "PlatformSpecial": false
    },
    {
     "Name": "bH7wBDEh.ColliderCommon_EfOWEazI",
     "UUID": "bH7wBDEh.ColliderCommon_EfOWEazI",
-    "UseVersionMD5": "noqnFU9vB5Jh6O9zl9dQpIq5xqo=",
+    "UseVersionMD5": "CjZVv1FlY71WgFk1k0ZNbL1D+qQ=",
+    "WhoRequire": "ClientServer",
+    "PlatformSpecial": false
+   },
+   {
+    "Name": "bH7wBDEh.AutoPlatformed_kWQ96Wwr",
+    "UUID": "bH7wBDEh.AutoPlatformed_kWQ96Wwr",
+    "UseVersionMD5": "5KCRSpks8CpJ0Qq2MEAUZW99FYQ=",
+    "WhoRequire": "ClientOnly",
+    "PlatformSpecial": true
+   },
+   {
+    "Name": "bH7wBDEh.ColliderCommon_oy8aTLFy",
+    "UUID": "bH7wBDEh.ColliderCommon_oy8aTLFy",
+    "UseVersionMD5": "8p/YKvdTfLM1erOqjxtdlr9gAEA=",
     "WhoRequire": "ClientServer",
     "PlatformSpecial": false
    }
@@ -141,5 +188,42 @@
    }
   ]
  },
- "NotNecessaryResData": {}
+ "NotNecessaryResData": {},
+ "CSSharedItemID": [
+  1601,
+  403,
+  1205,
+  1201,
+  601,
+  608,
+  603,
+  303,
+  306,
+  534,
+  106,
+  513,
+  517,
+  102,
+  186,
+  41,
+  45,
+  180,
+  70,
+  121,
+  72,
+  123,
+  15,
+  48,
+  125,
+  88,
+  18,
+  34,
+  1602,
+  65,
+  38,
+  2102,
+  100,
+  309,
+  108
+ ]
 }

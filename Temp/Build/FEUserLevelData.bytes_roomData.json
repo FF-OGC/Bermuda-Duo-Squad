@@ -1,0 +1,1785 @@
+{
+ "KeyList": [
+  {
+   "Key": "GAME_NAME",
+   "LocList": [
+    {
+     "Lang": "UGCLANGUAGE_ENGLISH",
+     "Translation": "Bermuda Duo Squad"
+    },
+    {
+     "Lang": "UGCLANGUAGE_VIETNAMESE",
+     "Translation": "Song Lang Chiến"
+    }
+   ]
+  },
+  {
+   "Key": "GAME_DESCRIPTION",
+   "LocList": [
+    {
+     "Lang": "UGCLANGUAGE_ENGLISH",
+     "Translation": "2vs2vs2vs2 mode with special events"
+    },
+    {
+     "Lang": "UGCLANGUAGE_VIETNAMESE",
+     "Translation": "Chế độ 2vs2vs2vs2 với sự kiện đặc biệt"
+    }
+   ]
+  },
+  {
+   "Key": "EVENT_0",
+   "LocList": [
+    {
+     "Lang": "UGCLANGUAGE_ENGLISH",
+     "Translation": "In this round, everyone has big head"
+    },
+    {
+     "Lang": "UGCLANGUAGE_TRADITIONAL_CHINESE",
+     "Translation": "在這一輪中，每個人都有大頭"
+    },
+    {
+     "Lang": "UGCLANGUAGE_THAI",
+     "Translation": "ในรอบนี้ทุกคนมีหัวใหญ่"
+    },
+    {
+     "Lang": "UGCLANGUAGE_VIETNAMESE",
+     "Translation": "Vòng này, mọi người có đầu thật to"
+    },
+    {
+     "Lang": "UGCLANGUAGE_INDONESIA",
+     "Translation": "Di babak ini, semua orang memiliki kepala besar"
+    },
+    {
+     "Lang": "UGCLANGUAGE_BRAZILIAN_PORTUGUESE",
+     "Translation": "Nesta rodada, todo mundo tem cabeça grande"
+    },
+    {
+     "Lang": "UGCLANGUAGE_SPANISH",
+     "Translation": "En esta ronda, todos tienen cabeza grande"
+    },
+    {
+     "Lang": "UGCLANGUAGE_RUSSIAN",
+     "Translation": "В этом раунде у каждого большая голова"
+    },
+    {
+     "Lang": "UGCLANGUAGE_FRENCH",
+     "Translation": "Dans ce tour, tout le monde a une grande tête"
+    },
+    {
+     "Lang": "UGCLANGUAGE_GERMAN",
+     "Translation": "In dieser Runde hat jeder einen großen Kopf"
+    },
+    {
+     "Lang": "UGCLANGUAGE_TURKISH",
+     "Translation": "Bu turda herkesin büyük kafası var"
+    },
+    {
+     "Lang": "UGCLANGUAGE_HINDI",
+     "Translation": "इस दौर में, सभी के पास बड़ा सिर है"
+    },
+    {
+     "Lang": "UGCLANGUAGE_ROMANIAN",
+     "Translation": "În această rundă, toată lumea are un cap mare"
+    },
+    {
+     "Lang": "UGCLANGUAGE_ARABIC",
+     "Translation": "في هذه الجولة ، كل شخص لديه رأس كبير"
+    },
+    {
+     "Lang": "UGCLANGUAGE_BENGALI",
+     "Translation": "এই রাউন্ডে, প্রত্যেকেরই বড় মাথা আছে"
+    }
+   ]
+  },
+  {
+   "Key": "EVENT_1",
+   "LocList": [
+    {
+     "Lang": "UGCLANGUAGE_ENGLISH",
+     "Translation": "In this round, zero gravity zone appears"
+    },
+    {
+     "Lang": "UGCLANGUAGE_TRADITIONAL_CHINESE",
+     "Translation": "在這一輪中，出現零重力區"
+    },
+    {
+     "Lang": "UGCLANGUAGE_THAI",
+     "Translation": "ในรอบนี้โซนแรงโน้มถ่วงศูนย์จะปรากฏขึ้น"
+    },
+    {
+     "Lang": "UGCLANGUAGE_VIETNAMESE",
+     "Translation": "Vòng này, vùng không trọng lực xuất hiện"
+    },
+    {
+     "Lang": "UGCLANGUAGE_INDONESIA",
+     "Translation": "Di babak ini, zona gravitasi nol muncul"
+    },
+    {
+     "Lang": "UGCLANGUAGE_BRAZILIAN_PORTUGUESE",
+     "Translation": "Nesta rodada, a zona de gravidade zero aparece"
+    },
+    {
+     "Lang": "UGCLANGUAGE_SPANISH",
+     "Translation": "En esta ronda, aparece la zona de gravedad cero"
+    },
+    {
+     "Lang": "UGCLANGUAGE_RUSSIAN",
+     "Translation": "В этом раунде появляется зона невесомости"
+    },
+    {
+     "Lang": "UGCLANGUAGE_FRENCH",
+     "Translation": "Dans ce tour, la zone de gravité zéro apparaît"
+    },
+    {
+     "Lang": "UGCLANGUAGE_GERMAN",
+     "Translation": "In dieser Runde erscheint die Schwereloktionszone"
+    },
+    {
+     "Lang": "UGCLANGUAGE_TURKISH",
+     "Translation": "Bu turda sıfır yerçekimi bölgesi ortaya çıkar"
+    },
+    {
+     "Lang": "UGCLANGUAGE_HINDI",
+     "Translation": "इस दौर में, शून्य गुरुत्वाकर्षण क्षेत्र दिखाई देता है"
+    },
+    {
+     "Lang": "UGCLANGUAGE_ROMANIAN",
+     "Translation": "În această rundă, apare Zero Gravity Zone"
+    },
+    {
+     "Lang": "UGCLANGUAGE_ARABIC",
+     "Translation": "في هذه الجولة ، تظهر منطقة الجاذبية صفر"
+    },
+    {
+     "Lang": "UGCLANGUAGE_BENGALI",
+     "Translation": "এই রাউন্ডে, শূন্য মাধ্যাকর্ষণ অঞ্চল উপস্থিত হয়"
+    }
+   ]
+  },
+  {
+   "Key": "EVENT_2",
+   "LocList": [
+    {
+     "Lang": "UGCLANGUAGE_ENGLISH",
+     "Translation": "In this round, everyone has a lot of gloowalls"
+    },
+    {
+     "Lang": "UGCLANGUAGE_TRADITIONAL_CHINESE",
+     "Translation": "在這一輪中，每個人都有很多Gloowalls"
+    },
+    {
+     "Lang": "UGCLANGUAGE_THAI",
+     "Translation": "ในรอบนี้ทุกคนมี gloowalls มากมาย"
+    },
+    {
+     "Lang": "UGCLANGUAGE_VIETNAMESE",
+     "Translation": "Vòng này, mọi người có rất nhiều bom keo"
+    },
+    {
+     "Lang": "UGCLANGUAGE_INDONESIA",
+     "Translation": "Di babak ini, setiap orang memiliki banyak Gloowalls"
+    },
+    {
+     "Lang": "UGCLANGUAGE_BRAZILIAN_PORTUGUESE",
+     "Translation": "Nesta rodada, todo mundo tem muitos gloowalls"
+    },
+    {
+     "Lang": "UGCLANGUAGE_SPANISH",
+     "Translation": "En esta ronda, todos tienen muchos gloowalls"
+    },
+    {
+     "Lang": "UGCLANGUAGE_RUSSIAN",
+     "Translation": "В этом раунде у всех много глюоволсов"
+    },
+    {
+     "Lang": "UGCLANGUAGE_FRENCH",
+     "Translation": "Dans ce tour, tout le monde a beaucoup de Gloowalls"
+    },
+    {
+     "Lang": "UGCLANGUAGE_GERMAN",
+     "Translation": "In dieser Runde hat jeder viele Gloowalls"
+    },
+    {
+     "Lang": "UGCLANGUAGE_TURKISH",
+     "Translation": "Bu turda, herkesin çok fazla gloowall var"
+    },
+    {
+     "Lang": "UGCLANGUAGE_HINDI",
+     "Translation": "इस दौर में, सभी के पास बहुत सारे ग्लोवॉल हैं"
+    },
+    {
+     "Lang": "UGCLANGUAGE_ROMANIAN",
+     "Translation": "În această rundă, toată lumea are o mulțime de Gloowalls"
+    },
+    {
+     "Lang": "UGCLANGUAGE_ARABIC",
+     "Translation": "في هذه الجولة ، كل شخص لديه الكثير من gloowalls"
+    },
+    {
+     "Lang": "UGCLANGUAGE_BENGALI",
+     "Translation": "এই রাউন্ডে, প্রত্যেকের প্রচুর গ্লোওল রয়েছে"
+    }
+   ]
+  },
+  {
+   "Key": "EVENT_3",
+   "LocList": [
+    {
+     "Lang": "UGCLANGUAGE_ENGLISH",
+     "Translation": "In this round, everyone has a lot of grenades"
+    },
+    {
+     "Lang": "UGCLANGUAGE_TRADITIONAL_CHINESE",
+     "Translation": "在這一輪中，每個人都有很多手榴彈"
+    },
+    {
+     "Lang": "UGCLANGUAGE_THAI",
+     "Translation": "ในรอบนี้ทุกคนมีระเบิดจำนวนมาก"
+    },
+    {
+     "Lang": "UGCLANGUAGE_VIETNAMESE",
+     "Translation": "Vòng này, mọi người có rất nhiều lựu đạn"
+    },
+    {
+     "Lang": "UGCLANGUAGE_INDONESIA",
+     "Translation": "Di babak ini, setiap orang memiliki banyak granat"
+    },
+    {
+     "Lang": "UGCLANGUAGE_BRAZILIAN_PORTUGUESE",
+     "Translation": "Nesta rodada, todo mundo tem muitas granadas"
+    },
+    {
+     "Lang": "UGCLANGUAGE_SPANISH",
+     "Translation": "En esta ronda, todos tienen muchas granadas"
+    },
+    {
+     "Lang": "UGCLANGUAGE_RUSSIAN",
+     "Translation": "В этом раунде у всех много гранат"
+    },
+    {
+     "Lang": "UGCLANGUAGE_FRENCH",
+     "Translation": "Dans ce tour, tout le monde a beaucoup de grenades"
+    },
+    {
+     "Lang": "UGCLANGUAGE_GERMAN",
+     "Translation": "In dieser Runde hat jeder viele Granaten"
+    },
+    {
+     "Lang": "UGCLANGUAGE_TURKISH",
+     "Translation": "Bu turda herkesin çok fazla el bombası var"
+    },
+    {
+     "Lang": "UGCLANGUAGE_HINDI",
+     "Translation": "इस दौर में, सभी के पास बहुत सारे ग्रेनेड हैं"
+    },
+    {
+     "Lang": "UGCLANGUAGE_ROMANIAN",
+     "Translation": "În această rundă, toată lumea are o mulțime de grenade"
+    },
+    {
+     "Lang": "UGCLANGUAGE_ARABIC",
+     "Translation": "في هذه الجولة ، كل شخص لديه الكثير من القنابل اليدوية"
+    },
+    {
+     "Lang": "UGCLANGUAGE_BENGALI",
+     "Translation": "এই রাউন্ডে, প্রত্যেকের প্রচুর গ্রেনেড রয়েছে"
+    }
+   ]
+  },
+  {
+   "Key": "EVENT_4",
+   "LocList": [
+    {
+     "Lang": "UGCLANGUAGE_ENGLISH",
+     "Translation": "In this round, everyone  movement speed is increase"
+    },
+    {
+     "Lang": "UGCLANGUAGE_TRADITIONAL_CHINESE",
+     "Translation": "在這一輪中，每個人的運動速度都在提高"
+    },
+    {
+     "Lang": "UGCLANGUAGE_THAI",
+     "Translation": "ในรอบนี้ความเร็วการเคลื่อนไหวของทุกคนเพิ่มขึ้น"
+    },
+    {
+     "Lang": "UGCLANGUAGE_VIETNAMESE",
+     "Translation": "Vòng này, tốc độ di chuyển được gia tăng"
+    },
+    {
+     "Lang": "UGCLANGUAGE_INDONESIA",
+     "Translation": "Di babak ini, kecepatan gerakan semua orang meningkat"
+    },
+    {
+     "Lang": "UGCLANGUAGE_BRAZILIAN_PORTUGUESE",
+     "Translation": "Nesta rodada, a velocidade de movimento de todos é aumentar"
+    },
+    {
+     "Lang": "UGCLANGUAGE_SPANISH",
+     "Translation": "En esta ronda, la velocidad de movimiento de todos es el aumento"
+    },
+    {
+     "Lang": "UGCLANGUAGE_RUSSIAN",
+     "Translation": "В этом раунде скорость движения все увеличивается"
+    },
+    {
+     "Lang": "UGCLANGUAGE_FRENCH",
+     "Translation": "Dans ce tour, la vitesse de déplacement de tout le monde augmente"
+    },
+    {
+     "Lang": "UGCLANGUAGE_GERMAN",
+     "Translation": "In dieser Runde erhöht sich alle Bewegungsgeschwindigkeiten"
+    },
+    {
+     "Lang": "UGCLANGUAGE_TURKISH",
+     "Translation": "Bu turda herkes hareket hızı artıyor"
+    },
+    {
+     "Lang": "UGCLANGUAGE_HINDI",
+     "Translation": "इस दौर में, सभी आंदोलन की गति में वृद्धि हुई है"
+    },
+    {
+     "Lang": "UGCLANGUAGE_ROMANIAN",
+     "Translation": "În această rundă, toată viteza de mișcare a tuturor creșterii"
+    },
+    {
+     "Lang": "UGCLANGUAGE_ARABIC",
+     "Translation": "في هذه الجولة ، تزداد سرعة حركة الجميع"
+    },
+    {
+     "Lang": "UGCLANGUAGE_BENGALI",
+     "Translation": "এই রাউন্ডে, প্রত্যেকের চলাচলের গতি বৃদ্ধি পায়"
+    }
+   ]
+  },
+  {
+   "Key": "EVENT_5",
+   "LocList": [
+    {
+     "Lang": "UGCLANGUAGE_ENGLISH",
+     "Translation": "In this round, body gets smaller when it gets shot"
+    },
+    {
+     "Lang": "UGCLANGUAGE_TRADITIONAL_CHINESE",
+     "Translation": "在這一輪中，被射擊時身體變小"
+    },
+    {
+     "Lang": "UGCLANGUAGE_THAI",
+     "Translation": "ในรอบนี้ร่างกายจะเล็กลงเมื่อมันถูกยิง"
+    },
+    {
+     "Lang": "UGCLANGUAGE_VIETNAMESE",
+     "Translation": "Vòng này, cơ thể nhỏ lại khi bị bắn"
+    },
+    {
+     "Lang": "UGCLANGUAGE_INDONESIA",
+     "Translation": "Di babak ini, tubuh menjadi lebih kecil saat ditembak"
+    },
+    {
+     "Lang": "UGCLANGUAGE_BRAZILIAN_PORTUGUESE",
+     "Translation": "Nesta rodada, o corpo fica menor quando é baleado"
+    },
+    {
+     "Lang": "UGCLANGUAGE_SPANISH",
+     "Translation": "En esta ronda, el cuerpo se hace más pequeño cuando se dispara"
+    },
+    {
+     "Lang": "UGCLANGUAGE_RUSSIAN",
+     "Translation": "В этом раунде тело становится меньше, когда его застреляют"
+    },
+    {
+     "Lang": "UGCLANGUAGE_FRENCH",
+     "Translation": "Dans ce tour, le corps devient plus petit quand il est abattu"
+    },
+    {
+     "Lang": "UGCLANGUAGE_GERMAN",
+     "Translation": "In dieser Runde wird der Körper kleiner, wenn er erschossen wird"
+    },
+    {
+     "Lang": "UGCLANGUAGE_TURKISH",
+     "Translation": "Bu turda, vücut vurulduğunda küçülür"
+    },
+    {
+     "Lang": "UGCLANGUAGE_HINDI",
+     "Translation": "इस दौर में, शॉट होने पर शरीर छोटा हो जाता है"
+    },
+    {
+     "Lang": "UGCLANGUAGE_ROMANIAN",
+     "Translation": "În această rundă, corpul devine mai mic atunci când este împușcat"
+    },
+    {
+     "Lang": "UGCLANGUAGE_ARABIC",
+     "Translation": "في هذه الجولة ، يصبح الجسم أصغر عندما يتم إطلاق النار عليه"
+    },
+    {
+     "Lang": "UGCLANGUAGE_BENGALI",
+     "Translation": "এই রাউন্ডে, শট লাগলে শরীর আরও ছোট হয়"
+    }
+   ]
+  },
+  {
+   "Key": "EVENT_6",
+   "LocList": [
+    {
+     "Lang": "UGCLANGUAGE_ENGLISH",
+     "Translation": "In this round, body gets bigger when it gets shot"
+    },
+    {
+     "Lang": "UGCLANGUAGE_TRADITIONAL_CHINESE",
+     "Translation": "在這一輪中，身體被射擊時會變大"
+    },
+    {
+     "Lang": "UGCLANGUAGE_THAI",
+     "Translation": "ในรอบนี้ร่างกายจะใหญ่ขึ้นเมื่อมันถูกยิง"
+    },
+    {
+     "Lang": "UGCLANGUAGE_VIETNAMESE",
+     "Translation": "Vòng này, cơ thể to ra khi bị bắn"
+    },
+    {
+     "Lang": "UGCLANGUAGE_INDONESIA",
+     "Translation": "Di babak ini, tubuh menjadi lebih besar saat ditembak"
+    },
+    {
+     "Lang": "UGCLANGUAGE_BRAZILIAN_PORTUGUESE",
+     "Translation": "Nesta rodada, o corpo fica maior quando é baleado"
+    },
+    {
+     "Lang": "UGCLANGUAGE_SPANISH",
+     "Translation": "En esta ronda, el cuerpo se hace más grande cuando recibe un disparo"
+    },
+    {
+     "Lang": "UGCLANGUAGE_RUSSIAN",
+     "Translation": "В этом раунде тело становится больше, когда его застреляют"
+    },
+    {
+     "Lang": "UGCLANGUAGE_FRENCH",
+     "Translation": "Dans ce tour, le corps grossit quand il est abattu"
+    },
+    {
+     "Lang": "UGCLANGUAGE_GERMAN",
+     "Translation": "In dieser Runde wird der Körper größer, wenn er erschossen wird"
+    },
+    {
+     "Lang": "UGCLANGUAGE_TURKISH",
+     "Translation": "Bu turda, vurulduğunda vücut büyür"
+    },
+    {
+     "Lang": "UGCLANGUAGE_HINDI",
+     "Translation": "इस दौर में, शॉट होने पर शरीर बड़ा हो जाता है"
+    },
+    {
+     "Lang": "UGCLANGUAGE_ROMANIAN",
+     "Translation": "În această rundă, corpul devine mai mare atunci când este împușcat"
+    },
+    {
+     "Lang": "UGCLANGUAGE_ARABIC",
+     "Translation": "في هذه الجولة ، يصبح الجسم أكبر عندما يتم إطلاق النار عليه"
+    },
+    {
+     "Lang": "UGCLANGUAGE_BENGALI",
+     "Translation": "এই রাউন্ডে, শট লাগলে শরীর আরও বড় হয়"
+    }
+   ]
+  },
+  {
+   "Key": "EVENT_7",
+   "LocList": [
+    {
+     "Lang": "UGCLANGUAGE_ENGLISH",
+     "Translation": "In this round, everyone has jet pack shoes"
+    },
+    {
+     "Lang": "UGCLANGUAGE_TRADITIONAL_CHINESE",
+     "Translation": "在這一輪中，每個人都有噴氣鞋"
+    },
+    {
+     "Lang": "UGCLANGUAGE_THAI",
+     "Translation": "ในรอบนี้ทุกคนมีรองเท้าเจ็ตแพ็ค"
+    },
+    {
+     "Lang": "UGCLANGUAGE_VIETNAMESE",
+     "Translation": "Vòng này, mọi người có giày tên lửa"
+    },
+    {
+     "Lang": "UGCLANGUAGE_INDONESIA",
+     "Translation": "Di babak ini, semua orang memiliki sepatu jet pack"
+    },
+    {
+     "Lang": "UGCLANGUAGE_BRAZILIAN_PORTUGUESE",
+     "Translation": "Nesta rodada, todos têm sapatos de jato"
+    },
+    {
+     "Lang": "UGCLANGUAGE_SPANISH",
+     "Translation": "En esta ronda, todos tienen zapatos de paquete de jet"
+    },
+    {
+     "Lang": "UGCLANGUAGE_RUSSIAN",
+     "Translation": "В этом раунде у всех есть туфли Jet Pack"
+    },
+    {
+     "Lang": "UGCLANGUAGE_FRENCH",
+     "Translation": "Dans ce tour, tout le monde a des chaussures à réaction"
+    },
+    {
+     "Lang": "UGCLANGUAGE_GERMAN",
+     "Translation": "In dieser Runde hat jeder Jet -Pack -Schuhe"
+    },
+    {
+     "Lang": "UGCLANGUAGE_TURKISH",
+     "Translation": "Bu turda herkesin jet paketi ayakkabısı var"
+    },
+    {
+     "Lang": "UGCLANGUAGE_HINDI",
+     "Translation": "इस दौर में, सभी के पास जेट पैक जूते हैं"
+    },
+    {
+     "Lang": "UGCLANGUAGE_ROMANIAN",
+     "Translation": "În această rundă, toată lumea are pantofi cu pachete cu jet"
+    },
+    {
+     "Lang": "UGCLANGUAGE_ARABIC",
+     "Translation": "في هذه الجولة ، كل شخص لديه أحذية حزمة نفاثة"
+    },
+    {
+     "Lang": "UGCLANGUAGE_BENGALI",
+     "Translation": "এই রাউন্ডে, প্রত্যেকের জেট প্যাক জুতা রয়েছে"
+    }
+   ]
+  },
+  {
+   "Key": "EVENT_8",
+   "LocList": [
+    {
+     "Lang": "UGCLANGUAGE_ENGLISH",
+     "Translation": "In this round, everyone change to FPP"
+    },
+    {
+     "Lang": "UGCLANGUAGE_TRADITIONAL_CHINESE",
+     "Translation": "在這一輪中，每個人都變成了FPP"
+    },
+    {
+     "Lang": "UGCLANGUAGE_THAI",
+     "Translation": "ในรอบนี้ทุกคนเปลี่ยนเป็น FPP"
+    },
+    {
+     "Lang": "UGCLANGUAGE_VIETNAMESE",
+     "Translation": "Vòng này, mọi người đổi sang góc nhìn thứ nhất"
+    },
+    {
+     "Lang": "UGCLANGUAGE_INDONESIA",
+     "Translation": "Di babak ini, semua orang berubah menjadi FPP"
+    },
+    {
+     "Lang": "UGCLANGUAGE_BRAZILIAN_PORTUGUESE",
+     "Translation": "Nesta rodada, todos mudam para o FPP"
+    },
+    {
+     "Lang": "UGCLANGUAGE_SPANISH",
+     "Translation": "En esta ronda, todos cambian a FPP"
+    },
+    {
+     "Lang": "UGCLANGUAGE_RUSSIAN",
+     "Translation": "В этом раунде все переходят на FPP"
+    },
+    {
+     "Lang": "UGCLANGUAGE_FRENCH",
+     "Translation": "Dans ce tour, tout le monde change en FPP"
+    },
+    {
+     "Lang": "UGCLANGUAGE_GERMAN",
+     "Translation": "In dieser Runde wechseln alle zu FPP"
+    },
+    {
+     "Lang": "UGCLANGUAGE_TURKISH",
+     "Translation": "Bu turda herkes FPP'ye değişir"
+    },
+    {
+     "Lang": "UGCLANGUAGE_HINDI",
+     "Translation": "इस दौर में, हर कोई FPP में बदल जाता है"
+    },
+    {
+     "Lang": "UGCLANGUAGE_ROMANIAN",
+     "Translation": "În această rundă, toată lumea se schimbă la FPP"
+    },
+    {
+     "Lang": "UGCLANGUAGE_ARABIC",
+     "Translation": "في هذه الجولة ، يتغير الجميع إلى FPP"
+    },
+    {
+     "Lang": "UGCLANGUAGE_BENGALI",
+     "Translation": "এই রাউন্ডে, প্রত্যেকে এফপিপি -তে পরিবর্তিত হয়"
+    }
+   ]
+  },
+  {
+   "Key": "EVENT_9",
+   "LocList": [
+    {
+     "Lang": "UGCLANGUAGE_ENGLISH",
+     "Translation": "In this round, the night comes"
+    },
+    {
+     "Lang": "UGCLANGUAGE_TRADITIONAL_CHINESE",
+     "Translation": "在這一輪中，夜晚來了"
+    },
+    {
+     "Lang": "UGCLANGUAGE_THAI",
+     "Translation": "ในรอบนี้คืนมา"
+    },
+    {
+     "Lang": "UGCLANGUAGE_VIETNAMESE",
+     "Translation": "Vòng này, màn đêm buông xuống"
+    },
+    {
+     "Lang": "UGCLANGUAGE_INDONESIA",
+     "Translation": "Di babak ini, malam tiba"
+    },
+    {
+     "Lang": "UGCLANGUAGE_BRAZILIAN_PORTUGUESE",
+     "Translation": "Nesta rodada, chega a noite"
+    },
+    {
+     "Lang": "UGCLANGUAGE_SPANISH",
+     "Translation": "En esta ronda, llega la noche"
+    },
+    {
+     "Lang": "UGCLANGUAGE_RUSSIAN",
+     "Translation": "В этом раунде наступает ночь"
+    },
+    {
+     "Lang": "UGCLANGUAGE_FRENCH",
+     "Translation": "Dans ce tour, la nuit vient"
+    },
+    {
+     "Lang": "UGCLANGUAGE_GERMAN",
+     "Translation": "In dieser Runde kommt die Nacht"
+    },
+    {
+     "Lang": "UGCLANGUAGE_TURKISH",
+     "Translation": "Bu turda gece geliyor"
+    },
+    {
+     "Lang": "UGCLANGUAGE_HINDI",
+     "Translation": "इस दौर में, रात आती है"
+    },
+    {
+     "Lang": "UGCLANGUAGE_ROMANIAN",
+     "Translation": "În această rundă, vine noaptea"
+    },
+    {
+     "Lang": "UGCLANGUAGE_ARABIC",
+     "Translation": "في هذه الجولة ، تأتي الليلة"
+    },
+    {
+     "Lang": "UGCLANGUAGE_BENGALI",
+     "Translation": "এই রাউন্ডে, রাত আসে"
+    }
+   ]
+  },
+  {
+   "Key": "RED_WIN",
+   "LocList": [
+    {
+     "Lang": "UGCLANGUAGE_ENGLISH",
+     "Translation": "RED TEAM WIN"
+    },
+    {
+     "Lang": "UGCLANGUAGE_TRADITIONAL_CHINESE",
+     "Translation": "紅隊獲勝"
+    },
+    {
+     "Lang": "UGCLANGUAGE_THAI",
+     "Translation": "ทีมสีแดงชนะ"
+    },
+    {
+     "Lang": "UGCLANGUAGE_VIETNAMESE",
+     "Translation": "ĐỘI ĐỎ THẮNG"
+    },
+    {
+     "Lang": "UGCLANGUAGE_INDONESIA",
+     "Translation": "TIM MERAH MENANG"
+    },
+    {
+     "Lang": "UGCLANGUAGE_BRAZILIAN_PORTUGUESE",
+     "Translation": "VITÓRIA DA EQUIPE VERMELHA"
+    },
+    {
+     "Lang": "UGCLANGUAGE_SPANISH",
+     "Translation": "GANAR EL EQUIPO ROJO"
+    },
+    {
+     "Lang": "UGCLANGUAGE_RUSSIAN",
+     "Translation": "Красная команда выигрывает"
+    },
+    {
+     "Lang": "UGCLANGUAGE_FRENCH",
+     "Translation": "Gagner l'équipe rouge"
+    },
+    {
+     "Lang": "UGCLANGUAGE_GERMAN",
+     "Translation": "Roter Teamgewinn"
+    },
+    {
+     "Lang": "UGCLANGUAGE_TURKISH",
+     "Translation": "Kırmızı Takım Kazandı"
+    },
+    {
+     "Lang": "UGCLANGUAGE_HINDI",
+     "Translation": "रेड टीम जीत"
+    },
+    {
+     "Lang": "UGCLANGUAGE_ROMANIAN",
+     "Translation": "Câștigă echipa roșie"
+    },
+    {
+     "Lang": "UGCLANGUAGE_ARABIC",
+     "Translation": "الفوز الفريق الأحمر"
+    },
+    {
+     "Lang": "UGCLANGUAGE_BENGALI",
+     "Translation": "রেড টিম জয়"
+    }
+   ]
+  },
+  {
+   "Key": "BLUE_WIN",
+   "LocList": [
+    {
+     "Lang": "UGCLANGUAGE_ENGLISH",
+     "Translation": "BLUE TEAM WIN"
+    },
+    {
+     "Lang": "UGCLANGUAGE_TRADITIONAL_CHINESE",
+     "Translation": "藍隊獲勝"
+    },
+    {
+     "Lang": "UGCLANGUAGE_THAI",
+     "Translation": "ทีมสีน้ำเงินชนะ"
+    },
+    {
+     "Lang": "UGCLANGUAGE_VIETNAMESE",
+     "Translation": "ĐỘI LAM THẮNG"
+    },
+    {
+     "Lang": "UGCLANGUAGE_INDONESIA",
+     "Translation": "TIM BLUE WIN"
+    },
+    {
+     "Lang": "UGCLANGUAGE_BRAZILIAN_PORTUGUESE",
+     "Translation": "VITÓRIA DA EQUIPE AZUL"
+    },
+    {
+     "Lang": "UGCLANGUAGE_SPANISH",
+     "Translation": "GANAR EL EQUIPO AZUL"
+    },
+    {
+     "Lang": "UGCLANGUAGE_RUSSIAN",
+     "Translation": "Синяя команда выигрывает"
+    },
+    {
+     "Lang": "UGCLANGUAGE_FRENCH",
+     "Translation": "Victoire de l'équipe bleue"
+    },
+    {
+     "Lang": "UGCLANGUAGE_GERMAN",
+     "Translation": "Blue Team Win"
+    },
+    {
+     "Lang": "UGCLANGUAGE_TURKISH",
+     "Translation": "Mavi Takım Kazanması"
+    },
+    {
+     "Lang": "UGCLANGUAGE_HINDI",
+     "Translation": "ब्लू टीम जीत"
+    },
+    {
+     "Lang": "UGCLANGUAGE_ROMANIAN",
+     "Translation": "Câștigă echipa albastră"
+    },
+    {
+     "Lang": "UGCLANGUAGE_ARABIC",
+     "Translation": "فوز الفريق الأزرق"
+    },
+    {
+     "Lang": "UGCLANGUAGE_BENGALI",
+     "Translation": "নীল দল জয়"
+    }
+   ]
+  },
+  {
+   "Key": "PINK_WIN",
+   "LocList": [
+    {
+     "Lang": "UGCLANGUAGE_ENGLISH",
+     "Translation": "PINK TEAM WIN"
+    },
+    {
+     "Lang": "UGCLANGUAGE_TRADITIONAL_CHINESE",
+     "Translation": "粉紅色的團隊獲勝"
+    },
+    {
+     "Lang": "UGCLANGUAGE_THAI",
+     "Translation": "ทีมสีชมพูชนะ"
+    },
+    {
+     "Lang": "UGCLANGUAGE_VIETNAMESE",
+     "Translation": "ĐỘI HỒNG THẮNG"
+    },
+    {
+     "Lang": "UGCLANGUAGE_INDONESIA",
+     "Translation": "TIM MERAH MUDA MENANG"
+    },
+    {
+     "Lang": "UGCLANGUAGE_BRAZILIAN_PORTUGUESE",
+     "Translation": "VITÓRIA DA EQUIPE ROSA"
+    },
+    {
+     "Lang": "UGCLANGUAGE_SPANISH",
+     "Translation": "GANAR EL EQUIPO ROSA"
+    },
+    {
+     "Lang": "UGCLANGUAGE_RUSSIAN",
+     "Translation": "Розовая команда победа"
+    },
+    {
+     "Lang": "UGCLANGUAGE_FRENCH",
+     "Translation": "Victoire de l'équipe rose"
+    },
+    {
+     "Lang": "UGCLANGUAGE_GERMAN",
+     "Translation": "Pink -Team -Gewinn"
+    },
+    {
+     "Lang": "UGCLANGUAGE_TURKISH",
+     "Translation": "Pembe Takım Kazanması"
+    },
+    {
+     "Lang": "UGCLANGUAGE_HINDI",
+     "Translation": "गुलाबी टीम जीत"
+    },
+    {
+     "Lang": "UGCLANGUAGE_ROMANIAN",
+     "Translation": "Echipa roz câștigă"
+    },
+    {
+     "Lang": "UGCLANGUAGE_ARABIC",
+     "Translation": "فوز الفريق الوردي"
+    },
+    {
+     "Lang": "UGCLANGUAGE_BENGALI",
+     "Translation": "গোলাপী দল জয়"
+    }
+   ]
+  },
+  {
+   "Key": "GREEN_WIN",
+   "LocList": [
+    {
+     "Lang": "UGCLANGUAGE_ENGLISH",
+     "Translation": "GREEN TEAM WIN"
+    },
+    {
+     "Lang": "UGCLANGUAGE_TRADITIONAL_CHINESE",
+     "Translation": "綠色團隊獲勝"
+    },
+    {
+     "Lang": "UGCLANGUAGE_THAI",
+     "Translation": "ทีมสีเขียวชนะ"
+    },
+    {
+     "Lang": "UGCLANGUAGE_VIETNAMESE",
+     "Translation": "ĐỘI LỤC THẮNG"
+    },
+    {
+     "Lang": "UGCLANGUAGE_INDONESIA",
+     "Translation": "TIM HIJAU MENANG"
+    },
+    {
+     "Lang": "UGCLANGUAGE_BRAZILIAN_PORTUGUESE",
+     "Translation": "VITÓRIA DA EQUIPE VERDE"
+    },
+    {
+     "Lang": "UGCLANGUAGE_SPANISH",
+     "Translation": "GANAR EL EQUIPO VERDE"
+    },
+    {
+     "Lang": "UGCLANGUAGE_RUSSIAN",
+     "Translation": "Зеленая команда выигрывает"
+    },
+    {
+     "Lang": "UGCLANGUAGE_FRENCH",
+     "Translation": "Victoire de l'équipe verte"
+    },
+    {
+     "Lang": "UGCLANGUAGE_GERMAN",
+     "Translation": "Green Team Win"
+    },
+    {
+     "Lang": "UGCLANGUAGE_TURKISH",
+     "Translation": "Yeşil Takım Kazandı"
+    },
+    {
+     "Lang": "UGCLANGUAGE_HINDI",
+     "Translation": "ग्रीन टीम जीत"
+    },
+    {
+     "Lang": "UGCLANGUAGE_ROMANIAN",
+     "Translation": "Echipa Verde câștigă"
+    },
+    {
+     "Lang": "UGCLANGUAGE_ARABIC",
+     "Translation": "فوز الفريق الأخضر"
+    },
+    {
+     "Lang": "UGCLANGUAGE_BENGALI",
+     "Translation": "সবুজ দল জয়"
+    }
+   ]
+  },
+  {
+   "Key": "YELLOW_WIN",
+   "LocList": [
+    {
+     "Lang": "UGCLANGUAGE_ENGLISH",
+     "Translation": "YELLOW TEAM WIN"
+    },
+    {
+     "Lang": "UGCLANGUAGE_TRADITIONAL_CHINESE",
+     "Translation": "黃隊獲勝"
+    },
+    {
+     "Lang": "UGCLANGUAGE_THAI",
+     "Translation": "ทีมสีเหลืองชนะ"
+    },
+    {
+     "Lang": "UGCLANGUAGE_VIETNAMESE",
+     "Translation": "ĐỘI VÀNG THẮNG"
+    },
+    {
+     "Lang": "UGCLANGUAGE_INDONESIA",
+     "Translation": "Tim kuning menang"
+    },
+    {
+     "Lang": "UGCLANGUAGE_BRAZILIAN_PORTUGUESE",
+     "Translation": "Venceda da equipe amarela"
+    },
+    {
+     "Lang": "UGCLANGUAGE_SPANISH",
+     "Translation": "Ganar el equipo amarillo"
+    },
+    {
+     "Lang": "UGCLANGUAGE_RUSSIAN",
+     "Translation": "Желтая команда победа"
+    },
+    {
+     "Lang": "UGCLANGUAGE_FRENCH",
+     "Translation": "Victoire de l'équipe jaune"
+    },
+    {
+     "Lang": "UGCLANGUAGE_GERMAN",
+     "Translation": "Gewinn des gelben Teams"
+    },
+    {
+     "Lang": "UGCLANGUAGE_TURKISH",
+     "Translation": "Sarı Takım Kazandı"
+    },
+    {
+     "Lang": "UGCLANGUAGE_HINDI",
+     "Translation": "पीली टीम जीत"
+    },
+    {
+     "Lang": "UGCLANGUAGE_ROMANIAN",
+     "Translation": "Echipa galbenă câștigă"
+    },
+    {
+     "Lang": "UGCLANGUAGE_ARABIC",
+     "Translation": "فوز الفريق الأصفر"
+    },
+    {
+     "Lang": "UGCLANGUAGE_BENGALI",
+     "Translation": "হলুদ দল জয়"
+    }
+   ]
+  },
+  {
+   "Key": "BORDER_1",
+   "LocList": [
+    {
+     "Lang": "UGCLANGUAGE_ENGLISH",
+     "Translation": "Border is about to close, water is about to rise!"
+    },
+    {
+     "Lang": "UGCLANGUAGE_TRADITIONAL_CHINESE",
+     "Translation": "邊界即將關閉，水即將上升！"
+    },
+    {
+     "Lang": "UGCLANGUAGE_THAI",
+     "Translation": "ชายแดนกำลังจะปิดน้ำกำลังจะสูงขึ้น!"
+    },
+    {
+     "Lang": "UGCLANGUAGE_VIETNAMESE",
+     "Translation": "Vòng bo chuẩn bị thu, nước chuẩn bị dâng!"
+    },
+    {
+     "Lang": "UGCLANGUAGE_INDONESIA",
+     "Translation": "Perbatasan akan ditutup, air akan naik!"
+    },
+    {
+     "Lang": "UGCLANGUAGE_BRAZILIAN_PORTUGUESE",
+     "Translation": "A fronteira está prestes a fechar, a água está prestes a subir!"
+    },
+    {
+     "Lang": "UGCLANGUAGE_SPANISH",
+     "Translation": "El borde está a punto de cerrar, ¡el agua está a punto de aumentar!"
+    },
+    {
+     "Lang": "UGCLANGUAGE_RUSSIAN",
+     "Translation": "Граница собирается закрыть, вода собирается подняться!"
+    },
+    {
+     "Lang": "UGCLANGUAGE_FRENCH",
+     "Translation": "La frontière est sur le point de fermer, l'eau est sur le point de monter!"
+    },
+    {
+     "Lang": "UGCLANGUAGE_GERMAN",
+     "Translation": "Die Grenze ist kurz davor zu schließen, Wasser steigt kurz vor!"
+    },
+    {
+     "Lang": "UGCLANGUAGE_TURKISH",
+     "Translation": "Sınır kapatmak üzere, su yükselmek üzere!"
+    },
+    {
+     "Lang": "UGCLANGUAGE_HINDI",
+     "Translation": "सीमा बंद होने वाली है, पानी उठने वाला है!"
+    },
+    {
+     "Lang": "UGCLANGUAGE_ROMANIAN",
+     "Translation": "Granița este pe cale să se închidă, apa este pe cale să crească!"
+    },
+    {
+     "Lang": "UGCLANGUAGE_ARABIC",
+     "Translation": "الحدود على وشك الإغلاق ، والمياه على وشك الارتفاع!"
+    },
+    {
+     "Lang": "UGCLANGUAGE_BENGALI",
+     "Translation": "সীমানা বন্ধ হতে চলেছে, জল বাড়তে চলেছে!"
+    }
+   ]
+  },
+  {
+   "Key": "BORDER_2",
+   "LocList": [
+    {
+     "Lang": "UGCLANGUAGE_ENGLISH",
+     "Translation": "Border is about to close!"
+    },
+    {
+     "Lang": "UGCLANGUAGE_TRADITIONAL_CHINESE",
+     "Translation": "邊界即將關閉！"
+    },
+    {
+     "Lang": "UGCLANGUAGE_THAI",
+     "Translation": "ชายแดนกำลังจะปิด!"
+    },
+    {
+     "Lang": "UGCLANGUAGE_VIETNAMESE",
+     "Translation": "Vòng bo chuẩn bị thu!"
+    },
+    {
+     "Lang": "UGCLANGUAGE_INDONESIA",
+     "Translation": "Perbatasan akan segera ditutup!"
+    },
+    {
+     "Lang": "UGCLANGUAGE_BRAZILIAN_PORTUGUESE",
+     "Translation": "A fronteira está prestes a fechar!"
+    },
+    {
+     "Lang": "UGCLANGUAGE_SPANISH",
+     "Translation": "¡El borde está a punto de cerrar!"
+    },
+    {
+     "Lang": "UGCLANGUAGE_RUSSIAN",
+     "Translation": "Граница собирается закрыть!"
+    },
+    {
+     "Lang": "UGCLANGUAGE_FRENCH",
+     "Translation": "La frontière est sur le point de fermer!"
+    },
+    {
+     "Lang": "UGCLANGUAGE_GERMAN",
+     "Translation": "Grenze ist kurz vor dem Schließen!"
+    },
+    {
+     "Lang": "UGCLANGUAGE_TURKISH",
+     "Translation": "Sınır kapatmak üzere!"
+    },
+    {
+     "Lang": "UGCLANGUAGE_HINDI",
+     "Translation": "सीमा बंद होने वाली है!"
+    },
+    {
+     "Lang": "UGCLANGUAGE_ROMANIAN",
+     "Translation": "Granița este pe cale să închidă!"
+    },
+    {
+     "Lang": "UGCLANGUAGE_ARABIC",
+     "Translation": "الحدود على وشك الإغلاق!"
+    },
+    {
+     "Lang": "UGCLANGUAGE_BENGALI",
+     "Translation": "সীমানা বন্ধ হতে চলেছে!"
+    }
+   ]
+  },
+  {
+   "Key": "VOTE",
+   "LocList": [
+    {
+     "Lang": "UGCLANGUAGE_ENGLISH",
+     "Translation": "Vote your weapons"
+    },
+    {
+     "Lang": "UGCLANGUAGE_TRADITIONAL_CHINESE",
+     "Translation": "投票給你的武器"
+    },
+    {
+     "Lang": "UGCLANGUAGE_THAI",
+     "Translation": "โหวตอาวุธของคุณ"
+    },
+    {
+     "Lang": "UGCLANGUAGE_VIETNAMESE",
+     "Translation": "Chọn vũ khí của bạn"
+    },
+    {
+     "Lang": "UGCLANGUAGE_INDONESIA",
+     "Translation": "Pilih senjatamu"
+    },
+    {
+     "Lang": "UGCLANGUAGE_BRAZILIAN_PORTUGUESE",
+     "Translation": "Vote suas armas"
+    },
+    {
+     "Lang": "UGCLANGUAGE_SPANISH",
+     "Translation": "Vota tus armas"
+    },
+    {
+     "Lang": "UGCLANGUAGE_RUSSIAN",
+     "Translation": "Проголосовать за свое оружие"
+    },
+    {
+     "Lang": "UGCLANGUAGE_FRENCH",
+     "Translation": "Votez vos armes"
+    },
+    {
+     "Lang": "UGCLANGUAGE_GERMAN",
+     "Translation": "Stimmen Sie Ihre Waffen ab"
+    },
+    {
+     "Lang": "UGCLANGUAGE_TURKISH",
+     "Translation": "Silahlarınızı Oy Ver"
+    },
+    {
+     "Lang": "UGCLANGUAGE_HINDI",
+     "Translation": "अपने हथियार वोट करें"
+    },
+    {
+     "Lang": "UGCLANGUAGE_ROMANIAN",
+     "Translation": "Votează -ți armele"
+    },
+    {
+     "Lang": "UGCLANGUAGE_ARABIC",
+     "Translation": "التصويت على أسلحتك"
+    },
+    {
+     "Lang": "UGCLANGUAGE_BENGALI",
+     "Translation": "আপনার অস্ত্র ভোট দিন"
+    }
+   ]
+  },
+  {
+   "Key": "VOTE_RESULT",
+   "LocList": [
+    {
+     "Lang": "UGCLANGUAGE_ENGLISH",
+     "Translation": "Weapon result"
+    },
+    {
+     "Lang": "UGCLANGUAGE_TRADITIONAL_CHINESE",
+     "Translation": "武器結果"
+    },
+    {
+     "Lang": "UGCLANGUAGE_THAI",
+     "Translation": "ผลอาวุธ"
+    },
+    {
+     "Lang": "UGCLANGUAGE_VIETNAMESE",
+     "Translation": "Kết quả lựa chọn"
+    },
+    {
+     "Lang": "UGCLANGUAGE_INDONESIA",
+     "Translation": "Hasil senjata"
+    },
+    {
+     "Lang": "UGCLANGUAGE_BRAZILIAN_PORTUGUESE",
+     "Translation": "Resultado da arma"
+    },
+    {
+     "Lang": "UGCLANGUAGE_SPANISH",
+     "Translation": "Resultado del arma"
+    },
+    {
+     "Lang": "UGCLANGUAGE_RUSSIAN",
+     "Translation": "Результат оружия"
+    },
+    {
+     "Lang": "UGCLANGUAGE_FRENCH",
+     "Translation": "Résultat de l'arme"
+    },
+    {
+     "Lang": "UGCLANGUAGE_GERMAN",
+     "Translation": "Waffenergebnis"
+    },
+    {
+     "Lang": "UGCLANGUAGE_TURKISH",
+     "Translation": "Silah Sonucu"
+    },
+    {
+     "Lang": "UGCLANGUAGE_HINDI",
+     "Translation": "हथियार परिणाम"
+    },
+    {
+     "Lang": "UGCLANGUAGE_ROMANIAN",
+     "Translation": "Rezultatul armei"
+    },
+    {
+     "Lang": "UGCLANGUAGE_ARABIC",
+     "Translation": "نتيجة سلاح"
+    },
+    {
+     "Lang": "UGCLANGUAGE_BENGALI",
+     "Translation": "অস্ত্র ফলাফল"
+    }
+   ]
+  },
+  {
+   "Key": "ROUND_START",
+   "LocList": [
+    {
+     "Lang": "UGCLANGUAGE_ENGLISH",
+     "Translation": "ROUND START"
+    },
+    {
+     "Lang": "UGCLANGUAGE_TRADITIONAL_CHINESE",
+     "Translation": "圓點開始"
+    },
+    {
+     "Lang": "UGCLANGUAGE_THAI",
+     "Translation": "รอบ"
+    },
+    {
+     "Lang": "UGCLANGUAGE_VIETNAMESE",
+     "Translation": "Vòng đấu bắt đầu"
+    },
+    {
+     "Lang": "UGCLANGUAGE_INDONESIA",
+     "Translation": "Mulai putaran"
+    },
+    {
+     "Lang": "UGCLANGUAGE_BRAZILIAN_PORTUGUESE",
+     "Translation": "Início redondo"
+    },
+    {
+     "Lang": "UGCLANGUAGE_SPANISH",
+     "Translation": "Inicio de la ronda"
+    },
+    {
+     "Lang": "UGCLANGUAGE_RUSSIAN",
+     "Translation": "Круглый старт"
+    },
+    {
+     "Lang": "UGCLANGUAGE_FRENCH",
+     "Translation": "Démarrage"
+    },
+    {
+     "Lang": "UGCLANGUAGE_GERMAN",
+     "Translation": "Runder Start"
+    },
+    {
+     "Lang": "UGCLANGUAGE_TURKISH",
+     "Translation": "Yuvarlak başlangıç"
+    },
+    {
+     "Lang": "UGCLANGUAGE_HINDI",
+     "Translation": "दौर की शुरुआत"
+    },
+    {
+     "Lang": "UGCLANGUAGE_ROMANIAN",
+     "Translation": "Pornire rotundă"
+    },
+    {
+     "Lang": "UGCLANGUAGE_ARABIC",
+     "Translation": "بداية جولة"
+    },
+    {
+     "Lang": "UGCLANGUAGE_BENGALI",
+     "Translation": "গোল শুরু"
+    }
+   ]
+  },
+  {
+   "Key": "BLUE",
+   "LocList": [
+    {
+     "Lang": "UGCLANGUAGE_ENGLISH",
+     "Translation": "BLUE"
+    },
+    {
+     "Lang": "UGCLANGUAGE_TRADITIONAL_CHINESE",
+     "Translation": "藍色的"
+    },
+    {
+     "Lang": "UGCLANGUAGE_THAI",
+     "Translation": "สีฟ้า"
+    },
+    {
+     "Lang": "UGCLANGUAGE_VIETNAMESE",
+     "Translation": "LAM"
+    },
+    {
+     "Lang": "UGCLANGUAGE_INDONESIA",
+     "Translation": "BIRU"
+    },
+    {
+     "Lang": "UGCLANGUAGE_BRAZILIAN_PORTUGUESE",
+     "Translation": "AZUL"
+    },
+    {
+     "Lang": "UGCLANGUAGE_SPANISH",
+     "Translation": "AZUL"
+    },
+    {
+     "Lang": "UGCLANGUAGE_RUSSIAN",
+     "Translation": "СИНИЙ"
+    },
+    {
+     "Lang": "UGCLANGUAGE_FRENCH",
+     "Translation": "BLEU"
+    },
+    {
+     "Lang": "UGCLANGUAGE_GERMAN",
+     "Translation": "BLAU"
+    },
+    {
+     "Lang": "UGCLANGUAGE_TURKISH",
+     "Translation": "MAVİ"
+    },
+    {
+     "Lang": "UGCLANGUAGE_HINDI",
+     "Translation": "नीला"
+    },
+    {
+     "Lang": "UGCLANGUAGE_ROMANIAN",
+     "Translation": "ALBASTRU"
+    },
+    {
+     "Lang": "UGCLANGUAGE_ARABIC",
+     "Translation": "أزرق"
+    },
+    {
+     "Lang": "UGCLANGUAGE_BENGALI",
+     "Translation": "নীল"
+    }
+   ]
+  },
+  {
+   "Key": "RED",
+   "LocList": [
+    {
+     "Lang": "UGCLANGUAGE_ENGLISH",
+     "Translation": "RED"
+    },
+    {
+     "Lang": "UGCLANGUAGE_TRADITIONAL_CHINESE",
+     "Translation": "紅色的"
+    },
+    {
+     "Lang": "UGCLANGUAGE_THAI",
+     "Translation": "สีแดง"
+    },
+    {
+     "Lang": "UGCLANGUAGE_VIETNAMESE",
+     "Translation": "ĐỎ"
+    },
+    {
+     "Lang": "UGCLANGUAGE_INDONESIA",
+     "Translation": "MERAH"
+    },
+    {
+     "Lang": "UGCLANGUAGE_BRAZILIAN_PORTUGUESE",
+     "Translation": "VERMELHO"
+    },
+    {
+     "Lang": "UGCLANGUAGE_SPANISH",
+     "Translation": "ROJO"
+    },
+    {
+     "Lang": "UGCLANGUAGE_RUSSIAN",
+     "Translation": "КРАСНЫЙ"
+    },
+    {
+     "Lang": "UGCLANGUAGE_FRENCH",
+     "Translation": "ROUGE"
+    },
+    {
+     "Lang": "UGCLANGUAGE_GERMAN",
+     "Translation": "ROT"
+    },
+    {
+     "Lang": "UGCLANGUAGE_TURKISH",
+     "Translation": "KIRMIZI"
+    },
+    {
+     "Lang": "UGCLANGUAGE_HINDI",
+     "Translation": "लाल"
+    },
+    {
+     "Lang": "UGCLANGUAGE_ROMANIAN",
+     "Translation": "ROȘU"
+    },
+    {
+     "Lang": "UGCLANGUAGE_ARABIC",
+     "Translation": "أحمر"
+    },
+    {
+     "Lang": "UGCLANGUAGE_BENGALI",
+     "Translation": "লাল"
+    }
+   ]
+  },
+  {
+   "Key": "PINK",
+   "LocList": [
+    {
+     "Lang": "UGCLANGUAGE_ENGLISH",
+     "Translation": "PINK"
+    },
+    {
+     "Lang": "UGCLANGUAGE_TRADITIONAL_CHINESE",
+     "Translation": "粉色的"
+    },
+    {
+     "Lang": "UGCLANGUAGE_THAI",
+     "Translation": "สีชมพู"
+    },
+    {
+     "Lang": "UGCLANGUAGE_VIETNAMESE",
+     "Translation": "HỒNG"
+    },
+    {
+     "Lang": "UGCLANGUAGE_INDONESIA",
+     "Translation": "MERAH JAMBU"
+    },
+    {
+     "Lang": "UGCLANGUAGE_BRAZILIAN_PORTUGUESE",
+     "Translation": "ROSA"
+    },
+    {
+     "Lang": "UGCLANGUAGE_SPANISH",
+     "Translation": "ROSA"
+    },
+    {
+     "Lang": "UGCLANGUAGE_RUSSIAN",
+     "Translation": "РОЗОВЫЙ"
+    },
+    {
+     "Lang": "UGCLANGUAGE_FRENCH",
+     "Translation": "ROSE"
+    },
+    {
+     "Lang": "UGCLANGUAGE_GERMAN",
+     "Translation": "ROSA"
+    },
+    {
+     "Lang": "UGCLANGUAGE_TURKISH",
+     "Translation": "PEMBE"
+    },
+    {
+     "Lang": "UGCLANGUAGE_HINDI",
+     "Translation": "गुलाबी"
+    },
+    {
+     "Lang": "UGCLANGUAGE_ROMANIAN",
+     "Translation": "ROZ"
+    },
+    {
+     "Lang": "UGCLANGUAGE_ARABIC",
+     "Translation": "لون القرنفل"
+    },
+    {
+     "Lang": "UGCLANGUAGE_BENGALI",
+     "Translation": "গোলাপী"
+    }
+   ]
+  },
+  {
+   "Key": "GREEN",
+   "LocList": [
+    {
+     "Lang": "UGCLANGUAGE_ENGLISH",
+     "Translation": "GREEN"
+    },
+    {
+     "Lang": "UGCLANGUAGE_TRADITIONAL_CHINESE",
+     "Translation": "綠色的"
+    },
+    {
+     "Lang": "UGCLANGUAGE_THAI",
+     "Translation": "สีเขียว"
+    },
+    {
+     "Lang": "UGCLANGUAGE_VIETNAMESE",
+     "Translation": "LỤC"
+    },
+    {
+     "Lang": "UGCLANGUAGE_INDONESIA",
+     "Translation": "HIJAU"
+    },
+    {
+     "Lang": "UGCLANGUAGE_BRAZILIAN_PORTUGUESE",
+     "Translation": "VERDE"
+    },
+    {
+     "Lang": "UGCLANGUAGE_SPANISH",
+     "Translation": "VERDE"
+    },
+    {
+     "Lang": "UGCLANGUAGE_RUSSIAN",
+     "Translation": "ЗЕЛЕНЫЙ"
+    },
+    {
+     "Lang": "UGCLANGUAGE_FRENCH",
+     "Translation": "VERT"
+    },
+    {
+     "Lang": "UGCLANGUAGE_GERMAN",
+     "Translation": "GRÜN"
+    },
+    {
+     "Lang": "UGCLANGUAGE_TURKISH",
+     "Translation": "YEŞİL"
+    },
+    {
+     "Lang": "UGCLANGUAGE_HINDI",
+     "Translation": "हरा"
+    },
+    {
+     "Lang": "UGCLANGUAGE_ROMANIAN",
+     "Translation": "VERDE"
+    },
+    {
+     "Lang": "UGCLANGUAGE_ARABIC",
+     "Translation": "أخضر"
+    },
+    {
+     "Lang": "UGCLANGUAGE_BENGALI",
+     "Translation": "সবুজ"
+    }
+   ]
+  },
+  {
+   "Key": "YELLOW",
+   "LocList": [
+    {
+     "Lang": "UGCLANGUAGE_ENGLISH",
+     "Translation": "YELLOW"
+    },
+    {
+     "Lang": "UGCLANGUAGE_TRADITIONAL_CHINESE",
+     "Translation": "黃色的"
+    },
+    {
+     "Lang": "UGCLANGUAGE_THAI",
+     "Translation": "สีเหลือง"
+    },
+    {
+     "Lang": "UGCLANGUAGE_VIETNAMESE",
+     "Translation": "VÀNG"
+    },
+    {
+     "Lang": "UGCLANGUAGE_INDONESIA",
+     "Translation": "KUNING"
+    },
+    {
+     "Lang": "UGCLANGUAGE_BRAZILIAN_PORTUGUESE",
+     "Translation": "AMARELO"
+    },
+    {
+     "Lang": "UGCLANGUAGE_SPANISH",
+     "Translation": "AMARILLO"
+    },
+    {
+     "Lang": "UGCLANGUAGE_RUSSIAN",
+     "Translation": "ЖЕЛТЫЙ"
+    },
+    {
+     "Lang": "UGCLANGUAGE_FRENCH",
+     "Translation": "JAUNE"
+    },
+    {
+     "Lang": "UGCLANGUAGE_GERMAN",
+     "Translation": "GELB"
+    },
+    {
+     "Lang": "UGCLANGUAGE_TURKISH",
+     "Translation": "SARI"
+    },
+    {
+     "Lang": "UGCLANGUAGE_HINDI",
+     "Translation": "पीला"
+    },
+    {
+     "Lang": "UGCLANGUAGE_ROMANIAN",
+     "Translation": "GALBEN"
+    },
+    {
+     "Lang": "UGCLANGUAGE_ARABIC",
+     "Translation": "أصفر"
+    },
+    {
+     "Lang": "UGCLANGUAGE_BENGALI",
+     "Translation": "হলুদ"
+    }
+   ]
+  },
+  {
+   "Key": "WATER",
+   "LocList": [
+    {
+     "Lang": "UGCLANGUAGE_ENGLISH",
+     "Translation": "WATER IS RISING!"
+    },
+    {
+     "Lang": "UGCLANGUAGE_TRADITIONAL_CHINESE",
+     "Translation": "水正在上升！"
+    },
+    {
+     "Lang": "UGCLANGUAGE_THAI",
+     "Translation": "น้ำกำลังเพิ่มขึ้น!"
+    },
+    {
+     "Lang": "UGCLANGUAGE_VIETNAMESE",
+     "Translation": "MỰC NƯỚC ĐANG DÂNG!"
+    },
+    {
+     "Lang": "UGCLANGUAGE_INDONESIA",
+     "Translation": "Air naik!"
+    },
+    {
+     "Lang": "UGCLANGUAGE_BRAZILIAN_PORTUGUESE",
+     "Translation": "A água está subindo!"
+    },
+    {
+     "Lang": "UGCLANGUAGE_SPANISH",
+     "Translation": "¡El agua está aumentando!"
+    },
+    {
+     "Lang": "UGCLANGUAGE_RUSSIAN",
+     "Translation": "Вода поднимается!"
+    },
+    {
+     "Lang": "UGCLANGUAGE_FRENCH",
+     "Translation": "L'eau augmente!"
+    },
+    {
+     "Lang": "UGCLANGUAGE_GERMAN",
+     "Translation": "Wasser steigt!"
+    },
+    {
+     "Lang": "UGCLANGUAGE_TURKISH",
+     "Translation": "Su yükseliyor!"
+    },
+    {
+     "Lang": "UGCLANGUAGE_HINDI",
+     "Translation": "पानी बढ़ रहा है!"
+    },
+    {
+     "Lang": "UGCLANGUAGE_ROMANIAN",
+     "Translation": "Apa crește!"
+    },
+    {
+     "Lang": "UGCLANGUAGE_ARABIC",
+     "Translation": "الماء يرتفع!"
+    },
+    {
+     "Lang": "UGCLANGUAGE_BENGALI",
+     "Translation": "জল উঠছে!"
+    }
+   ]
+  },
+  {
+   "Key": "ROUND_INFO",
+   "LocList": [
+    {
+     "Lang": "UGCLANGUAGE_ENGLISH",
+     "Translation": "Eliminate all enemies! Watch out, the water is rising!"
+    },
+    {
+     "Lang": "UGCLANGUAGE_TRADITIONAL_CHINESE",
+     "Translation": "消除所有敵人！提防，水正在上升！"
+    },
+    {
+     "Lang": "UGCLANGUAGE_THAI",
+     "Translation": "กำจัดศัตรูทั้งหมด! ระวังน้ำกำลังเพิ่มขึ้น!"
+    },
+    {
+     "Lang": "UGCLANGUAGE_VIETNAMESE",
+     "Translation": "Tiêu Diệt tất cả kẻ dịch! Cẩn thận, mực nước đang dâng"
+    },
+    {
+     "Lang": "UGCLANGUAGE_INDONESIA",
+     "Translation": "Hilangkan semua musuh! Watch out, airnya naik!"
+    },
+    {
+     "Lang": "UGCLANGUAGE_BRAZILIAN_PORTUGUESE",
+     "Translation": "Elimine todos os inimigos! Cuidado, a água está subindo!"
+    },
+    {
+     "Lang": "UGCLANGUAGE_SPANISH",
+     "Translation": "¡Elimina a todos los enemigos! ¡Cuidado, el agua está aumentando!"
+    },
+    {
+     "Lang": "UGCLANGUAGE_RUSSIAN",
+     "Translation": "Устраните всех врагов! Берегись, вода поднимается!"
+    },
+    {
+     "Lang": "UGCLANGUAGE_FRENCH",
+     "Translation": "Éliminez tous les ennemis! Attention, l'eau monte!"
+    },
+    {
+     "Lang": "UGCLANGUAGE_GERMAN",
+     "Translation": "Beseitigen Sie alle Feinde! Pass auf, das Wasser steigt!"
+    },
+    {
+     "Lang": "UGCLANGUAGE_TURKISH",
+     "Translation": "Tüm düşmanları ortadan kaldırın! Dikkat et, su yükseliyor!"
+    },
+    {
+     "Lang": "UGCLANGUAGE_HINDI",
+     "Translation": "सभी दुश्मनों को हटा दें! बाहर देखो, पानी बढ़ रहा है!"
+    },
+    {
+     "Lang": "UGCLANGUAGE_ROMANIAN",
+     "Translation": "Eliminați toți dușmanii! Atenție, apa crește!"
+    },
+    {
+     "Lang": "UGCLANGUAGE_ARABIC",
+     "Translation": "القضاء على جميع الأعداء! احترس ، الماء يرتفع!"
+    },
+    {
+     "Lang": "UGCLANGUAGE_BENGALI",
+     "Translation": "সমস্ত শত্রু দূর করুন! দেখুন, জল উঠছে!"
+    }
+   ]
+  }
+ ]
+}

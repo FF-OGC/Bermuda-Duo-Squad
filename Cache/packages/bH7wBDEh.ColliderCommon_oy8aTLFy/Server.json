@@ -1,0 +1,84 @@
+{
+ "Name": "bH7wBDEh.ColliderCommon_oy8aTLFy",
+ "UUID": "bH7wBDEh.ColliderCommon_oy8aTLFy",
+ "ShareType": "Private",
+ "PackageType": "Custom",
+ "UseableType": "ClientServer",
+ "Platform": "Any",
+ "Version": "1.0.0",
+ "DataFormatVersion": 1,
+ "ResourceList": [
+  {
+   "UUID": "89p60ls4wg4-lpuplinv-ot9169p3iab-2AEtQQyi-collider",
+   "Type": "Collider",
+   "Path": "Assets\\Scene\\Bermuda.scene",
+   "Data": "GkAIARIPDQAAAAAVAAAAAB0AAAAAGg8NAAAAPxUAAAA/HQAAAD8iFA0AAAAAFQAAAAAdAAAAACUAAIA/KAAwAEIA"
+  },
+  {
+   "UUID": "89p60ls4wg4-lpuplinv-ot9169p3iab-b7Y9y8SG-collider",
+   "Type": "Collider",
+   "Path": "Assets\\Scene\\Bermuda.scene",
+   "Data": "GkAIARIPDQAAAAAVAAAAAB0AAAAAGg8NAAAAPxUAAAA/HQAAAD8iFA0AAAAAFQAAAAAdAAAAACUAAIA/KAAwAEIA"
+  },
+  {
+   "UUID": "89p60ls4wg4-lpuplinv-ot9169p3iab-EeamuIEL-collider",
+   "Type": "Collider",
+   "Path": "Assets\\Scene\\Bermuda.scene",
+   "Data": "GkAIARIPDQAAAAAVAAAAAB0AAAAAGg8NAAAAPxUAAAA/HQAAAD8iFA0AAAAAFQAAAAAdAAAAACUAAIA/KAAwAEIA"
+  },
+  {
+   "UUID": "89p60ls4wg4-lpuplinv-ot9169p3iab-J2lP7ZyX-collider",
+   "Type": "Collider",
+   "Path": "Assets\\Scene\\Bermuda.scene",
+   "Data": "GkAIARIPDQAAAAAVAAAAAB0AAAAAGg8NAAAAPxUAAAA/HQAAAD8iFA0AAAAAFQAAAAAdAAAAACUAAIA/KAAwAEIA"
+  },
+  {
+   "UUID": "89p60ls4wg4-lpuplinv-ot9169p3iab-JmgZ3Zai-collider",
+   "Type": "Collider",
+   "Path": "Assets\\Scene\\Bermuda.scene",
+   "Data": "GkAIARIPDQAAAAAVAAAAAB0AAAAAGg8NAAAAPxUAAAA/HQAAAD8iFA0AAAAAFQAAAAAdAAAAACUAAIA/KAAwAEIA"
+  },
+  {
+   "UUID": "89p60ls4wg4-lpuplinv-ot9169p3iab-pwcGO0dE-collider",
+   "Type": "Collider",
+   "Path": "Assets\\Scene\\Bermuda.scene",
+   "Data": "GkAIARIPDQAAAAAVAAAAAB0AAAAAGg8NAAAAPxUAAAA/HQAAAD8iFA0AAAAAFQAAAAAdAAAAACUAAIA/KAAwAEIA"
+  },
+  {
+   "UUID": "89p60ls4wg4-lpuplinv-ot9169p3iab-RCtQ6xTx-collider",
+   "Type": "Collider",
+   "Path": "Assets\\Scene\\Bermuda.scene",
+   "Data": "GkAIARIPDQAAAAAVAAAAAB0AAAAAGg8NAAAAPxUAAAA/HQAAAD8iFA0AAAAAFQAAAAAdAAAAACUAAIA/KAAwAEIA"
+  },
+  {
+   "UUID": "89p60ls4wg4-lpuplinv-ot9169p3iab-SodXpSQq-collider",
+   "Type": "Collider",
+   "Path": "Assets\\Scene\\Bermuda.scene",
+   "Data": "GkAIARIPDQAAAAAVAAAAAB0AAAAAGg8NAAAAPxUAAAA/HQAAAD8iFA0AAAAAFQAAAAAdAAAAACUAAIA/KAAwAEIA"
+  },
+  {
+   "UUID": "89p60ls4wg4-lpuplinv-ot9169p3iab-tVUmcx9s-collider",
+   "Type": "Collider",
+   "Path": "Assets\\Scene\\Bermuda.scene",
+   "Data": "GkAIARIPDQAAAAAVAAAAAB0AAAAAGg8NAAAAPxUAAAA/HQAAAD8iFA0AAAAAFQAAAAAdAAAAACUAAIA/KAAwAEIA"
+  },
+  {
+   "UUID": "89p60ls4wg4-lpuplinv-ot9169p3iab-vVe8eh6s-collider",
+   "Type": "Collider",
+   "Path": "Assets\\Scene\\Bermuda.scene",
+   "Data": "GkAIARIPDQAAAAAVAAAAAB0AAAAAGg8NAAAAPxUAAAA/HQAAAD8iFA0AAAAAFQAAAAAdAAAAACUAAIA/KAAwAEIA"
+  },
+  {
+   "UUID": "89p60ls4wg4-lpuplinv-ot9169p3iab-YymQZl77-collider",
+   "Type": "Collider",
+   "Path": "Assets\\Scene\\Bermuda.scene",
+   "Data": "GkAIARIPDQAAAAAVAAAAAB0AAAAAGg8NAAAAPxUAAAA/HQAAAD8iFA0AAAAAFQAAAAAdAAAAACUAAIA/KAAwAEIA"
+  },
+  {
+   "UUID": "89p60ls4wg4-lpuplinv-ot9169p3iab-ZA2EXvMf-collider",
+   "Type": "Collider",
+   "Path": "Assets\\Scene\\Bermuda.scene",
+   "Data": "GkAIARIPDQAAAAAVAAAAAB0AAAAAGg8NAAAAPxUAAAA/HQAAAD8iFA0AAAAAFQAAAAAdAAAAACUAAIA/KAAwAEIA"
+  }
+ ]
+}
